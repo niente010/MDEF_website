@@ -1,7 +1,6 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../LOGO_BT.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+I'm Nicolò Baldi, Designer and Photographer born in 1999. 
+After graduating in Product Design at University of Bologna, I'm now part of Master in Design for Emergent Futures at IaaC in Barcelona. This virtual space is dedicated to insights and the process behind my projects here. **[my website](https://community.emergentfutures.io/courses/5566525/content)**
