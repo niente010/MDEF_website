@@ -1,3 +1,8 @@
-#00. LANDING [03-10]
+---
+hide:
+    - toc
+---
+
+#00. LANDING
 
 First week in IaaC! 
