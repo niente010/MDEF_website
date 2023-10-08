@@ -28,18 +28,15 @@ nav:
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/
+      link: "https://www.instagram.com/nicolo.baldi_/"
     - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/"
+      link: "https://www.linkedin.com/in/nicol%C3%B2baldi"
     - icon: fontawesome/brands/github
-      link: "https://github.com/"
+      link: "https://github.com/niente010"
 
 theme:
+  scheme: slate
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
@@ -51,7 +48,7 @@ theme:
     code: Cutive Mono
   icon:
     logo: material/memory
-  favicon: images/favicon.svg
+  favicon: LOGO_BT.png
   features:
     - instant
     - navigation.expand
