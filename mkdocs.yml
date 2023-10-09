@@ -47,9 +47,8 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: JetBrains Mono
     code: Cutive Mono
-  icon:
-    logo: ../images/LOGO_BT.png
-  favicon: ../images/LOGO_BT.png
+    logo: images/LOGO_BT.png
+  favicon: images/LOGO_BT.png
   features:
     - instant
     - navigation.expand
