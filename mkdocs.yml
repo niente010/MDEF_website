@@ -37,12 +37,12 @@ extra:
       link: "https://github.com/niente010"
 
 theme:
-  # name: material
+  name: material
   palette:
     scheme: slate
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-  #  primary: indigo
-  #  accent: indigo
+    primary: indigo
+    accent: indigo
   font:
     # See available fonts at https://fonts.google.com/
     text: JetBrains Mono
