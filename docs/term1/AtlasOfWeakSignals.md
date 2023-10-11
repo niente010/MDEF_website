@@ -8,7 +8,7 @@ hide:
 !!! info ""
     10-10-23
 
-## Weak Signals and Design Space
+## ==Weak Signals and Design Space==
 
 Weak signals are an early indicator of change, a small inflection that has the potential to evolve into something more influential.
 Weak Signals can help in identifying our own ==Design Space==: a navigational tool in the design practice to ground directions.
