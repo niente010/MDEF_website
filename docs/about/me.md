@@ -1,6 +1,6 @@
 # About
 
-![Nicolò Baldi Logo](images/LOGO_BT.png)
+![Nicolò Baldi Logo](../images/LOGO_BT.png)
 
 
 I'm Nicolò Baldi, ==Designer== and ==Photographer== born in 1999. 
