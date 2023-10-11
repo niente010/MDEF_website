@@ -15,7 +15,6 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Landing: term1/landing.md
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
 
@@ -101,10 +100,17 @@ markdown_extensions:
   - pymdownx.snippets:
       base_path: 'docs'
   - pymdownx.superfences
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.tilde
   - attr_list
+  - tables
   - pymdownx.tabbed
 
 extra_css:
