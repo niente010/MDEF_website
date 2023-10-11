@@ -16,12 +16,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://niente010.github.io/MDEF_website/term1/01-Bootcamp/</loc>
+         <loc>https://niente010.github.io/MDEF_website/term1/AtlasOfWeakSignals/</loc>
          <lastmod>2023-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://niente010.github.io/MDEF_website/term1/02-Atlas%20of%20Weak%20Signals/</loc>
+         <loc>https://niente010.github.io/MDEF_website/term1/DesignStudio01/</loc>
+         <lastmod>2023-10-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niente010.github.io/MDEF_website/term1/DocumentingDesign/</loc>
+         <lastmod>2023-10-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://niente010.github.io/MDEF_website/term1/Landing/</loc>
          <lastmod>2023-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
