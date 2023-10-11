@@ -12,7 +12,7 @@ nav:
   - Home: index.md
   - About: about/me.md
   - Master Project:
-      - Initial ideas: project/project.md
+      - Initial Ideas: project/project.md
   - Reflections :
       - Term 1:
           - Landing: term1/Landing.md

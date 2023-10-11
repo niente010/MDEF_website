@@ -5,7 +5,7 @@ hide:
 
 # Atlas of Weak Signals
 
-!!! note ""
+!!! info ""
     10-10-23
 
 ## Weak Signals and Design Space
@@ -23,3 +23,10 @@ The key roles of Design Space:
 - ==INSPIRATIONAL==
 
 The goal is to translate this ==abstract weak signals== into ==actual emergent realities==.
+
+sequenceDiagram
+    participant Situating
+    participant Organizational
+    participant Narrative
+    participant Performative/Participative
+    participant Inspirational
