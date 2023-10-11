@@ -5,6 +5,21 @@ hide:
 
 # Atlas of Weak Signals
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+!!! note ""
+    10-10-23
 
-![](../images/MT01/scorpio_blow.jpg)
+## Weak Signals and Design Space
+
+Weak signals are an early indicator of change, a small inflection that has the potential to evolve into something more influential.
+Weak Signals can help in identifying our own ==Design Space==: a navigational tool in the design practice to ground directions.
+The Design Space is a ==visual collection== of projects, references, case studies, materials, used to define ideas and create links.
+
+The key roles of Design Space:
+
+- ==SITUATING==: understand the surroundings and allowing links within to arise.
+- ==ORGANIZATIONAL==: reducing complexity, trying to make sense and see which connections arise.
+- ==NARRATIVE==: understand your own narrative.
+- ==PERFORMATIVE or PARTICIPATIVE==: performative as giving feedback to oneself and participative as combining design spaces.
+- ==INSPIRATIONAL==
+
+The goal is to translate this ==abstract weak signals== into ==actual emergent realities==.
