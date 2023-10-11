@@ -24,9 +24,11 @@ The key roles of Design Space:
 
 The goal is to translate this ==abstract weak signals== into ==actual emergent realities==.
 
+``` mermaid
 sequenceDiagram
     participant Situating
     participant Organizational
     participant Narrative
     participant Performative/Participative
     participant Inspirational
+```
