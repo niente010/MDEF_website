@@ -11,19 +11,14 @@ repo_url: 'https://github.com/niente010/MDEF_website'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master project:
+  - Master Project:
       - Initial ideas: project/project.md
   - Reflections :
       - Term 1:
-          - Bootcamp: term1/01-Bootcamp.md
-          - AoWS: term1/02-Atlas of Weak Signals.md
-
-      - Term 2:
-          - digi: term1/01-Bootcamp.md
-          - studio: term1/01-Bootcamp.md
-
-
-
+          - Landing: term1/Landing.md
+          - AoWS: term1/AtlasOfWeakSignals.md
+          - Design Studio 01: term1/DesignStudio01.md
+          - Documenting Design: term1/DocumentingDesign.md
 
 extra:
   social:
