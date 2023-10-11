@@ -4,7 +4,7 @@ site_description: Master in Design for Emergent Futures
 site_author: Nicolò Baldi
 copyright: Copyleft 2023 "Nicolò Baldi" - GNU Free Documentation License
 repo_name: 'MDEF Repository'
-site_url: https://fablabbcn.github.io/mdef-template/
+site_url: https://niente010.github.io/MDEF_website/
 repo_url: 'https://github.com/niente010/MDEF_website'
 
 
@@ -40,8 +40,6 @@ theme:
   palette:
     scheme: slate
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    #primary: indigo
-    #accent: indigo
   font:
     # See available fonts at https://fonts.google.com/
     text: JetBrains Mono
