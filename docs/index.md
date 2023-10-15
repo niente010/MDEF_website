@@ -1,3 +1,2 @@
-## Welcome
 
-![](/images/LOGO.png)
+![](images/LOGO.png)

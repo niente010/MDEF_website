@@ -2,7 +2,9 @@
 
 !!! info 
     Faculty: Jana Tothill, Roger Guilemany 
+    
     Calendar: 09-10 → 15-10
+    
     Track: Reflection
 
 
@@ -21,6 +23,8 @@ The key roles of Design Space:
 - ==INSPIRATIONAL==
 
 The goal is to translate this abstract weak signals into actual emergent realities.
+
+!!! note ""
 
 ## ==Personal AoWS==
 
@@ -47,7 +51,11 @@ Through this operation, I've come to realize how these few cards were able to en
     ![Suggestions for the Deck](../images/AOWS_03.jpg)
 
     From the considerations that emerged, I identified two new suggestions for the deck:
-    =="Technology at non-humans service"== is an invitation to de-anthropocentric design in which machines coexist with the whole biosphere. =="Biodesign"==, on the other hand, is a stimulus for interdisciplinary design aimed at crossing the boundary between design and natural sciences.
+    =="Technology at non-humans service"== is an invitation to de-anthropocentric design in which machines coexist with the whole biosphere.
+    =="Biodesign"==, on the other hand, is a stimulus for interdisciplinary design aimed at crossing the boundary between design and natural sciences.
+
+
+!!! note ""
 
 
 ## ==Multiscalar Personal Design Space==
@@ -56,6 +64,7 @@ Through this operation, I've come to realize how these few cards were able to en
 
 The creation of a Design Space starts in definying the multiscalar consciusness of ourselves.
 How do we relate to the ==wide and complex network== that defines our values and our design practice? 
+
 To orientate in between this interconnections, elements in the Design Space are subdivided in:
 
 - ==CONCEPTS & THEMES==: Weak Signals
@@ -64,3 +73,4 @@ To orientate in between this interconnections, elements in the Design Space are 
 - ==MATERIALS & RESOURCES==
 - ==TECHNOLOGIEs & METHODOLOGIES==
 - ==AREAS OF OPPORTUNITY==: Possible complementary contexts for design interventions.
+ 
