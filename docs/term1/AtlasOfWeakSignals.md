@@ -19,7 +19,7 @@ The key roles of Design Space:
 
 The goal is to translate this ==abstract weak signals== into ==actual emergent realities==.
 
-## Personal AoWS
+## ==Personal AoWS==
 
 ![Identifying my Personal AoWs Part 1](../images/AOWS_01.jpg)
 
@@ -39,8 +39,8 @@ Through this operation, I've come to realize how these few cards were able to en
 ![Personal AoWs](../images/PAOWS.jpg)
 
 
-
-### New Suggestions
+!!! info ""
+    ### New Suggestions
 From the considerations that emerged, I identified two new suggestions for the deck:
 
 
@@ -49,3 +49,18 @@ From the considerations that emerged, I identified two new suggestions for the d
 
 - =="Technology at non-humans service"== is an invitation to de-anthropocentric design in which machines coexist with the whole biosphere.
 - =="Biodesign"==, on the other hand, is a stimulus for interdisciplinary design aimed at crossing the boundary between design and natural sciences.
+
+## ==Multiscalar Personal Design Space==
+
+![Multiscalar Personal Design Space](../images/AOWS_03.jpg)
+
+The creation of a Design Space starts in definying the multiscalar consciusness of ourselves.
+How do we relate to the ==wide and complex network== that defines our values and our design practice? 
+To orientate in between this interconnections, elements in the Design Space are subdivided in:
+
+- ==CONCEPTS & THEMES==: Weak Signals
+- ==STATE OF THE ART==: References, case studies and people.
+- ==INFRASTRUCTURE & EXTENDED WORKSPACE==: What elements do I dispose in order to develop my design interventions? 
+- ==MATERIALS & RESOURCES==
+- ==TECHNOLOGIE & METHODOLOGIES===
+- ==AREAS OF OPPORTUNITY==: Possible complementary contexts for design interventions.
