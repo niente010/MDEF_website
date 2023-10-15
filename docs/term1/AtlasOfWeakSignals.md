@@ -46,8 +46,7 @@ Through this operation, I've come to realize how these few cards were able to en
 ![Personal AoWs](../images/PAOWS.jpg)
 
 
-!!! info ""
-    ### New Suggestions
+???+ note "New Suggestions"
     ![Suggestions for the Deck](../images/AOWS_03.jpg)
 
     From the considerations that emerged, I identified two new suggestions for the deck:
@@ -56,6 +55,7 @@ Through this operation, I've come to realize how these few cards were able to en
 
 
 !!! note ""
+
 
 
 ## ==Multiscalar Personal Design Space==
