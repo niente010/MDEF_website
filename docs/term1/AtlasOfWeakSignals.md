@@ -26,14 +26,23 @@ The goal is to translate this ==abstract weak signals== into ==actual emergent r
 
 ## Personal AoWS
 
-![AoWS1](https://drive.google.com/file/d/1bjzsKao975yrCLqejRKFjrDSqF8l8ViZ/view?usp=sharing)
+![Identifying my Personal AoWs Part 1](../images/AOWS_01.jpg)
 
 The process that led to the identification of my personal Weak Signals was one of ==de-constructing==. 
 Since the cards proved to be very stimulating, using a ==multi-step== methodology turned fundamental to synthesize just a few key concepts. 
 For this reason, I first decided to lay all the cards on the table, analyzing them individually. Often, it was necessary to delve deeper into the meaning of some in order to understand them more accurately. Therefore, I proceeded by gradually ==flipping over== the cards that was less relevant for my vision. 
 
-![AoWS1](https://drive.google.com/file/d/1ZmOisbdZOyddxG8HCMpdujP7F-mGBTZ7/view?usp=sharing)
+![Identifying my Personal AoWs Part 2](../images/AOWS_02.jpg)
 
 Card by card, I was able to first identify the 2 Weak Signals, then move on to the 3 Areas of Opportunity, and finally, the 2 Random Triggers. 
 Through this operation, I've come to realize how these few cards were able to encapsulate a significant part of my ethos, and how their combination could generate a multitude of ideas.
 
+![Personal AoWs](../images/PAOWS.jpg)
+
+From the considerations that emerged, I identified two new suggestions for the deck:
+
+![TaNHS Card](../images/Trigger_Technology at non-human service.jpg) { align=left }
+![Biodesgin Card](../images/Trigger_Biodesign.jpg){ align=left }
+
+- =="Technology at non-humans service"== is an invitation to de-anthropocentric design in which machines coexist with the whole biosphere.
+- =="Biodesign"==, on the other hand, is a stimulus for interdisciplinary design aimed at crossing the boundary between design and natural sciences.
