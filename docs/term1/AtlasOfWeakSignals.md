@@ -17,7 +17,7 @@ The key roles of Design Space:
 - ==PERFORMATIVE or PARTICIPATIVE==: performative as giving feedback to oneself and participative as combining design spaces.
 - ==INSPIRATIONAL==
 
-The goal is to translate this ==abstract weak signals== into ==actual emergent realities==.
+The goal is to translate this abstract weak signals into actual emergent realities.
 
 ## ==Personal AoWS==
 
@@ -41,18 +41,15 @@ Through this operation, I've come to realize how these few cards were able to en
 
 !!! info ""
     ### New Suggestions
-From the considerations that emerged, I identified two new suggestions for the deck:
+    From the considerations that emerged, I identified two new suggestions for the deck:
+    ![Suggestions for the Deck](../images/AOWS_03.jpg)
+    - =="Technology at non-humans service"== is an invitation to de-anthropocentric design in which machines coexist with the whole biosphere.
+    - =="Biodesign"==, on the other hand, is a stimulus for interdisciplinary design aimed at crossing the boundary between design and natural sciences.
 
-
-![Suggestions for the Deck](../images/AOWS_03.jpg)
-
-
-- =="Technology at non-humans service"== is an invitation to de-anthropocentric design in which machines coexist with the whole biosphere.
-- =="Biodesign"==, on the other hand, is a stimulus for interdisciplinary design aimed at crossing the boundary between design and natural sciences.
 
 ## ==Multiscalar Personal Design Space==
 
-![Multiscalar Personal Design Space](../images/AOWS_03.jpg)
+![Multiscalar Personal Design Space](../images/MSPDS.jpg)
 
 The creation of a Design Space starts in definying the multiscalar consciusness of ourselves.
 How do we relate to the ==wide and complex network== that defines our values and our design practice? 
