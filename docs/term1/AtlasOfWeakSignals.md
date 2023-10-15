@@ -1,7 +1,10 @@
 # Atlas of Weak Signals
 
-!!! info ""
-    10-10-23
+!!! info 
+    Faculty: Jana Tothill, Roger Guilemany 
+    Calendar: 09-10 → 15-10
+    Track: Reflection
+
 
 ## ==Weak Signals and Design Space==
 
@@ -41,10 +44,10 @@ Through this operation, I've come to realize how these few cards were able to en
 
 !!! info ""
     ### New Suggestions
-    From the considerations that emerged, I identified two new suggestions for the deck:
     ![Suggestions for the Deck](../images/AOWS_03.jpg)
-    - =="Technology at non-humans service"== is an invitation to de-anthropocentric design in which machines coexist with the whole biosphere.
-    - =="Biodesign"==, on the other hand, is a stimulus for interdisciplinary design aimed at crossing the boundary between design and natural sciences.
+
+    From the considerations that emerged, I identified two new suggestions for the deck:
+    =="Technology at non-humans service"== is an invitation to de-anthropocentric design in which machines coexist with the whole biosphere. =="Biodesign"==, on the other hand, is a stimulus for interdisciplinary design aimed at crossing the boundary between design and natural sciences.
 
 
 ## ==Multiscalar Personal Design Space==
@@ -59,5 +62,5 @@ To orientate in between this interconnections, elements in the Design Space are 
 - ==STATE OF THE ART==: References, case studies and people.
 - ==INFRASTRUCTURE & EXTENDED WORKSPACE==: What elements do I dispose in order to develop my design interventions? 
 - ==MATERIALS & RESOURCES==
-- ==TECHNOLOGIE & METHODOLOGIES===
+- ==TECHNOLOGIEs & METHODOLOGIES==
 - ==AREAS OF OPPORTUNITY==: Possible complementary contexts for design interventions.
