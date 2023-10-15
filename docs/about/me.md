@@ -1,6 +1,6 @@
 # About
 
-![](docs/images/LOGO_BT.png)
+![](../images/LOGO_BT.png)
 
 !!! info "Nicolò Baldi"
 
