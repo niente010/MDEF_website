@@ -7,10 +7,10 @@
 
 ## ==1PP Design Interventions==
 
-- Experiential
-- Crafting
-- Augmenting
-- Socio-Political
+- ==EXPERIENTIAL==
+- ==CRAFTING==
+- ==AUGMENTING==
+- ==SOCIO-POLITICAL==
 
 However, the challenges could be working with materials at hand and putting yourself at risk, dealing with ==real world complexity==.
 
@@ -18,7 +18,11 @@ However, the challenges could be working with materials at hand and putting your
 
 ## Roles of Prototyping
 
-1. The prototype as an experimental component: hypotheses physically embedded in the artifact.
-2. The prototype as a means of inquiry: an instrument to collect, record and measure phenomena. in relation with other people.
-3. Thep prototype as a research archetype: physical embodiment of concept.
-4. The process of prototyping as a vehicle for iniquiry.
+1. The <u>prototype</u> as an ==EXPERIMENTAL COMPONENT==: hypotheses physically embedded in the artifact.
+2. The <u>prototype</u> as a ==MEANS OF INQUIRY==: an instrument to collect, record and measure phenomena. in relation with other people.
+3. The <u>prototype</u> as a ==RESEARCH ARCHETYPE==: physical embodiment of concept.
+4. The <u> process of prototyping </u> as a ==VEHICLE FOR INQUIRY==.
+
+!!! note ""
+
+## Extended Workspace

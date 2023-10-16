@@ -1,9 +1,11 @@
 # Atlas of Weak Signals
 
 !!! info 
-    **Faculty**: Jana Tothill, Roger Guilemany 
-    **Calendar**: 09-10 → 15-10
-    **Track**: Reflection
+    ==FACULTY==: Jana Tothill, Roger Guilemany
+
+    ==CALENDAR==: 09-10 → 15-10
+
+    ==TRACK==: Reflection
 
 
 ## ==Weak Signals and Design Space==
@@ -43,7 +45,7 @@ Through this operation, I've come to realize how these few cards were able to en
 
 
 ![Personal AoWs](../images/PAOWS.jpg)
-click **[here](https://arc.net/e/1B9CBD1A-605D-4D04-BBA9-039BFF75691F)** to navigate the AoWS.
+**[Click here](https://arc.net/e/1B9CBD1A-605D-4D04-BBA9-039BFF75691F)** to navigate the AoWS.
 
 ??? note "New Suggestions"
     ![Suggestions for the Deck](../images/AOWS_03.jpg)
@@ -70,7 +72,8 @@ To orientate in between this interconnections, elements in the Design Space are 
 - ==TECHNOLOGIES & METHODOLOGIES==
 - ==AREAS OF OPPORTUNITY==: Possible complementary contexts for design interventions.
 
-click **[here](https://arc.net/e/1A9045F9-656D-42BA-BCFC-90D1D739C62E)** to navigate the Multiscalar Personal Design Space.
+
+**[Click here](https://arc.net/e/1A9045F9-656D-42BA-BCFC-90D1D739C62E)** to navigate the Multiscalar Personal Design Space.
 
 !!! note ""
 
@@ -78,4 +81,6 @@ click **[here](https://arc.net/e/1A9045F9-656D-42BA-BCFC-90D1D739C62E)** to navi
 
 ![Design Space](../images/DesignSpace.jpg)
 
-click **[here](https://arc.net/e/A0D1387E-5784-42C5-90FF-E6BCB186F61C)** to navigate the Multiscalar Personal Design Space.
+Once having outlined a global overview of my personal design practice, it’s now crucial to refine and organize these principles to define an integrated visualization. This approach aims to interlink each principle, allowing for a seamless flow and a quick, intuitive grasp of the various thematic connections. Now the Design Space is also enriched with case studies and concepts, that might soon evolve in ==Design Interventions==.
+
+**[Click here](https://arc.net/e/A0D1387E-5784-42C5-90FF-E6BCB186F61C)** to navigate my Design Space.
