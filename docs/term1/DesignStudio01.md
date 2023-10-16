@@ -1,9 +1,11 @@
 #Design Studio 01
 
 !!! info 
-    **Faculty**: Jana Tothill, Roger Guilemany 
-    **Calendar**: 09-10 → ...
-    **Track**: Application
+    ==FACULTY==: Jana Tothill, Roger Guilemany 
+
+    ==CALENDAR== 09-10 → ...
+
+    ==TRACK==: Application
 
 ## ==1PP Design Interventions==
 
@@ -16,7 +18,7 @@ However, the challenges could be working with materials at hand and putting your
 
 !!! note ""
 
-## Roles of Prototyping
+## ==Roles of Prototyping==
 
 1. The <u>prototype</u> as an ==EXPERIMENTAL COMPONENT==: hypotheses physically embedded in the artifact.
 2. The <u>prototype</u> as a ==MEANS OF INQUIRY==: an instrument to collect, record and measure phenomena. in relation with other people.
@@ -25,4 +27,9 @@ However, the challenges could be working with materials at hand and putting your
 
 !!! note ""
 
-## Extended Workspace
+## ==Extended Workspace==
+
+!!! bug 
+    ...Work in Progress...
+
+!!! note ""
