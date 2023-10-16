@@ -43,7 +43,7 @@ Through this operation, I've come to realize how these few cards were able to en
 
 
 ![Personal AoWs](../images/PAOWS.jpg)
-
+click **[here](https://arc.net/e/1B9CBD1A-605D-4D04-BBA9-039BFF75691F)** to navigate the AoWS.
 
 ??? note "New Suggestions"
     ![Suggestions for the Deck](../images/AOWS_03.jpg)
@@ -67,7 +67,15 @@ To orientate in between this interconnections, elements in the Design Space are 
 - ==STATE OF THE ART==: References, case studies and people.
 - ==INFRASTRUCTURE & EXTENDED WORKSPACE==: What elements do I dispose in order to develop my design interventions? 
 - ==MATERIALS & RESOURCES==
-- ==TECHNOLOGIEs & METHODOLOGIES==
+- ==TECHNOLOGIES & METHODOLOGIES==
 - ==AREAS OF OPPORTUNITY==: Possible complementary contexts for design interventions.
- 
+
+click **[here](https://arc.net/e/1A9045F9-656D-42BA-BCFC-90D1D739C62E)** to navigate the Multiscalar Personal Design Space.
+
 !!! note ""
+
+## ==Design Space==
+
+![Design Space](../images/DesignSpace.jpg)
+
+click **[here](https://arc.net/e/A0D1387E-5784-42C5-90FF-E6BCB186F61C)** to navigate the Multiscalar Personal Design Space.
