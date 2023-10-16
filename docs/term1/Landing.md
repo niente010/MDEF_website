@@ -1,7 +1,7 @@
 # Landing
 
 !!! info inline
-    ==FACULTY== Tomas Diez, Laura Benitez
+    ==FACULTY==: Tomas Diez, Laura Benitez
 
     ==CALENDAR==: 02-10 → 08-10
 

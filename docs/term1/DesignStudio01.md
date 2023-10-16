@@ -3,10 +3,11 @@
 !!! info inline
     ==FACULTY==: Jana Tothill, Roger Guilemany 
 
-    ==CALENDAR== 09-10 → ...
+    ==CALENDAR==: 09-10 → ...
 
     ==TRACK==: Application
 
+<div style="clear:both;"></div>
 <div style="clear:both;"></div>
 
 ## ==1PP Design Interventions==
