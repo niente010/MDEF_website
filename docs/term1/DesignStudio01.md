@@ -7,6 +7,8 @@
 
     ==TRACK==: Application
 
+<div style="clear:both;"></div>
+
 ## ==1PP Design Interventions==
 
 - ==EXPERIENTIAL==
