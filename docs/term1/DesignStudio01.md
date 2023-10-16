@@ -1,6 +1,6 @@
 #Design Studio 01
 
-!!! info 
+!!! info inline
     ==FACULTY==: Jana Tothill, Roger Guilemany 
 
     ==CALENDAR== 09-10 → ...
