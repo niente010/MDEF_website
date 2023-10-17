@@ -1,4 +1,4 @@
-# ==Documenting Design==
+# Documenting Design
 
 !!! info inline
     ==FACULTY==: Josep Marti, Pablo Zunaga 

@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # About
 
 ![](../images/LOGO.png)
