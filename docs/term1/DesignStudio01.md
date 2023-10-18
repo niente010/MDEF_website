@@ -10,7 +10,7 @@
 <div style="clear:both;"></div>
 <div style="clear:both;"></div>
 
-## 1PP Design Interventions
+## **1PP Design Interventions**
 
 - ==EXPERIENTIAL==
 - ==CRAFTING==
@@ -21,7 +21,7 @@ However, the challenges could be working with materials at hand and putting your
 
 !!! note ""
 
-## Roles of Prototyping
+## **Roles of Prototyping**
 
 1. ==THE PROTOTYPE AS AN EXPERIMENTAL COMPONENT==: 
 Hypotheses physically embedded in the artifact.
@@ -39,28 +39,28 @@ The process is documented, analysed, critically assessed and written up, and the
 
 !!! note ""
 
-## Roles of Prototyping [Personal Experience]
+## **Roles of Prototyping [Personal Experience]**
 
-![](../images/zigo-_prototype.png)
+<!--> ![](../images/zigo-_prototype.png) -->
 
 1. ==**ZIGO-** → THE PROTOTYPE AS AN EXPERIMENTAL COMPONENT==:
 ZIGO- is a rehabilitation program    focused on hand injuries, where the central component is the homonymous controller, which allows finger contractions with varying resistance levels tailored to the patient’s condition. Accompanied by a videogame experience, the device facilitates consistent exercise and enables doctors to monitor rehabilitation progress. <div></div> Prototyping has been a fundamental tool that allowed to refine the product design and functionality. Through multiple iterations, we were able to identify the optimal shape, based on hand grip and considerating the respective percentiles. 
 **[Click here](https://nicolobaldi.com/ZIGO)** to visit ZIGO-'s page.
 
-![](../images/IMB_J8e4LU.GIF)
+<!--![](../images/IMB_J8e4LU.GIF) -->
 
 2. ==**GAIA** → THE PROTOTYPE AS A MEANS OF INQUIRY==:
 GAIA was conceived in a workshop led by Marisa Satsia, focused on Soft Robotics. This prototype is intended to represent a hybrid breathing entity, crafted from a fusion of bioplastic and electronic circuits. <div></div>
 Adopting principles from the field of Soft Robotics, the prototype aims to inquire our perception of technology, examining the interconnectedness of synthetic and organic elements, offering a thought-provoking perspective on the evolution of technology and its integration with organic matter
 **[Click here](https://www.instagram.com/p/CxLCxMMI7XF/?utm_source=ig_web_copy_link)** to visit GAIA's page.
 
-![](../images/mimesi_prototype.jpeg)
+<!--![](../images/mimesi_prototype.jpeg)-->
 
 3.  ==**MI·MÈ·SI** → THE PROTOTYPE AS A RESEARCH ARCHETYPE==:
 MI·MÈ·SI is a research centered aroundthe combination of diverse materials, aimed at renew traditional artisanal practices for adaptation to contemporary contexts. Driven by a multitude of experiments, the role of the final artifacts was not to define end-products, instead, it focused on their potential (especially in terms of visual communication) to showcase the potential of the research. 
 **[Click here](https://nicolobaldi.com/MI-ME-SI)** to visit MI·MÈ·SI's page.
 
-![](../images/DSC_9708.jpg)
+<!--![](../images/DSC_9708.jpg)-->
 
 4. ==**SPIRA** → THE PROCESS OF PROTOTYPING AS A VEHICLE FOR INQUIRY==:
 During the development of SPIRA the goal was to fabricate closed chambers from upcycled plastic sheets, which would serve as habitats for microalgae cultivation. This aim was achieved through the use of a laser cutting machine to weld the sheets, employing a technique derived from the field of Soft Robotics. Given that this method has been sparsely documented and experimented with, the prototyping phase was all about exploration. <div></div>
@@ -71,7 +71,7 @@ These trials and adjustments (and their documentation) helped to understand the 
 
 !!! note ""
 
-## Extended Workspace
+## **Extended Workspace**
 
 ![](../images/EW0.png)
 

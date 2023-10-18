@@ -9,20 +9,20 @@
 
 <div style="clear:both;"></div>
 
-## ==Weak Signals and Design Space==
+## **Weak Signals and Design Space**
 
 Weak signals are an early indicator of change, a small inflection that has the potential to evolve into something more influential.
 Weak Signals can help in identifying our own ==Design Space==: a navigational tool in the design practice to ground directions.
 
 !!! note ""
 
-## ==Collective Exercise==
+## **Collective Exercise**
 
 ![Collective Exercise](../images/AOWS_00.jpg)
 
 !!! note ""
 
-## ==Personal AoWS==
+## **Personal AoWS**
 
 ![Identifying my Personal AoWs Part 1](../images/AOWS_01.jpg)
 
@@ -52,7 +52,7 @@ Through this operation, I've come to realize how these few cards were able to en
 
 !!! note ""
 
-## ==Multiscalar Personal Design Space==
+## **Multiscalar Personal Design Space**
 
 ![Multiscalar Personal Design Space](../images/MSPDS.jpg)
 
@@ -73,7 +73,7 @@ To orientate in between this interconnections, elements in the Design Space are 
 
 !!! note ""
 
-## ==Design Space==
+## **Design Space**
 
 The Design Space is a ==visual collection== of projects, references, case studies, materials, used to define ideas and create links.
 
