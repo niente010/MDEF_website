@@ -7,9 +7,6 @@
 
     ==TRACK==: Application
 
-<div style="clear:both;"></div>
-<div style="clear:both;"></div>
-
 ## **1PP Design Interventions**
 
 - ==EXPERIENTIAL==
@@ -23,16 +20,16 @@ However, the challenges could be working with materials at hand and putting your
 
 ## **Roles of Prototyping**
 
-1. ==THE PROTOTYPE AS AN EXPERIMENTAL COMPONENT==: 
+1. ==THE PROTOTYPE AS AN EXPERIMENTAL COMPONENT==<br></br>
 Hypotheses physically embedded in the artifact.
 
-2. ==THE PROTOTYPE AS A MEANS OF INQUIRY==:
+2. ==THE PROTOTYPE AS A MEANS OF INQUIRY==<br></br>
 An instrument to collect, record and measure phenomena. 
 
-3. ==THE PROTOTYPE AS A RESEARCH ARCHETYPE==:
+3. ==THE PROTOTYPE AS A RESEARCH ARCHETYPE==<br></br>
 Research archetypes are physical embodiments of concepts, understandings or design spaces. These prototypes are principally exemplary and illustrative, even (and especially) when they are exposing confrontational or contradictory scenarios.
 
-4. ==THE PROCESS OF PROTOTYPING AS A VEHICLE FOR INQUIRY==:
+4. ==THE PROCESS OF PROTOTYPING AS A VEHICLE FOR INQUIRY==<br></br>
 The process of making a prototype is instrumental in doing design research.
 In these role, the process becomes a means of inquiry, akin to a research method.
 The process is documented, analysed, critically assessed and written up, and the research contribution is tied not to the artefact itself as much as to how the artefact was crafted.
@@ -81,11 +78,12 @@ Sophie's project embeds a broader analysis on communication and the utilization 
 After discussing the project together with Sophie, we became aware of the ==opacity== surrounding the way social media curate information for users. These algorithms, which shape our perceptions of news, politics, and culture, operate within a =="black box"==, making it challenging for users to decrypt their working. 
 The connections between pieces of information, and the reasons why certain elements are prioritized over others, remain concealed.
 
-![](../images/SophieProject2.jpg)
+<img src="../images/SophieProject2.jpg" align="left" />
 
 To address this, we conceived the idea of a ==browser add-on==, powered by AI, that can ==deconstruct the interface of social networks==. 
 This tool would serve as an ==overlay==, providing insights into why a particular tweet, post, or comment is presented to the user. 
 Contrary to the common belief that social media and technology are neutral entities, our tool aims to shed light on the underlying biases and conflicts. This would be crucial to emphasize a more transparent relationship between users and digital media.
+
 This tool aligns more with the ==2nd Role of Prototyping==, as its primary goal is to reveal the underlying phenomena users encounter during their use of social media. 
 
 !!! note ""
