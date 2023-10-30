@@ -39,8 +39,9 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: JetBrains Mono
     code: Cutive Mono
-    logo: docs/images/LOGO.png
-  favicon: docs/images/LOGO.png
+  
+  logo: docs/images/NB_Logo.png
+  favicon: docs/images/NB_Logo.png
   features:
     - instant
     - navigation.expand
