@@ -40,8 +40,8 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: JetBrains Mono
     code: Cutive Mono
-  logo: images/NB_Logo.png
-  favicon: images/NB_Logo.png
+  logo: images/NB_LogoIcon.png
+  favicon: images/NB_LogoIcon.png
   features:
     - instant
     - navigation.expand
