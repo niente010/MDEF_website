@@ -3,11 +3,13 @@
 #The Machine Paradox
 
 !!! info inline
-    ==FACULTY==: <br></br>Santiago Fuentemilla Garriga<br></br>Oscar Gonzalez<br></br>Josep Marti<br></br>Petra Garajová 
+    ==FACULTY==: Santiago Fuentemilla Garriga, Oscar Gonzalez, Josep Marti, Petra Garajová 
 
     ==CALENDAR==: 16-10 → 28-10
 
     ==TRACK==: Instrumentation
+
+<div style="clear:both;"></div>
 
 !!! bug 
     ...Work in Progress...
