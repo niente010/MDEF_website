@@ -3,4 +3,4 @@ hide:
     - toc
 ---
 
-![](images/LOGO.png)
+![](images/NB_Logo.png)

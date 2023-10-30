@@ -5,7 +5,7 @@ hide:
 
 # About
 
-![](../images/LOGO.png)
+![](../images/NB_Logo.png)
 
 !!! info "Nicolò Baldi"
 
