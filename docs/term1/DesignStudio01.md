@@ -1,4 +1,4 @@
-#Design Studio 01
+# Design Studio 01
 
 !!! info inline
     ==FACULTY==: Jana Tothill, Roger Guilemany 

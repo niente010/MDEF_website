@@ -18,7 +18,7 @@
 | Case identifier                        | Forensics of the Obsolescence  |
 | Identity of the submitter              | Albert Vila Bonfill, Anna Fedele, Dhrishya Ramadass, Mihnea Nicolae Patrascu, Nicolo Baldi, Qianyin Du                 |
 | Date of receipt                        | 17/10/2023                     |
-| Date of report                         | 17/10/2023               |
+| Date of report                         | 28/10/2023               |
  
 !!! note ""
 
@@ -72,5 +72,10 @@
 
 !!! note ""
 
-
-
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
