@@ -102,20 +102,7 @@ markdown_extensions:
   - attr_list
   - tables
   - pymdownx.tabbed
-  - glightbox:
-    touchNavigation: true
-    loop: false
-    effect: zoom
-    slide_effect: slide
-    width: 100%
-    height: auto
-    zoomable: true
-    draggable: true
-    skip_classes:
-      - custom-skip-class-name
-    auto_caption: false
-    caption_position: bottom
-
+  
 extra_css:
   - stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
