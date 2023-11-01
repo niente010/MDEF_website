@@ -32,7 +32,7 @@ Dummy text goes brrrr
 <div class="sketchfab-embed-wrapper">
     <iframe 
         title="3D Printer" 
-        width="100%" 
+        height="400px"
         frameborder="0" 
         ui-theme= "dark"
         preload="0"
