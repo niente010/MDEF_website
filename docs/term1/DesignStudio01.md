@@ -1,11 +1,12 @@
 # Design Studio 01
 
-!!! info inline
-    ==FACULTY==: Jana Tothill, Roger Guilemany 
+!!! info 
+    
+    **==FACULTY==**: Jana Tothill, Roger Guilemany 
 
-    ==CALENDAR==: 09-10 → ...
+    **==CALENDAR==**: 09-10 → ...
 
-    ==TRACK==: Application
+    **==TRACK==**: Application
 
 <div style="clear:both;"></div>
 
@@ -48,7 +49,7 @@ The process is documented, analysed, critically assessed and written up, and the
     <br></br>
 
 2. ==**GAIA** → THE PROTOTYPE AS A MEANS OF INQUIRY== <br></br>
-    ![](../images/PrototypeGaia.GIF)<br></br>
+    ![](../images/PrototypeGaia.GIF) <br></br>
 
     GAIA was conceived in a workshop led by Marisa Satsia, focused on Soft Robotics. This prototype is intended to represent a hybrid breathing entity, crafted from a fusion of bioplastic and electronic circuits.
     Adopting principles from the field of Soft Robotics, the prototype aims to inquire our perception of technology, examining the ==intersection of synthetic and organic elements==, offering a thought-provoking perspective on the evolution of technology and its integration with organic matter

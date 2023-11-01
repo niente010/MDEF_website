@@ -4,11 +4,11 @@
 
 !!! info
     
-    ==FACULTY==: Santiago Fuentemilla Garriga, Oscar Gonzalez, Josep Marti, Petra Garajová 
+    **==FACULTY==**: Santiago Fuentemilla Garriga, Oscar Gonzalez, Josep Marti, Petra Garajová 
 
-    ==CALENDAR==: 16-10 → 28-10
+    **==CALENDAR==**: 16-10 → 28-10
 
-    ==TRACK==: Instrumentation
+    **==TRACK==** Instrumentation
 
 <div style="clear:both;"></div>
 
@@ -32,9 +32,10 @@ Dummy text goes brrrr
 <div class="sketchfab-embed-wrapper">
     <iframe 
         title="3D Printer" 
-        width="75%" 
-        height="600px" 
+        width="100%" 
         frameborder="0" 
+        ui-theme= "dark"
+        preload="0"
         allowfullscreen 
         mozallowfullscreen="true" 
         webkitallowfullscreen="true" 
