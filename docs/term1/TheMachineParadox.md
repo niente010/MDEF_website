@@ -2,7 +2,7 @@
 
 # The Machine Paradox
 
-!!! info inline
+!!! info
     
     ==FACULTY==: Santiago Fuentemilla Garriga, Oscar Gonzalez, Josep Marti, Petra Garajová 
 
@@ -32,7 +32,7 @@ Dummy text goes brrrr
 <div class="sketchfab-embed-wrapper">
     <iframe 
         title="3D Printer" 
-        width="100%" 
+        width="75%" 
         height="600px" 
         frameborder="0" 
         allowfullscreen 
@@ -58,25 +58,13 @@ Dummy text goes brrrr
 
 ## **Forensic Questions**
 
-- ==WHAT DOES IT DO?==
+- ==WHAT DOES IT DO?== A 3D printer ==creates three-dimensional objects by layering material== based on a digital design. Using a computer-aided design (CAD) model as a blueprint, the printer adds material layer by layer to form a solid object. 
 
-    A 3D printer ==creates three-dimensional objects by layering material== based on a digital design. Using a computer-aided design (CAD) model as a blueprint, the printer adds material layer by layer to form a solid object. Different printing technologies, such as Fused Deposition Modeling (FDM), Stereolithography (SLA), or Selective Laser Sintering (SLS), dictate the type of material and the layering process, resulting in a tangible product that mirrors the digital design.
-    <br></br>
+- ==HOW DOES IT WORK?== Depending on the technology used, the printer deposits material with each layer fusing to the one below. The material is solidified using various methods like heating, UV curing, or laser sintering, resulting in a three-dimensional object that matches the digital design.
 
-- ==HOW DOES IT WORK?==
+- ==HOW IS IT BUILT?== The 3D printer is constructed using a combination of mechanical, electronic, and software components. ==Mechanically==, it features a frame that houses the moving parts, including the print head or extruder, and a build platform. These components are driven by motors, guided by linear rails or rods, ensuring precise movements on the X, Y, and Z axes. ==Electronically==, a main control board processes digital instructions from the slicing ==software==, directing the motors and regulating the temperature of the print head or curing source. 
 
-    Depending on the technology used, the printer deposits material, such as thermoplastic filament, liquid resin, or metal powder, layer by layer, with each layer fusing to the one below. The material is solidified using various methods like heating, UV curing, or laser sintering, resulting in a three-dimensional object that matches the digital design.
-    <br></br>
-
-- ==HOW IS IT BUILT?== 
-
-    The 3D printer is constructed using a combination of mechanical, electronic, and software components. ==Mechanically==, it features a frame that houses the moving parts, including the print head or extruder, and a build platform. These components are driven by motors, guided by linear rails or rods, ensuring precise movements on the X, Y, and Z axes. ==Electronically==, a main control board processes digital instructions from the slicing software, directing the motors and regulating the temperature of the print head or curing source. Additionally, various sensors monitor conditions like temperature and filament presence, while the ==software== interface allows users to configure settings, load models, and initiate the printing process.
-    <br></br>
-
-- ==WHY IT FAILED, OR IT WASN'T USED ANYMORE?==
-
-    The 3D printer ==still functions, but it's an older, unstable model== with low accuracy and print quality.
-    <br></br>
+- ==WHY IT FAILED, OR IT WASN'T USED ANYMORE?== The 3D printer ==still functions, but it's an older, unstable model== with low accuracy and print quality.
 
 
 ## **Steps Taken**
@@ -95,19 +83,16 @@ Dummy text goes brrrr
 
 ## **Testing**
 
-After the disassembly process, we meticulously examined each individual component. Utilizing a precision lab power supply and a high-resolution multimeter, we conducted comprehensive tests to determine the optimal voltage required for each component's functionality.
+After the disassembly process, we meticulously ==examined each individual component==. Utilizing a precision lab power supply and a high-resolution multimeter, we conducted comprehensive tests to determine the optimal voltage required for each component's functionality.
 
 
 ## **Results**
 
-- ==HOW MANY MOTORS DID YOU FIND INSIDE?==
-    Five motors - they are used to move the extruder in the three axis to permit printing in 3D space.
+- ==HOW MANY MOTORS DID YOU FIND INSIDE?== Five motors used to move the extruder in the three axis to permit printing in 3D space.
 ‍
-- ==DOES IT CONTAIN A COMPUTER OR MICROCONTROLLER?==
-    Yes, an Arduino board and a RAMPS.
+- ==DOES IT CONTAIN A COMPUTER OR MICROCONTROLLER?== Yes, an Arduino board and a RAMPS.
 ‍
-- ==DID YOU FIND ANY SENSORS?=
-    Yes, temperature sensors.
+- ==DID YOU FIND ANY SENSORS?== Yes, temperature sensors.
 
 ## **Conclusions**
 
@@ -123,6 +108,11 @@ After the disassembly process, we meticulously examined each individual componen
     - The fact that we can make the extruder work with just few    components.
     - How easy and repareable it is.
     - How much the 3D technology has improved since 2015.
+
+!!! abstract "References"
+    - https://www.bcn3d.com/ca/arxius-open-source/
+    - https://reprapbcn.wordpress.com/tag/3dprinter/
+    - https://www.youtube.com/watch?v=MJ61LIdlyww
 
 !!! note ""
 
