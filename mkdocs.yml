@@ -11,6 +11,8 @@ repo_url: 'https://github.com/niente010/MDEF_website'
 nav:
   - Home: index.md
   - About: about/me.md
+  - Master Project:
+    - Initial Ideas: project/project.md
   - Reflections :
       - Term 1:
           - Landing: term1/Landing.md
@@ -19,9 +21,8 @@ nav:
           - The Machine Paradox: term1/TheMachineParadox.md
           - Documenting Design: term1/DocumentingDesign.md
           - Living With Your Own Ideas: term1/LivingWithYourOwnIdeas.md
- - Master Project:
-      - Initial Ideas: project/project.md
-      
+
+
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
