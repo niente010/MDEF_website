@@ -153,9 +153,10 @@ One of the most captivating stages of our journey was the decision-making proces
 ## **Presentation**
 
 <iframe 
+    style="border: 0px solid rgba(0, 0, 0, 0.1);" 
     width="100%" 
-    height="400" 
-    src="https://www.figma.com/proto/cLFrMEDN6GybFAvQkN2E2G/LifeX-Presentation?page-id=21%3A2&type=design&node-id=22-31&viewport=584%2C397%2C0.15&t=410tBFktkzMgJa4o-1&scaling=contain" 
+    height="450" 
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcLFrMEDN6GybFAvQkN2E2G%2FLifeX-Presentation%3Fpage-id%3D21%253A2%26type%3Ddesign%26node-id%3D22-31%26viewport%3D584%252C397%252C0.15%26t%3De066V1nWbNjhBLNr-1%26scaling%3Dcontain%26mode%3Ddesign" 
     allowfullscreen></iframe>
 
 ## **Video**
@@ -164,7 +165,7 @@ One of the most captivating stages of our journey was the decision-making proces
     title="vimeo-player" 
     src="https://player.vimeo.com/video/878611346?h=13229e04f0" 
     width="100%" 
-    height="400" 
+    height="380" 
     frameborder="0"    
     allowfullscreen></iframe>
 
