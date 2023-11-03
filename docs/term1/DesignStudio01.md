@@ -23,18 +23,13 @@ However, the challenges could be working with materials at hand and putting your
 
 ## **Roles of Prototyping**
 
-1. ==THE PROTOTYPE AS AN EXPERIMENTAL COMPONENT==<br></br>
-Hypotheses physically embedded in the artifact.
+1. ==THE PROTOTYPE AS AN EXPERIMENTAL COMPONENT== Hypotheses physically embedded in the artifact.
 
-2. ==THE PROTOTYPE AS A MEANS OF INQUIRY==<br></br>
-An instrument to collect, record and measure phenomena. 
+2. ==THE PROTOTYPE AS A MEANS OF INQUIRY== An instrument to collect, record and measure phenomena. 
 
-3. ==THE PROTOTYPE AS A RESEARCH ARCHETYPE==<br></br>
-Research archetypes are physical embodiments of concepts, understandings or design spaces. These prototypes are principally exemplary and illustrative, even (and especially) when they are exposing confrontational or contradictory scenarios.
+3. ==THE PROTOTYPE AS A RESEARCH ARCHETYPE== Research archetypes are physical embodiments of concepts, understandings or design spaces. These prototypes are principally exemplary and illustrative, even (and especially) when they are exposing confrontational or contradictory scenarios.
 
-4. ==THE PROCESS OF PROTOTYPING AS A VEHICLE FOR INQUIRY==<br></br>
-The process of making a prototype is instrumental in doing design research.
-In these role, the process becomes a means of inquiry, akin to a research method.
+4. ==THE PROCESS OF PROTOTYPING AS A VEHICLE FOR INQUIRY== The process of making a prototype is instrumental in doing design research. In these role, the process becomes a means of inquiry, akin to a research method.
 The process is documented, analysed, critically assessed and written up, and the research contribution is tied not to the artefact itself as much as to how the artefact was crafted.
 
 !!! note ""

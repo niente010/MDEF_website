@@ -165,7 +165,7 @@ One of the most captivating stages of our journey was the decision-making proces
     title="vimeo-player" 
     src="https://player.vimeo.com/video/878611346?h=13229e04f0" 
     width="100%" 
-    height="390" 
+    height="385" 
     frameborder="0"    
     allowfullscreen></iframe>
 

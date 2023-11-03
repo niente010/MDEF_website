@@ -14,4 +14,4 @@
 !!! note ""
 
 !!! bug 
-    ...Work in Progress... Stay Tuned!
+    ...Work in Progress... Stay Tuned! ( ͡° ͜ʖ ͡° )
