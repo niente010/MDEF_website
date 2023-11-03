@@ -12,13 +12,13 @@
 
 <div style="clear:both;"></div>
 
-# **Introduction** 
+## **Introduction** 
 
 Dummy text goes brrrr
 
 !!! note ""
 
-# **Forensic Report: 3D Printer**
+## **Forensic Report: 3D Printer**
 
 | Reporting Agency       | MDEF                           |
 |----------------------------------------|--------------------------------|
@@ -28,7 +28,7 @@ Dummy text goes brrrr
 | Date of report                         | 28/10/2023               |
  
 
-## **Examination** 
+### **Examination** 
 <div class="sketchfab-embed-wrapper">
     <iframe 
         title="3D Printer" 
@@ -58,7 +58,7 @@ Dummy text goes brrrr
 - ==Made in==: SPAIN
 
 
-## **Forensic Questions**
+### **Forensic Questions**
 
 - ==WHAT DOES IT DO?== A 3D printer ==creates three-dimensional objects by layering material== based on a digital design. Using a computer-aided design (CAD) model as a blueprint, the printer adds material layer by layer to form a solid object. 
 
@@ -69,7 +69,7 @@ Dummy text goes brrrr
 - ==WHY IT FAILED, OR IT WASN'T USED ANYMORE?== The 3D printer ==still functions, but it's an older, unstable model== with low accuracy and print quality.
 
 
-## **Steps Taken**
+### **Steps Taken**
 
 1. Cleaned the dust off the printer and brought it to the MDEF room.
 2. Disassembled using our toolbox.
@@ -79,16 +79,16 @@ Dummy text goes brrrr
     - ==EXTRUDER==: Contains the motors to print 3D filament;
 4. Laid out all parts individually and documented.
 
-## **Components**
+### **Components**
 
 
 
-## **Testing**
+### **Testing**
 
 After the disassembly process, we meticulously ==examined each individual component==. Utilizing a precision lab power supply and a high-resolution multimeter, we conducted comprehensive tests to determine the optimal voltage required for each component's functionality.
 
 
-## **Results**
+### **Results**
 
 - ==HOW MANY MOTORS DID YOU FIND INSIDE?== Five motors used to move the extruder in the three axis to permit printing in 3D space.
 ‍
@@ -96,7 +96,7 @@ After the disassembly process, we meticulously ==examined each individual compon
 ‍
 - ==DID YOU FIND ANY SENSORS?== Yes, temperature sensors.
 
-## **Conclusions**
+### **Conclusions**
 
 - ==WHAT DID YOU LEARN?==
     - How a 3D printer is assembled.
@@ -118,7 +118,7 @@ After the disassembly process, we meticulously ==examined each individual compon
 
 !!! note ""
 
-# **LifeX**
+## **LifeX**
 
 While the initial week was dedicated to disassembling and testing individual components, week 2 presented us with a unique challenge: to innovate and ==craft a new machine using parts extracted from the printer==. An intriguing twist to this assignment was the directive to design it to be ==as non-functional as possible==. This encouraged us to let our creativity run wild and embrace a playful approach.
 So embraced an audacious and captivating concept: the ==LifeX, a "life expectancy predictor"==.
@@ -127,11 +127,11 @@ With a simple push of a button, a pen draws a line on a paper below, supposedly 
 In truth, an ==Arduino board is programmed to halt at a random number==, influenced by the moment the user activates it.
 The motor maneuvers the pen across what we playfully dub your 'life bookmark'. This ticket, more than just a whimsical prediction, serves as a keepsake from this pseudo-paranormal encounter. Hold onto it and cherish the memory of this unique experience!
 
-## **Assembling**
+### **Assembling**
 
 One of the most captivating stages of our journey was the decision-making process regarding which parts to repurpose from the printer and what additional elements we would introduce. We strategically utilized only essential components, complementing them with bespoke pieces crafted through 3D printing, CNC, and Laser Cutting techniques.
 
-## **Final Result**
+### **Final Result**
 
 <div class="sketchfab-embed-wrapper"> 
     <iframe title="LIFEX MODEL" 
@@ -150,7 +150,7 @@ One of the most captivating stages of our journey was the decision-making proces
      </iframe> 
 </div>
 
-## **Presentation**
+### **Presentation**
 
 <iframe 
     style="border: 0px solid rgba(0, 0, 0, 0.1);" 
@@ -159,7 +159,7 @@ One of the most captivating stages of our journey was the decision-making proces
     src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcLFrMEDN6GybFAvQkN2E2G%2FLifeX-Presentation%3Fpage-id%3D21%253A2%26type%3Ddesign%26node-id%3D22-31%26viewport%3D584%252C397%252C0.15%26t%3De066V1nWbNjhBLNr-1%26scaling%3Dcontain%26mode%3Ddesign" 
     allowfullscreen></iframe>
 
-## **Video**
+### **Video**
 
 <iframe 
     title="vimeo-player" 

@@ -3,7 +3,7 @@
 # Living With Your Own Ideas 
 !!! info
     
-    **==FACULTY==**: Oscar Tomico, Kristina Andersen, Angella Mackay,  
+    **==FACULTY==**: Oscar Tomico, Kristina Andersen, Angella Mackay  
 
     **==CALENDAR==**: 31-10 → 03-11
 
@@ -12,4 +12,4 @@
 <div style="clear:both;"></div>
 
 !!! bug 
-    ...Work in Progress... Stay Tuned! ( ͡° ͜ʖ ͡°)
+    Work in Progress... Stay Tuned! ( ͡° ͜ʖ ͡°)
