@@ -133,12 +133,38 @@ One of the most captivating stages of our journey was the decision-making proces
 
 ## **Final Result**
 
-<div class="sketchfab-embed-wrapper"> <iframe title="LIFEX MODEL" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/08612964146242d88ae1c344fdd2f36b/embed?autostart=1&ui_theme=dark"> </iframe> </div>
+<div class="sketchfab-embed-wrapper"> 
+    <iframe title="LIFEX MODEL" 
+    frameborder="0" 
+    allowfullscreen mozallowfullscreen="true" 
+    webkitallowfullscreen="true" 
+    preload="0"
+    allow="autoplay; fullscreen; xr-spatial-tracking" 
+    xr-spatial-tracking 
+    execution-while-out-of-viewport 
+    execution-while-not-rendered 
+    web-share 
+    src="https://sketchfab.com/models/08612964146242d88ae1c344fdd2f36b/embed?autostart=1&ui_theme=dark">
+     </iframe> 
+</div>
 
 ## **Presentation**
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FcLFrMEDN6GybFAvQkN2E2G%2FLifeX-Presentation%3Ftype%3Ddesign%26node-id%3D22%253A31%26mode%3Ddesign%26t%3D9o8TJdtwWRP8F5T9-1" allowfullscreen></iframe>
+<iframe 
+    style="border: 0px solid rgba(0, 0, 0, 1);" 
+    width="100%" 
+    height="400" 
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FcLFrMEDN6GybFAvQkN2E2G%2FLifeX-Presentation%3Ftype%3Ddesign%26node-id%3D22%253A31%26mode%3Ddesign%26t%3D9o8TJdtwWRP8F5T9-1" 
+    allowfullscreen></iframe>
 
 ## **Video**
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/878611346?h=13229e04f0" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe 
+    title="vimeo-player" 
+    src="https://player.vimeo.com/video/878611346?h=13229e04f0" 
+    width="100%" 
+    height="400" 
+    frameborder="0"    
+    allowfullscreen></iframe>
+
+!!! note ""
