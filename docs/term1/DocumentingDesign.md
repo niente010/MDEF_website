@@ -1,6 +1,6 @@
 # Documenting Design
 
-!!! info inline
+!!! info 
     ==FACULTY==: Josep Marti, Pablo Zunaga 
 
     ==CALENDAR== 02-10 → ...

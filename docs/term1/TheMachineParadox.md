@@ -135,6 +135,8 @@ One of the most captivating stages of our journey was the decision-making proces
 
 <div class="sketchfab-embed-wrapper"> 
     <iframe title="LIFEX MODEL" 
+    width= "100%"
+    height="400px"
     frameborder="0" 
     allowfullscreen mozallowfullscreen="true" 
     webkitallowfullscreen="true" 
@@ -151,7 +153,7 @@ One of the most captivating stages of our journey was the decision-making proces
 ## **Presentation**
 
 <iframe 
-    style="border: 0px solid rgba(0, 0, 0, 1);" 
+    style= "overflow: hidden;"
     width="100%" 
     height="400" 
     src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FcLFrMEDN6GybFAvQkN2E2G%2FLifeX-Presentation%3Ftype%3Ddesign%26node-id%3D22%253A31%26mode%3Ddesign%26t%3D9o8TJdtwWRP8F5T9-1" 
@@ -163,7 +165,7 @@ One of the most captivating stages of our journey was the decision-making proces
     title="vimeo-player" 
     src="https://player.vimeo.com/video/878611346?h=13229e04f0" 
     width="100%" 
-    height="400" 
+    height="360" 
     frameborder="0"    
     allowfullscreen></iframe>
 
