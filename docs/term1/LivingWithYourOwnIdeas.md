@@ -58,3 +58,8 @@
     webkitallowfullscreen="true">
 </iframe>
 
+<video 
+    src="../images/CloserIntimacy.mp4" 
+    controls 
+    width= 100%
+    heighy= 600>
