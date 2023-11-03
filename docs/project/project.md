@@ -5,5 +5,5 @@ hide:
 
 # Initial ideas
 
-!!! bug ""
-    ...Work in Progress... Stay Tuned! ( ͡° ͜ʖ ͡° )
+!!! bug 
+    Work in Progress... Stay Tuned! ( ͡° ͜ʖ ͡°)
