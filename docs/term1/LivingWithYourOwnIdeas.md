@@ -11,9 +11,6 @@
 
 <div style="clear:both;"></div>
 
-!!! bug 
-    Work in Progress... Stay Tuned! ( ͡° ͜ʖ ͡°)
-
 ## **Introduction**
 
 !!! note ""
@@ -63,3 +60,8 @@
     controls 
     width= 100%
     heighy= 600>
+
+
+!!! bug 
+    Work in Progress... Stay Tuned! ( ͡° ͜ʖ ͡°)
+
