@@ -1,6 +1,6 @@
 # Atlas of Weak Signals
 
-!!! info inline
+!!! info 
     ==FACULTY==: Jana Tothill, Roger Guilemany
 
     ==CALENDAR==: 09-10 → 15-10

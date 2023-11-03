@@ -49,7 +49,7 @@ The process is documented, analysed, critically assessed and written up, and the
     <br></br>
 
 2. ==**GAIA** → THE PROTOTYPE AS A MEANS OF INQUIRY== <br></br>
-    ![](../images/PrototypeGaia.GIF) <br></br>
+    ![](../images/PrototypeGAIA2.GIF) <br></br>
 
     GAIA was conceived in a workshop led by Marisa Satsia, focused on Soft Robotics. This prototype is intended to represent a hybrid breathing entity, crafted from a fusion of bioplastic and electronic circuits.
     Adopting principles from the field of Soft Robotics, the prototype aims to inquire our perception of technology, examining the ==intersection of synthetic and organic elements==, offering a thought-provoking perspective on the evolution of technology and its integration with organic matter
@@ -78,6 +78,7 @@ The process is documented, analysed, critically assessed and written up, and the
 
 ![](../images/EW0.png)
 
+**[Click here](https://arc.net/e/8904C14A-960F-45D0-8991-C8F0C3A08194)** to navigate my Extended Workspace.
 !!! note ""
 
 ## **Exercise with [Sophie Marandon](https://sophma.github.io/myMDEFportfolio/home.html)**
