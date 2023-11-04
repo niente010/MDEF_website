@@ -46,25 +46,16 @@
 ## **Closer Intimacy**
 
 <iframe 
-    src="https://docs.google.com/presentation/d/e/2PACX-1vSNGxNVr_TlOXyUWM6M5prSBMxiQB_0mQJvqbhnZUbHvAVs3irMS33j8L4fnaRoX7-zLgMMoNvKwWRg/embed?start=false&loop=false&delayms=3000" 
-    frameborder="0" 
     width="100%" 
     height="400" 
-    allowfullscreen="true" 
-    mozallowfullscreen="true" 
-    webkitallowfullscreen="true">
+    src="https://www.youtube.com/embed/bKqNPPYdQKM?si=Hro0F-bfofApkOt8&amp;controls=0" 
+    title="Closer Intimacy" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
-
-<video 
-    src="../images/CloserIntimacy.mp4" 
-    controls 
-    width= 100%
-    heighy= 600>
 
 
 !!! bug 
     Work in Progress... Stay Tuned! ( ͡° ͜ʖ ͡°)
 
-!!! note ""
-!!! note ""
-!!! note ""
+
