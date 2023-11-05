@@ -100,7 +100,7 @@ This tool aligns more with the ==2nd Role of Prototyping==, as its primary goal 
 
 <iframe 
 	width="100%" 
-	height= auto
+	height= 400
 	src="https://www.youtube.com/embed/clqQcb9bE1c?si=BqSqym0PfFbUSNHK" 
 	title="YouTube video player" 
 	frameborder="0" 

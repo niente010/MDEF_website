@@ -1,15 +1,15 @@
 # Landing
 
 !!! info 
-    ==FACULTY==: Tomas Diez, Laura Benitez
+    ==FACULTY==: Guillem Camprodon, Tomas Diez, Laura Benitez
 
-    ==CALENDAR==: 02-10 → 08-10
+    ==CALENDAR==: 02-10 → 06-10
 
     ==TRACK==: Application
 
 <div style="clear:both;"></div>
 
-![](../images/Landing01.GIF)
+![](../images/Landing01.GIF){: .image-upscale-ctr } 
 
 !!! note ""
 

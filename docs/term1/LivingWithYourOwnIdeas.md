@@ -48,7 +48,7 @@ Dummy text goes brrrr
 
 <iframe 
     width= "100%" 
-    height= auto 
+    height= 400 
     src="https://www.youtube.com/embed/bKqNPPYdQKM?si=sXRIXdUaIUU0ZxuX" 
     title="YouTube video player" 
     frameborder="0" 
