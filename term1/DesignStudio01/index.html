@@ -928,6 +928,11 @@ Contrary to the common belief that social media and technology are neutral entit
 </div>
 <div class="admonition note"></div>
 <h3 id="process"><strong>Process</strong><a class="headerlink" href="#process" title="Permanent link">&para;</a></h3>
+<p><a class="glightbox" href="../../images/DownthePipe02.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="../../images/DownthePipe02.jpg" /></a> 
+<a class="glightbox" href="../../images/DownthePipe03.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="../../images/DownthePipe03.jpg" /></a> 
+<a class="glightbox" href="../../images/DownthePipe04.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="" src="../../images/DownthePipe04.jpg" /></a></p>
+<details class="example">
+<summary><strong>Code for Down the Pipe Experiment</strong></summary>
 <div class="highlight"><table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre><span></span><span class="normal">  1</span>
 <span class="normal">  2</span>
 <span class="normal">  3</span>
@@ -1037,7 +1042,8 @@ Contrary to the common belief that social media and technology are neutral entit
 <span class="normal">107</span>
 <span class="normal">108</span>
 <span class="normal">109</span>
-<span class="normal">110</span></pre></div></td><td class="code"><div><pre><span></span><code>    <span class="o">/*</span> <span class="n">CODE</span> <span class="n">FOR</span> <span class="n">DOWN</span> <span class="n">THE</span> <span class="n">PIPE</span> <span class="n">EXPERIMENT</span> <span class="o">*/</span>
+<span class="normal">110</span>
+<span class="normal">111</span></pre></div></td><td class="code"><div><pre><span></span><code>    <span class="o">/*</span> <span class="n">CODE</span> <span class="n">FOR</span> <span class="n">DOWN</span> <span class="n">THE</span> <span class="n">PIPE</span> <span class="n">EXPERIMENT</span> <span class="o">*/</span>
 
     <span class="c1">#include &quot;Adafruit_PM25AQI.h&quot;</span>
     <span class="c1">#include &lt;SoftwareSerial.h&gt;</span>
@@ -1048,6 +1054,7 @@ Contrary to the common belief that social media and technology are neutral entit
 
     <span class="n">const</span> <span class="nb">int</span> <span class="n">speakerPin</span> <span class="o">=</span> <span class="mi">11</span><span class="p">;</span>
 
+    <span class="o">//</span> <span class="n">definying</span> <span class="n">the</span> <span class="n">melody</span>
     <span class="nb">int</span> <span class="n">melody1</span><span class="p">[]</span> <span class="o">=</span> <span class="p">{</span><span class="n">NOTE_C2</span><span class="p">,</span> <span class="n">NOTE_C3</span><span class="p">,</span> <span class="n">NOTE_A1</span><span class="p">,</span> <span class="n">NOTE_A2</span><span class="p">,</span> <span class="n">NOTE_AS1</span><span class="p">,</span> <span class="n">NOTE_AS2</span><span class="p">};</span>
     <span class="nb">int</span> <span class="n">melody2</span><span class="p">[]</span> <span class="o">=</span> <span class="p">{</span><span class="n">NOTE_C3</span><span class="p">,</span> <span class="n">NOTE_C4</span><span class="p">,</span> <span class="n">NOTE_A2</span><span class="p">,</span> <span class="n">NOTE_A3</span><span class="p">,</span> <span class="n">NOTE_AS2</span><span class="p">,</span> <span class="n">NOTE_AS3</span><span class="p">};</span>
     <span class="nb">int</span> <span class="n">melody3</span><span class="p">[]</span> <span class="o">=</span> <span class="p">{</span><span class="n">NOTE_C4</span><span class="p">,</span> <span class="n">NOTE_C5</span><span class="p">,</span> <span class="n">NOTE_A3</span><span class="p">,</span> <span class="n">NOTE_A4</span><span class="p">,</span> <span class="n">NOTE_AS3</span><span class="p">,</span> <span class="n">NOTE_AS4</span><span class="p">};</span>
@@ -1133,7 +1140,7 @@ Contrary to the common belief that social media and technology are neutral entit
         <span class="n">playMelody</span><span class="p">(</span><span class="n">melody6</span><span class="p">,</span> <span class="n">durations6</span><span class="p">,</span> <span class="n">sizeof</span><span class="p">(</span><span class="n">melody6</span><span class="p">)</span> <span class="o">/</span> <span class="n">sizeof</span><span class="p">(</span><span class="nb">int</span><span class="p">));</span>
     <span class="p">}</span>
 
-    <span class="n">delay</span><span class="p">(</span><span class="mi">1000</span><span class="p">);</span> <span class="o">//</span> <span class="n">You</span> <span class="n">might</span> <span class="n">want</span> <span class="n">to</span> <span class="n">adjust</span> <span class="n">this</span> <span class="n">delay</span> <span class="n">based</span> <span class="n">on</span> <span class="n">the</span> <span class="n">total</span> <span class="n">duration</span> <span class="n">of</span> <span class="n">your</span> <span class="n">melody</span>
+    <span class="n">delay</span><span class="p">(</span><span class="mi">1000</span><span class="p">);</span> <span class="o">//</span> <span class="n">sensor</span> <span class="n">delay</span>
     <span class="p">}</span>
 
     <span class="n">void</span> <span class="n">playMelody</span><span class="p">(</span><span class="nb">int</span> <span class="n">melody</span><span class="p">[],</span> <span class="nb">int</span> <span class="n">durations</span><span class="p">[],</span> <span class="nb">int</span> <span class="n">notes</span><span class="p">)</span> <span class="p">{</span>
@@ -1148,6 +1155,8 @@ Contrary to the common belief that social media and technology are neutral entit
     <span class="p">}</span>
     <span class="p">}</span>
 </code></pre></div></td></tr></table></div>
+</details>
+<div class="admonition note"></div>
 <h3 id="video"><strong>Video</strong><a class="headerlink" href="#video" title="Permanent link">&para;</a></h3>
 <iframe 
     width="100%" 
