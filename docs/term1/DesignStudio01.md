@@ -121,119 +121,128 @@ Dummy text goes brrrr
 
 ### **Process**
 
-``` py linenums="1"
-    /* CODE FOR DOWN THE PIPE EXPERIMENT */
+![](../images/DownthePipe02.jpg) 
+![](../images/DownthePipe03.jpg) 
+![](../images/DownthePipe04.jpg)
 
-    #include "Adafruit_PM25AQI.h"
-    #include <SoftwareSerial.h>
-    #include "pitches.h"
 
-    SoftwareSerial pmSerial(2, 3);
-    Adafruit_PM25AQI aqi = Adafruit_PM25AQI();
-
-    const int speakerPin = 11;
-
-    int melody1[] = {NOTE_C2, NOTE_C3, NOTE_A1, NOTE_A2, NOTE_AS1, NOTE_AS2};
-    int melody2[] = {NOTE_C3, NOTE_C4, NOTE_A2, NOTE_A3, NOTE_AS2, NOTE_AS3};
-    int melody3[] = {NOTE_C4, NOTE_C5, NOTE_A3, NOTE_A4, NOTE_AS3, NOTE_AS4};
-    int melody4[] = {NOTE_C5, NOTE_C6, NOTE_A4, NOTE_A5, NOTE_AS4, NOTE_AS5};
-    int melody5[] = {NOTE_C6, NOTE_C7, NOTE_A5, NOTE_A6, NOTE_AS5, NOTE_AS6};
-    int melody6[] = {NOTE_C7, NOTE_C8, NOTE_A6, NOTE_A7, NOTE_AS6, NOTE_AS7};
-
-    int durations1[] = {4, 4, 4, 4, 4, 4};
-    int durations2[] = {4, 4, 4, 4, 4, 4};
-    int durations3[] = {4, 4, 4, 4, 4, 4};
-    int durations4[] = {4, 4, 4, 4, 4, 4};
-    int durations5[] = {4, 4, 4, 4, 4, 4};
-    int durations6[] = {4, 4, 4, 4, 4, 4};
-
-    void setup() {
-    Serial.begin(115200);
-    while (!Serial) delay(10);
+??? example "**Code for Down the Pipe Experiment**"
     
-    Serial.println("Adafruit PMSA003I Air Quality Sensor");
-    delay(1000);
-    
-    pmSerial.begin(9600);
+    ``` py linenums="1"
+        /* CODE FOR DOWN THE PIPE EXPERIMENT */
 
-    if (! aqi.begin_UART(&pmSerial)) {
-        Serial.println("Could not find PM 2.5 sensor!");
-        while (1) delay(10);
-    }
-    Serial.println("PM25 found!");
+        #include "Adafruit_PM25AQI.h"
+        #include <SoftwareSerial.h>
+        #include "pitches.h"
 
-    pinMode(speakerPin, OUTPUT);
-    }
+        SoftwareSerial pmSerial(2, 3);
+        Adafruit_PM25AQI aqi = Adafruit_PM25AQI();
 
-    void loop() {
-    PM25_AQI_Data data;
+        const int speakerPin = 11;
 
-    if (! aqi.read(&data)) {
-        Serial.println("Could not read from AQI");
-        delay(500);
-        return;
-    }
+        // definying the melody
+        int melody1[] = {NOTE_C2, NOTE_C3, NOTE_A1, NOTE_A2, NOTE_AS1, NOTE_AS2};
+        int melody2[] = {NOTE_C3, NOTE_C4, NOTE_A2, NOTE_A3, NOTE_AS2, NOTE_AS3};
+        int melody3[] = {NOTE_C4, NOTE_C5, NOTE_A3, NOTE_A4, NOTE_AS3, NOTE_AS4};
+        int melody4[] = {NOTE_C5, NOTE_C6, NOTE_A4, NOTE_A5, NOTE_AS4, NOTE_AS5};
+        int melody5[] = {NOTE_C6, NOTE_C7, NOTE_A5, NOTE_A6, NOTE_AS5, NOTE_AS6};
+        int melody6[] = {NOTE_C7, NOTE_C8, NOTE_A6, NOTE_A7, NOTE_AS6, NOTE_AS7};
 
+        int durations1[] = {4, 4, 4, 4, 4, 4};
+        int durations2[] = {4, 4, 4, 4, 4, 4};
+        int durations3[] = {4, 4, 4, 4, 4, 4};
+        int durations4[] = {4, 4, 4, 4, 4, 4};
+        int durations5[] = {4, 4, 4, 4, 4, 4};
+        int durations6[] = {4, 4, 4, 4, 4, 4};
 
-    Serial.println("AQI reading success");
-    Serial.println();
-    Serial.println(F("---------------------------------------"));
-    Serial.println(F("Concentration Units (standard)"));
-    Serial.println(F("---------------------------------------"));
-    Serial.print(F("PM 1.0: ")); Serial.print(data.pm10_standard);
-    Serial.print(F("\t\tPM 2.5: ")); Serial.print(data.pm25_standard);
-    Serial.print(F("\t\tPM 10: ")); Serial.println(data.pm100_standard);
-    Serial.println(F("Concentration Units (environmental)"));
-    Serial.println(F("---------------------------------------"));
-    Serial.print(F("PM 1.0: ")); Serial.print(data.pm10_env);
-    Serial.print(F("\t\tPM 2.5: ")); Serial.print(data.pm25_env);
-    Serial.print(F("\t\tPM 10: ")); Serial.println(data.pm100_env);
-    Serial.println(F("---------------------------------------"));
-    Serial.print(F("Particles > 0.3um / 0.1L air:"));
-    Serial.println(data.particles_03um);
-    Serial.print(F("Particles > 0.5um / 0.1L air:"));
-    Serial.println(data.particles_05um);
-    Serial.print(F("Particles > 1.0um / 0.1L air:"));
-    Serial.println(data.particles_10um);
-    Serial.print(F("Particles > 2.5um / 0.1L air:"));
-    Serial.println(data.particles_25um);
-    Serial.print(F("Particles > 5.0um / 0.1L air:"));
-    Serial.println(data.particles_50um);
-    Serial.print(F("Particles > 10 um / 0.1L air:"));
-    Serial.println(data.particles_100um);
-    Serial.println(F("---------------------------------------"));
-
-    // Determine which melody to play based on the particle count
-    if (data.pm25_env < 5) {
-        playMelody(melody1, durations1, sizeof(melody1) / sizeof(int));
-    } else if (data.pm25_env < 10) {
-        playMelody(melody2, durations2, sizeof(melody2) / sizeof(int));
-    } else if (data.pm25_env < 15) {
-        playMelody(melody3, durations3, sizeof(melody3) / sizeof(int));
-    } else if (data.pm25_env < 20) {
-        playMelody(melody4, durations4, sizeof(melody4) / sizeof(int));
-    } else if (data.pm25_env < 25) {
-        playMelody(melody5, durations5, sizeof(melody5) / sizeof(int));
-    } else {
-        playMelody(melody6, durations6, sizeof(melody6) / sizeof(int));
-    }
-
-    delay(1000); // You might want to adjust this delay based on the total duration of your melody
-    }
-
-    void playMelody(int melody[], int durations[], int notes) {
-    for (int thisNote = 0; thisNote < notes; thisNote++) {
-        int noteDuration = 650 / durations[thisNote];
-        tone(speakerPin, melody[thisNote], noteDuration);
+        void setup() {
+        Serial.begin(115200);
+        while (!Serial) delay(10);
         
-        int pauseBetweenNotes = noteDuration /** 1.30*/;
-        delay(pauseBetweenNotes);
+        Serial.println("Adafruit PMSA003I Air Quality Sensor");
+        delay(1000);
         
-        noTone(speakerPin);
-    }
-    }
-```
+        pmSerial.begin(9600);
 
+        if (! aqi.begin_UART(&pmSerial)) {
+            Serial.println("Could not find PM 2.5 sensor!");
+            while (1) delay(10);
+        }
+        Serial.println("PM25 found!");
+
+        pinMode(speakerPin, OUTPUT);
+        }
+
+        void loop() {
+        PM25_AQI_Data data;
+
+        if (! aqi.read(&data)) {
+            Serial.println("Could not read from AQI");
+            delay(500);
+            return;
+        }
+
+
+        Serial.println("AQI reading success");
+        Serial.println();
+        Serial.println(F("---------------------------------------"));
+        Serial.println(F("Concentration Units (standard)"));
+        Serial.println(F("---------------------------------------"));
+        Serial.print(F("PM 1.0: ")); Serial.print(data.pm10_standard);
+        Serial.print(F("\t\tPM 2.5: ")); Serial.print(data.pm25_standard);
+        Serial.print(F("\t\tPM 10: ")); Serial.println(data.pm100_standard);
+        Serial.println(F("Concentration Units (environmental)"));
+        Serial.println(F("---------------------------------------"));
+        Serial.print(F("PM 1.0: ")); Serial.print(data.pm10_env);
+        Serial.print(F("\t\tPM 2.5: ")); Serial.print(data.pm25_env);
+        Serial.print(F("\t\tPM 10: ")); Serial.println(data.pm100_env);
+        Serial.println(F("---------------------------------------"));
+        Serial.print(F("Particles > 0.3um / 0.1L air:"));
+        Serial.println(data.particles_03um);
+        Serial.print(F("Particles > 0.5um / 0.1L air:"));
+        Serial.println(data.particles_05um);
+        Serial.print(F("Particles > 1.0um / 0.1L air:"));
+        Serial.println(data.particles_10um);
+        Serial.print(F("Particles > 2.5um / 0.1L air:"));
+        Serial.println(data.particles_25um);
+        Serial.print(F("Particles > 5.0um / 0.1L air:"));
+        Serial.println(data.particles_50um);
+        Serial.print(F("Particles > 10 um / 0.1L air:"));
+        Serial.println(data.particles_100um);
+        Serial.println(F("---------------------------------------"));
+
+        // Determine which melody to play based on the particle count
+        if (data.pm25_env < 5) {
+            playMelody(melody1, durations1, sizeof(melody1) / sizeof(int));
+        } else if (data.pm25_env < 10) {
+            playMelody(melody2, durations2, sizeof(melody2) / sizeof(int));
+        } else if (data.pm25_env < 15) {
+            playMelody(melody3, durations3, sizeof(melody3) / sizeof(int));
+        } else if (data.pm25_env < 20) {
+            playMelody(melody4, durations4, sizeof(melody4) / sizeof(int));
+        } else if (data.pm25_env < 25) {
+            playMelody(melody5, durations5, sizeof(melody5) / sizeof(int));
+        } else {
+            playMelody(melody6, durations6, sizeof(melody6) / sizeof(int));
+        }
+
+        delay(1000); // sensor delay
+        }
+
+        void playMelody(int melody[], int durations[], int notes) {
+        for (int thisNote = 0; thisNote < notes; thisNote++) {
+            int noteDuration = 650 / durations[thisNote];
+            tone(speakerPin, melody[thisNote], noteDuration);
+            
+            int pauseBetweenNotes = noteDuration /** 1.30*/;
+            delay(pauseBetweenNotes);
+            
+            noTone(speakerPin);
+        }
+        }
+    ```
+
+!!! note ""
 
 ### **Video**
 
