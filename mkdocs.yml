@@ -75,8 +75,9 @@ markdown_extensions:
         custom_fences:
           - name: mermaid
             class: mermaid
-            format: !!python/name:pymdownx.superfences.fence_code_format  - codehilite:
-        guess_lang: false
+            format: !!python/name:pymdownx.superfences.fence_code_format  
+  - codehilite:
+      guess_lang: false
   - toc:
       permalink: true
   - def_list
