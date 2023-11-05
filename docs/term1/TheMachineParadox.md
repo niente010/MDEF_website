@@ -13,6 +13,7 @@
 <div style="clear:both;"></div>
 
 !!! info "**Team**"
+
    Albert Vila Bonfill, Anna Fedele, Dhrishya Ramadass, Mihnea Nicolae Patrascu, Nicolo Baldi, Qianyin Du
 
 ## **Introduction** 

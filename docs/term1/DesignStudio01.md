@@ -43,7 +43,7 @@ The process is documented, analysed, critically assessed and written up, and the
     <br></br>
 
 2. ==**GAIA** → THE PROTOTYPE AS A MEANS OF INQUIRY== <br></br>
-    ![](../images/PrototypeGAIA2.GIF){: .image-75-size-left }
+    ![](../images/PrototypeGAIA2.GIF){: .image-half-size-left }
     GAIA was conceived in a workshop led by Marisa Satsia, focused on Soft Robotics. This prototype is intended to represent a hybrid breathing entity, crafted from a fusion of bioplastic and electronic circuits.
     Adopting principles from the field of Soft Robotics, the prototype aims to inquire our perception of technology, examining the ==intersection of synthetic and organic elements==, offering a thought-provoking perspective on the evolution of technology and its integration with organic matter
     **[Click here](https://www.instagram.com/p/CxLCxMMI7XF/?utm_source=ig_web_copy_link)** to visit GAIA's page.
@@ -82,7 +82,7 @@ Sophie's project embeds a broader analysis on communication and the utilization 
 After discussing the project together with Sophie, we became aware of the ==opacity== surrounding the way social media curate information for users. These algorithms, which shape our perceptions of news, politics, and culture, operate within a =="black box"==, making it challenging for users to decrypt their working. 
 The connections between pieces of information, and the reasons why certain elements are prioritized over others, remain concealed.
 
-![](../images/SophieProject2.jpg)
+![](../images/SophieProject2.jpg){: .image-half-size-left } 
 
 To address this, we conceived the idea of a ==browser add-on==, powered by AI, that can ==deconstruct the interface of social networks==. 
 This tool would serve as an ==overlay==, providing insights into why a particular tweet, post, or comment is presented to the user. 
@@ -92,10 +92,150 @@ This tool aligns more with the ==2nd Role of Prototyping==, as its primary goal 
 
 !!! note ""
 
-## **Design Intervention**
+## **Design Intervention [Down the Pipe]**
 
 !!! info "**Team**"
-   Anna Fedele, Anthuanet Falcon Quispe, Marius Schairer, Nicolò Baldi, Sophie Marandon
+
+    Anna Fedele, Anthuanet Falcon Quispe, Marius Schairer, Nicolò Baldi, Sophie Marandon
+
+### **Ideation**
+
+![](../images/DownthePipe00.jpg)
+
+
+!!! note ""
+
+### **Abstract**
+
+![](../images/DownthePipe01.jpg)
+
+Dummy text goes brrrr
+
+!!! abstract "References"
+    - https://www.mdpi.com/2305-6304/10/10/557
+    - https://doi.org/10.1063/5.0023154 
+    - https://doi.org/10.1016/j.envpol.2015.07.004
+    - https://doi.org/10.1063/5.0023154 
+
+!!! note ""
+
+### **Process**
+
+``` py linenums="1"
+    /* CODE FOR DOWN THE PIPE EXPERIMENT */
+
+    #include "Adafruit_PM25AQI.h"
+    #include <SoftwareSerial.h>
+    #include "pitches.h"
+
+    SoftwareSerial pmSerial(2, 3);
+    Adafruit_PM25AQI aqi = Adafruit_PM25AQI();
+
+    const int speakerPin = 11;
+
+    int melody1[] = {NOTE_C2, NOTE_C3, NOTE_A1, NOTE_A2, NOTE_AS1, NOTE_AS2};
+    int melody2[] = {NOTE_C3, NOTE_C4, NOTE_A2, NOTE_A3, NOTE_AS2, NOTE_AS3};
+    int melody3[] = {NOTE_C4, NOTE_C5, NOTE_A3, NOTE_A4, NOTE_AS3, NOTE_AS4};
+    int melody4[] = {NOTE_C5, NOTE_C6, NOTE_A4, NOTE_A5, NOTE_AS4, NOTE_AS5};
+    int melody5[] = {NOTE_C6, NOTE_C7, NOTE_A5, NOTE_A6, NOTE_AS5, NOTE_AS6};
+    int melody6[] = {NOTE_C7, NOTE_C8, NOTE_A6, NOTE_A7, NOTE_AS6, NOTE_AS7};
+
+    int durations1[] = {4, 4, 4, 4, 4, 4};
+    int durations2[] = {4, 4, 4, 4, 4, 4};
+    int durations3[] = {4, 4, 4, 4, 4, 4};
+    int durations4[] = {4, 4, 4, 4, 4, 4};
+    int durations5[] = {4, 4, 4, 4, 4, 4};
+    int durations6[] = {4, 4, 4, 4, 4, 4};
+
+    void setup() {
+    Serial.begin(115200);
+    while (!Serial) delay(10);
+    
+    Serial.println("Adafruit PMSA003I Air Quality Sensor");
+    delay(1000);
+    
+    pmSerial.begin(9600);
+
+    if (! aqi.begin_UART(&pmSerial)) {
+        Serial.println("Could not find PM 2.5 sensor!");
+        while (1) delay(10);
+    }
+    Serial.println("PM25 found!");
+
+    pinMode(speakerPin, OUTPUT);
+    }
+
+    void loop() {
+    PM25_AQI_Data data;
+
+    if (! aqi.read(&data)) {
+        Serial.println("Could not read from AQI");
+        delay(500);
+        return;
+    }
+
+
+    Serial.println("AQI reading success");
+    Serial.println();
+    Serial.println(F("---------------------------------------"));
+    Serial.println(F("Concentration Units (standard)"));
+    Serial.println(F("---------------------------------------"));
+    Serial.print(F("PM 1.0: ")); Serial.print(data.pm10_standard);
+    Serial.print(F("\t\tPM 2.5: ")); Serial.print(data.pm25_standard);
+    Serial.print(F("\t\tPM 10: ")); Serial.println(data.pm100_standard);
+    Serial.println(F("Concentration Units (environmental)"));
+    Serial.println(F("---------------------------------------"));
+    Serial.print(F("PM 1.0: ")); Serial.print(data.pm10_env);
+    Serial.print(F("\t\tPM 2.5: ")); Serial.print(data.pm25_env);
+    Serial.print(F("\t\tPM 10: ")); Serial.println(data.pm100_env);
+    Serial.println(F("---------------------------------------"));
+    Serial.print(F("Particles > 0.3um / 0.1L air:"));
+    Serial.println(data.particles_03um);
+    Serial.print(F("Particles > 0.5um / 0.1L air:"));
+    Serial.println(data.particles_05um);
+    Serial.print(F("Particles > 1.0um / 0.1L air:"));
+    Serial.println(data.particles_10um);
+    Serial.print(F("Particles > 2.5um / 0.1L air:"));
+    Serial.println(data.particles_25um);
+    Serial.print(F("Particles > 5.0um / 0.1L air:"));
+    Serial.println(data.particles_50um);
+    Serial.print(F("Particles > 10 um / 0.1L air:"));
+    Serial.println(data.particles_100um);
+    Serial.println(F("---------------------------------------"));
+
+    // Determine which melody to play based on the particle count
+    if (data.pm25_env < 5) {
+        playMelody(melody1, durations1, sizeof(melody1) / sizeof(int));
+    } else if (data.pm25_env < 10) {
+        playMelody(melody2, durations2, sizeof(melody2) / sizeof(int));
+    } else if (data.pm25_env < 15) {
+        playMelody(melody3, durations3, sizeof(melody3) / sizeof(int));
+    } else if (data.pm25_env < 20) {
+        playMelody(melody4, durations4, sizeof(melody4) / sizeof(int));
+    } else if (data.pm25_env < 25) {
+        playMelody(melody5, durations5, sizeof(melody5) / sizeof(int));
+    } else {
+        playMelody(melody6, durations6, sizeof(melody6) / sizeof(int));
+    }
+
+    delay(1000); // You might want to adjust this delay based on the total duration of your melody
+    }
+
+    void playMelody(int melody[], int durations[], int notes) {
+    for (int thisNote = 0; thisNote < notes; thisNote++) {
+        int noteDuration = 650 / durations[thisNote];
+        tone(speakerPin, melody[thisNote], noteDuration);
+        
+        int pauseBetweenNotes = noteDuration /** 1.30*/;
+        delay(pauseBetweenNotes);
+        
+        noTone(speakerPin);
+    }
+    }
+```
+
+
+### **Video**
 
 <iframe 
 	width="100%" 
@@ -107,3 +247,4 @@ This tool aligns more with the ==2nd Role of Prototyping==, as its primary goal 
 	allowfullscreen>
 </iframe>
 
+!!! note ""
