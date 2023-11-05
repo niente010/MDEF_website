@@ -40,3 +40,28 @@
     font-weight: 300;
     font-size: 14px;
 }
+
+.image-full-width {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.image-upscale-ctr {
+  width: 120%; 
+  margin: 0 auto; 
+  display: block;
+}
+
+.image-half-size-ctr {
+  width: 50%; 
+  margin: 0 auto; 
+  display: block;
+}
+
+.image-half-size-left {
+  width: 50%;
+  display: inline-block; 
+  margin-right: auto; 
+  margin-left: 0; 
+}
