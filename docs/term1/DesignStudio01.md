@@ -37,14 +37,14 @@ The process is documented, analysed, critically assessed and written up, and the
 ## **Roles of Prototyping [Personal Experience]**
 
 1. ==**ZIGO-** → THE PROTOTYPE AS AN EXPERIMENTAL COMPONENT==<br></br>
-    ![](../images/PrototypeZigo.png) { .image-half-size-ctr }
+    ![](../images/PrototypeZigo.png){: .image-half-size-ctr }
 
     ZIGO- is a rehabilitation program focused on hand injuries, where the central component is the homonymous controller, which allows finger contractions with varying resistance levels tailored to the patient’s condition. Accompanied by a videogame experience, the device facilitates consistent exercise and enables doctors to monitor rehabilitation progress. Prototyping has been a fundamental tool that allowed to ==refine the product design and functionality==. Through multiple iterations, we were able to identify the optimal shape, based on hand grip and considerating the respective percentiles. 
     **[Click here](https://nicolobaldi.com/ZIGO)** to visit ZIGO-'s page.
     <br></br>
 
 2. ==**GAIA** → THE PROTOTYPE AS A MEANS OF INQUIRY== <br></br>
-    ![](../images/PrototypeGAIA2.GIF) { .image-upscale-ctr } <br></br>
+    ![](../images/PrototypeGAIA2.GIF){: .image-upscale-ctr } <br></br>
 
     GAIA was conceived in a workshop led by Marisa Satsia, focused on Soft Robotics. This prototype is intended to represent a hybrid breathing entity, crafted from a fusion of bioplastic and electronic circuits.
     Adopting principles from the field of Soft Robotics, the prototype aims to inquire our perception of technology, examining the ==intersection of synthetic and organic elements==, offering a thought-provoking perspective on the evolution of technology and its integration with organic matter
@@ -78,7 +78,7 @@ The process is documented, analysed, critically assessed and written up, and the
 
 ## **Exercise with [Sophie Marandon](https://sophma.github.io/myMDEFportfolio/home.html)**
 
-![](../images/SophieProject.jpeg) { .image-half-size-left } 
+![](../images/SophieProject.jpeg) {: .image-half-size-left } 
 
 Sophie’s research provides a ==comparative analysis of the populist discourse== acknowledged in the tweets of Marine Le Pen (MLP) and Jean-Luc Mélenchon (JLM). Key characteristics of populist discourse include: the glorification of the people, estrangement of the elite, exclusion of outsiders who don't share the same identity, nostalgia for the nation's symbolic traditions, and a depiction of the leader as the authentic voice of the people. Sophie also used a ==Natural Language Processing==, an Artificial Intelligence model capable of understanding human language, in order to develop a ==Sentiment Analysis== of the selected tweets. 
 Sophie's project embeds a broader analysis on communication and the utilization of social media by political parties. Therefore, her prototype aligns with the ==3rd Role of Prototyping==, serving as a tangible demonstration of her research.
@@ -95,15 +95,6 @@ Contrary to the common belief that social media and technology are neutral entit
 This tool aligns more with the ==2nd Role of Prototyping==, as its primary goal is to reveal the underlying phenomena users encounter during their use of social media. 
 
 !!! note ""
-
-``` mermaid
-    graph LR
-    A[Start] --> B{Error?};
-    B -->|Yes| C[Hmm...];
-    C --> D[Debug];
-    D --> B;
-    B ---->|No| E[Yay!];
-``` 
 
 ## **Design Intervention**
 
