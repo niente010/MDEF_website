@@ -60,15 +60,23 @@ plugins:
   - search
   - git-revision-date-localized:
       fallback_to_build_date: true
-
+  - glightbox:
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - skip-lightbox
+          
 markdown_extensions:
   - extra
   - smarty
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
-  - codehilite:
-      guess_lang: false
+  - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format  - codehilite:
+        guess_lang: false
   - toc:
       permalink: true
   - def_list

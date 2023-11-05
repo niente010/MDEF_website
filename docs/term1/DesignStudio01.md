@@ -95,3 +95,12 @@ Contrary to the common belief that social media and technology are neutral entit
 This tool aligns more with the ==2nd Role of Prototyping==, as its primary goal is to reveal the underlying phenomena users encounter during their use of social media. 
 
 !!! note ""
+
+``` mermaid
+    graph LR
+    A[Start] --> B{Error?};
+    B -->|Yes| C[Hmm...];
+    C --> D[Debug];
+    D --> B;
+    B ---->|No| E[Yay!];
+```

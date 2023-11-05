@@ -13,6 +13,8 @@
 
 ## **Introduction**
 
+Dummy text goes brrrr
+
 !!! note ""
 
 ## **Make a (living/non living) companion**
@@ -21,8 +23,7 @@
 
 ### **Re.flection²**
 
-![](../images/IMG_5593_EDIT2.jpg)
-![](../images/Fan.GIF)
+![](../images/IMG_5593_EDIT.jpg)
 
 - ==HOW WILL YOU LIVE TOGETHER?== <br></br>
     Each day, me and Re.flection² will designate a specific time to engage with one another. Re.flection² will position itself between me and my mirror, and through its core, an hypnotic rotating fan, we’ll have the chance to shed our tendencies to overthink, guiding our focus towards seeking inner tranquility.
@@ -48,12 +49,11 @@
 <iframe 
     width="100%" 
     height="400" 
-    src="https://www.youtube.com/embed/bKqNPPYdQKM?si=Hro0F-bfofApkOt8&amp;controls=0" 
-    title="Closer Intimacy" 
+    src="https://www.youtube.com/embed/bKqNPPYdQKM?si=sXRIXdUaIUU0ZxuX" 
+    title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
-
 
 !!! bug 
     Work in Progress... Stay Tuned! ( ͡° ͜ʖ ͡°)
