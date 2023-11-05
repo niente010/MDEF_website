@@ -44,7 +44,7 @@ The process is documented, analysed, critically assessed and written up, and the
     <br></br>
 
 2. ==**GAIA** → THE PROTOTYPE AS A MEANS OF INQUIRY== <br></br>
-    ![](../images/PrototypeGAIA2.GIF){: .image-upscale-ctr } <br></br>
+    ![](../images/PrototypeGAIA2.GIF){: .image-upscale-ctr }
 
     GAIA was conceived in a workshop led by Marisa Satsia, focused on Soft Robotics. This prototype is intended to represent a hybrid breathing entity, crafted from a fusion of bioplastic and electronic circuits.
     Adopting principles from the field of Soft Robotics, the prototype aims to inquire our perception of technology, examining the ==intersection of synthetic and organic elements==, offering a thought-provoking perspective on the evolution of technology and its integration with organic matter
@@ -78,7 +78,7 @@ The process is documented, analysed, critically assessed and written up, and the
 
 ## **Exercise with [Sophie Marandon](https://sophma.github.io/myMDEFportfolio/home.html)**
 
-![](../images/SophieProject.jpeg) {: .image-half-size-left } 
+![](../images/SophieProject.jpeg){: .image-half-size-left } 
 
 Sophie’s research provides a ==comparative analysis of the populist discourse== acknowledged in the tweets of Marine Le Pen (MLP) and Jean-Luc Mélenchon (JLM). Key characteristics of populist discourse include: the glorification of the people, estrangement of the elite, exclusion of outsiders who don't share the same identity, nostalgia for the nation's symbolic traditions, and a depiction of the leader as the authentic voice of the people. Sophie also used a ==Natural Language Processing==, an Artificial Intelligence model capable of understanding human language, in order to develop a ==Sentiment Analysis== of the selected tweets. 
 Sophie's project embeds a broader analysis on communication and the utilization of social media by political parties. Therefore, her prototype aligns with the ==3rd Role of Prototyping==, serving as a tangible demonstration of her research.
@@ -99,8 +99,8 @@ This tool aligns more with the ==2nd Role of Prototyping==, as its primary goal 
 ## **Design Intervention**
 
 <iframe 
-	width="560" 
-	height="315" 
+	width="100%" 
+	height= auto
 	src="https://www.youtube.com/embed/clqQcb9bE1c?si=BqSqym0PfFbUSNHK" 
 	title="YouTube video player" 
 	frameborder="0" 

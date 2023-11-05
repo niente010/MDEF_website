@@ -40,15 +40,15 @@ Dummy text goes brrrr
 - ==WHY DOES IT MATTER?== <br></br>
     For me, Re.flection² serves as a tangible reminder of the importance of dedicating time to oneself. <br></br>
 
-![](../images/Re.Flection2.GIF)
+![](../images/Re.Flection2.GIF){ .image-full-width }
 
 !!! note ""
 
 ## **Closer Intimacy**
 
 <iframe 
-    width="100%" 
-    height="400" 
+    width= "100%" 
+    height= auto 
     src="https://www.youtube.com/embed/bKqNPPYdQKM?si=sXRIXdUaIUU0ZxuX" 
     title="YouTube video player" 
     frameborder="0" 
