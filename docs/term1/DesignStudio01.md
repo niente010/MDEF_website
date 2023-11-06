@@ -142,6 +142,7 @@ Therefore, we incorporated an auditory component. A ==speaker==, graciously loan
 
 ![](../images/DownthePipe02.jpg){: .image-40-size-left } 
 ![](../images/DownthePipe04.jpg){: .image-40-size-right }
+<div style="clear: both;"></div>
 
 ??? example "**Code for Down the Pipe Experiment**"
     
