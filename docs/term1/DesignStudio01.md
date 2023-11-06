@@ -136,12 +136,10 @@ This sensor has been connected to a ==speaker== which provides ==real-time feedb
 
 ![](../images/DownthePipe03.jpg){: .image-half-size-left } 
 
-Having defined our concept, the initial step was to ==prototype== a device that could serve our purpose. Our concepts were inspired by the **["Smart Citizen"](https://smartcitizen.me/)**  project, which prompted us to seek guidance from the Code lab. We reached out to Oscar Gonzalez, who generously allowed us to borrow a ==PM2.5 sensor== from the laboratory, which is the same model used by the Smart Citizen kit. With the sensor in hand, we connected it to an Arduino board using the appropriate adapter. 
+Having defined our concept, the initial step was to ==prototype== a device that could serve our purpose. Our concepts were inspired by the **["Smart Citizen"](https://smartcitizen.me/)**  project, which prompted us to seek guidance from the Code lab. We reached out to Oscar Gonzalez, who generously allowed us to borrow a ==PM2.5 sensor== from the laboratory, which is the same model used by the Smart Citizen kit. With the sensor in hand, we connected it to an Arduino board using the appropriate adapter. Therefore, we incorporated an auditory component. A ==speaker==, graciously loaned to us by Minnie, was repurposed from their **[Triggered](https://minnie-at-iaac.github.io/term1/05-Machine-Paradox/Triggered/)** machine from The Machine Paradox seminar. This speaker would enable us to transform the data collected by the PM2.5 sensor into an audible experience.
 
-Therefore, we incorporated an auditory component. A ==speaker==, graciously loaned to us by Minnie, was repurposed from their **[Triggered](https://minnie-at-iaac.github.io/term1/05-Machine-Paradox/Triggered/)** machine from The Machine Paradox seminar. This speaker would enable us to transform the data collected by the PM2.5 sensor into an audible experience.
-
-![](../images/DownthePipe02.jpg){: .image-half-size-left } 
-![](../images/DownthePipe04.jpg){: .image-half-size-right }
+![](../images/DownthePipe02.jpg){: .image-45-size-left } 
+![](../images/DownthePipe04.jpg){: .image-45-size-right }
 <div style="clear: both;"></div>
 
 ??? example "**Code for Down the Pipe Experiment**"
