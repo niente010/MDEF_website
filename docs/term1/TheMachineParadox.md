@@ -84,14 +84,9 @@ Dummy text goes brrrr
     - ==EXTRUDER==: Contains the motors to print 3D filament;
 4. Laid out all parts individually and documented.
 
-### **Components**
-
-
-
 ### **Testing**
 
 After the disassembly process, we meticulously ==examined each individual component==. Utilizing a precision lab power supply and a high-resolution multimeter, we conducted comprehensive tests to determine the optimal voltage required for each component's functionality.
-
 
 ### **Results**
 
@@ -132,9 +127,16 @@ With a simple push of a button, a pen draws a line on a paper below, supposedly 
 In truth, an ==Arduino board is programmed to halt at a random number==, influenced by the moment the user activates it.
 The motor maneuvers the pen across what we playfully dub your 'life bookmark'. This ticket, more than just a whimsical prediction, serves as a keepsake from this pseudo-paranormal encounter. Hold onto it and cherish the memory of this unique experience!
 
-### **Assembling**
+### **Process**
 
-One of the most captivating stages of our journey was the decision-making process regarding which parts to repurpose from the printer and what additional elements we would introduce. We strategically utilized only essential components, complementing them with bespoke pieces crafted through 3D printing, CNC, and Laser Cutting techniques.
+<iframe 
+    width="100%" 
+    height="400" 
+    src="https://www.youtube.com/embed/vosQQlPurCI?si=WorDul6GVfAR135Y" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
 
 ### **Final Result**
 
