@@ -66,6 +66,13 @@
   margin-bottom: 10px; /* Optionally add space below the image */
 }
 
+.image-half-size-right {
+  width: 50%;        /* Set the width of the image to 50% of its container */
+  float: right;      /* Float the image to the right */
+  margin-left: 15px; /* Add some space between the image and the text */
+  margin-bottom: 10px; /* Optionally add space below the image */
+}
+
 .image-75-size-left {
   width: 75%;        /* Set the width of the image to 50% of its container */
   float: left;       /* Float the image to the left */
