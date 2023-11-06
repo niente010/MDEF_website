@@ -16,11 +16,11 @@ nav:
   - Reflections :
       - Term 1:
           - Landing: term1/Landing.md
-          - Atlas of Weak Signals: term1/AtlasOfWeakSignals.md
           - Design Studio 01: term1/DesignStudio01.md
+          - Atlas of Weak Signals: term1/AtlasOfWeakSignals.md
           - The Machine Paradox: term1/TheMachineParadox.md
-          - Documenting Design: term1/DocumentingDesign.md
           - Living With Your Own Ideas: term1/LivingWithYourOwnIdeas.md
+          - Documenting Design: term1/DocumentingDesign.md
 
 
 extra:

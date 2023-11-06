@@ -54,7 +54,8 @@ Dummy text goes brrrr
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
-<br></br>
+
+
 - ==WHAT DID YOU MAKE? AND WHY DID IT MATTERS?==
 
     ![](../images/CloserIntimacy00.jpg)
@@ -81,7 +82,7 @@ Dummy text goes brrrr
     I will keep in mind what this experience has taught me and I am keen to ==further research== on exploring natural environments through the help of technology.<br></br>
 
 
-- == AFTER SEEING THE VIDEOS OF YOUR DESIGN SPACE COLLECTIVE, HOW DOES IT CHANGE YOUR UNDERSTANDING OF IT? == PRESENT NEW OPPORTUNITIES OR INSPIRE NEW POSSIBILITIES FOR COLLABORATION. <br></br>
+- ==AFTER SEEING THE VIDEOS OF YOUR DESIGN SPACE COLLECTIVE, HOW DOES IT CHANGE YOUR UNDERSTANDING OF IT?== PRESENT NEW OPPORTUNITIES OR INSPIRE NEW POSSIBILITIES FOR COLLABORATION. <br></br>
 
     I feel like that everyone in the group had a small opportunity to deviate from the established rules of “Design Thinking”, allowing us to delve into a more ==introspective== approach to design. It was intriguing to observe how each one engaged with this task in their unique way, and I believe this divergence has ==enriched our understanding of one another==.
     I would be really curious to gain a deeper understanding of ==Anthuanet’s perspective on rituals==. I believe incorporating a more spiritual approach into our projects could yield new fascinating dimensions, and I think this could also relate to my own concepts of symbiosis in between humans-machines-non/humans.<br></br>
