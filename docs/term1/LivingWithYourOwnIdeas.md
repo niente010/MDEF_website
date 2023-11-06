@@ -67,9 +67,9 @@ Dummy text goes brrrr
 
 - ==WHAT HAPPENS WHEN YOU INVOLVE YOURSELF? WHAT HAPPENS WHEN YOU USE YOURSELF AS AN INSTRUMENT?==<br></br>
 
-    I believe that personal involvement is fueled by one's own ideals. 
+    I believe that personal involvement is fueled by one's own ==ideals==. 
     When you internalize and believe in these values, you are actively and personally engaged in your pursuits. If these ideals are deeply held, they can help in not getting influenced by side interests, allowing to focus more immersively into your objectives.
-    Moreover, this practice leads to a deeper self-understanding, as constant interaction with our own principles facilitates personal growth and insight.<br></br>
+    Moreover, this practice leads to a ==deeper self-understanding==, as constant interaction with our own principles facilitates personal growth and insight.<br></br>
 
 
 - ==DID ANYTHING CHANGE ABOUT YOUR WAY OF WORKING?== <br></br>

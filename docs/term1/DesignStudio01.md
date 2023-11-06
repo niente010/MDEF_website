@@ -134,7 +134,12 @@ This sensor has been connected to a ==speaker== which provides ==real-time feedb
 
 ### **Process**
 
-![](../images/DownthePipe03.jpg) 
+![](../images/DownthePipe03.jpg){: .image-half-size-left } 
+
+Having defined our concept, the initial step was to prototype a device that could serve our purpose. Our concepts were inspired by the "Smart Citizen" project, which prompted us to seek guidance from the Code lab. We reached out to Oscar Gonzalez, who generously allowed us to borrow a PM2.5 sensor from the laboratory, which is the same model used by the Smart Citizen kit. With the sensor in hand, we connected it to an Arduino board using the appropriate adapter. 
+
+Therefore, we incorporated an auditory component. A speaker, graciously loaned to us by Minnie, was repurposed from their "Anxiety Machine" from The Machine Paradox seminar. This speaker would enable us to transform the data collected by the PM2.5 sensor into an audible experience.
+
 ![](../images/DownthePipe02.jpg) 
 ![](../images/DownthePipe04.jpg)
 
