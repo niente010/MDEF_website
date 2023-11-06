@@ -134,9 +134,10 @@ This sensor has been connected to a ==speaker== which provides ==real-time feedb
 
 ### **Process**
 
-![](../images/DownthePipe02.jpg) 
 ![](../images/DownthePipe03.jpg) 
+![](../images/DownthePipe02.jpg) 
 ![](../images/DownthePipe04.jpg)
+
 
 
 ??? example "**Code for Down the Pipe Experiment**"
