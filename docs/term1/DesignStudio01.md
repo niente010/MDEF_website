@@ -140,13 +140,13 @@ Having defined our concept, the initial step was to ==prototype== a device that 
 
 Therefore, we incorporated an auditory component. A ==speaker==, graciously loaned to us by Minnie, was repurposed from their **[Triggered](https://minnie-at-iaac.github.io/term1/05-Machine-Paradox/Triggered/)** machine from The Machine Paradox seminar. This speaker would enable us to transform the data collected by the PM2.5 sensor into an audible experience.
 
-![](../images/DownthePipe02.jpg){: .image-40-size-left } 
-![](../images/DownthePipe04.jpg){: .image-40-size-right }
+![](../images/DownthePipe02.jpg){: .image-half-size-left } 
+![](../images/DownthePipe04.jpg){: .image-half-size-right }
 <div style="clear: both;"></div>
 
 ??? example "**Code for Down the Pipe Experiment**"
     
-    ``` py linenums="1"
+    ``` py 
         /* CODE FOR DOWN THE PIPE EXPERIMENT */
 
         #include "Adafruit_PM25AQI.h"
