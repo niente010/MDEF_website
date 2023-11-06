@@ -200,7 +200,6 @@ Therefore, we incorporated an auditory component. A ==speaker==, graciously loan
             return;
         }
 
-
         Serial.println("AQI reading success");
         Serial.println();
         Serial.println(F("---------------------------------------"));

@@ -73,15 +73,15 @@
   margin-bottom: 10px; /* Optionally add space below the image */
 }
 
-.image-40-size-left {
-  width: 40%;        /* Set the width of the image to 50% of its container */
+.image-45-size-left {
+  width: 45%;        /* Set the width of the image to 50% of its container */
   float: left;       /* Float the image to the left */
   margin-right: 15px; /* Add some space between the image and the text */
   margin-bottom: 10px; /* Optionally add space below the image */
 }
 
-.image-40-size-right {
-  width: 40%;        /* Set the width of the image to 50% of its container */
+.image-45-size-right {
+  width: 45%;        /* Set the width of the image to 50% of its container */
   float: right;      /* Float the image to the right */
   margin-left: 15px; /* Add some space between the image and the text */
   margin-bottom: 10px; /* Optionally add space below the image */
