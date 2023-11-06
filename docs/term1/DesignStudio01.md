@@ -102,6 +102,13 @@ This tool aligns more with the ==2nd Role of Prototyping==, as its primary goal 
 
 ![](../images/DownthePipe00.jpg)
 
+We began our journey in this very first Design Intervention by ==sharing our personal Design Spaces==. This sensitive phase was crucial, serving as the roots of our project and helping us in recognizing our own interests and capabilities. Despite our varied backgrounds and different aspirations, we discovered that we shared a number of common values.
+
+The challenge then became to translate this spectrum of ideas into a 1st Person Perspective Intervention, or at least, a collective one. 
+We realized that ==public transportation==, particularly the Metro System, profoundly echoed our thoughts, as this acts as an underground microcosm of society's broader interactions. 
+Marius then presented us a study which revealed a concerning fact: ==the air quality within the Metro system is significantly worse than that on the surface==, largely due to harmful particulates emanating from the rails. Intrigued by these findings, we delved into further research and quickly realized the gravity of the issue. 
+
+This newfound understanding sparked an intense interest in the topic among us.
 
 !!! note ""
 
@@ -109,7 +116,13 @@ This tool aligns more with the ==2nd Role of Prototyping==, as its primary goal 
 
 ![](../images/DownthePipe01.jpg)
 
-Dummy text goes brrrr
+We aim to bring attention to the state of ==air quality== in public transport, with a particular focus on the ==Metro System of Barcelona==. While governments and citizens are increasingly demanding for more public transportation systems, it is crucial to verify and expose the ecological implications of these systems. 
+
+This complex network spans the metropolitan area and, ==while it's primarily used to guide trains==, it represents an ecosystem overflowing with untapped potential. ==The spaces within extend far beyond what is accessible to users==, suggesting a reservoir of opportunity for reinvent. The Metro's network could potentially support a broader ecological community, possibly serving as a habitat for various species that could thrive in these kilometres of underground galleries.
+
+To delve into this challenge, we have equipped ourselves with a ==PM2.5 sensor==: evaluating PM2.5 levels is crucial for assessing air quality because these particles are an important indicator of health risks from air pollution. PM2.5 refers to particulate matter that is 2.5 micrometers in diameter or smaller. These tiny particles are small enough to penetrate deep into the lungs and even enter the bloodstream, which can cause significant health problems.
+
+This sensor has been connected to a ==speaker== which provides ==real-time feedback on the air quality== at various stations within Barcelona’s Metro. We then experienced a ==typical commute to IaaC in the L4 Metro==, from ==La Pau== Station to ==Bogatell==, using the sensor's readings to audibly illustrate the invisible threat lurking in the air we breathe.
 
 !!! abstract "References"
     - https://www.mdpi.com/2305-6304/10/10/557
