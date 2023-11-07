@@ -11,11 +11,6 @@
 
 <div style="clear:both;"></div>
 
-## **Introduction**
-
-Dummy text goes brrrr
-
-!!! note ""
 
 ## **Make a (living/non living) companion**
 

@@ -16,11 +16,6 @@
     
     Albert Vila Bonfill, Anna Fedele, Dhrishya Ramadass, Mihnea Nicolae Patrascu, Nicolo Baldi, Qianyin Du
 
-## **Introduction** 
-
-Dummy text goes brrrr
-
-!!! note ""
 
 ## **Forensic Report: 3D Printer**
 
