@@ -136,7 +136,7 @@ The motor maneuvers the pen across what we playfully dub your 'life bookmark'. T
 ??? example "**Code for LifeX**"
 
     ``` py
-     
+
         //Servomotor library
         #include <Servo.h>
 
@@ -264,7 +264,7 @@ The motor maneuvers the pen across what we playfully dub your 'life bookmark'. T
             } 
         }
         }
-    
+    ```
 
 ### **Final Result**
 
