@@ -1000,136 +1000,134 @@ The motor maneuvers the pen across what we playfully dub your &lsquo;life bookma
 
 <details class="example">
 <summary><strong>Code for LifeX</strong></summary>
-<p>``` py</p>
-<div class="codehilite"><pre><span></span><code>//Servomotor library
-#include &lt;Servo.h&gt;
+<div class="highlight"><pre><span></span><code>    <span class="o">//</span><span class="n">Servomotor</span> <span class="n">library</span>
+    <span class="c1">#include &lt;Servo.h&gt;</span>
 
-// Define stepper motor connections and steps per revolution:
-#define dirPin 2
-#define stepPin 3
-#define stepsPerRevolution 200
+    <span class="o">//</span> <span class="n">Define</span> <span class="n">stepper</span> <span class="n">motor</span> <span class="n">connections</span> <span class="ow">and</span> <span class="n">steps</span> <span class="n">per</span> <span class="n">revolution</span><span class="p">:</span>
+    <span class="c1">#define dirPin 2</span>
+    <span class="c1">#define stepPin 3</span>
+    <span class="c1">#define stepsPerRevolution 200</span>
 
-//LCD settings
-#include &lt;Wire.h&gt; 
-#include &lt;LiquidCrystal_I2C.h&gt;
-LiquidCrystal_I2C lcd(0x27, 16, 2);
+    <span class="o">//</span><span class="n">LCD</span> <span class="n">settings</span>
+    <span class="c1">#include &lt;Wire.h&gt; </span>
+    <span class="c1">#include &lt;LiquidCrystal_I2C.h&gt;</span>
+    <span class="n">LiquidCrystal_I2C</span> <span class="n">lcd</span><span class="p">(</span><span class="mh">0x27</span><span class="p">,</span> <span class="mi">16</span><span class="p">,</span> <span class="mi">2</span><span class="p">);</span>
 
-//PEN ServoMotor
-Servo penMotor;  //define the servomotor
-int potpin = A1;  //define servomotor pin
-int val;          //variable for servomotor
+    <span class="o">//</span><span class="n">PEN</span> <span class="n">ServoMotor</span>
+    <span class="n">Servo</span> <span class="n">penMotor</span><span class="p">;</span>  <span class="o">//</span><span class="n">define</span> <span class="n">the</span> <span class="n">servomotor</span>
+    <span class="nb">int</span> <span class="n">potpin</span> <span class="o">=</span> <span class="n">A1</span><span class="p">;</span>  <span class="o">//</span><span class="n">define</span> <span class="n">servomotor</span> <span class="n">pin</span>
+    <span class="nb">int</span> <span class="n">val</span><span class="p">;</span>          <span class="o">//</span><span class="n">variable</span> <span class="k">for</span> <span class="n">servomotor</span>
 
-const int buttonPin = 4;  // the number of the pushbutton pin
-int buttonState = 0;      // variable for reading the pushbutton status
+    <span class="n">const</span> <span class="nb">int</span> <span class="n">buttonPin</span> <span class="o">=</span> <span class="mi">4</span><span class="p">;</span>  <span class="o">//</span> <span class="n">the</span> <span class="n">number</span> <span class="n">of</span> <span class="n">the</span> <span class="n">pushbutton</span> <span class="n">pin</span>
+    <span class="nb">int</span> <span class="n">buttonState</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>      <span class="o">//</span> <span class="n">variable</span> <span class="k">for</span> <span class="n">reading</span> <span class="n">the</span> <span class="n">pushbutton</span> <span class="n">status</span>
 
-const int buttonPin1 = 5;
-int buttonState1 = 0;
-int home = 0;
-int prediction = 0;
-int start = 0;
+    <span class="n">const</span> <span class="nb">int</span> <span class="n">buttonPin1</span> <span class="o">=</span> <span class="mi">5</span><span class="p">;</span>
+    <span class="nb">int</span> <span class="n">buttonState1</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="nb">int</span> <span class="n">home</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="nb">int</span> <span class="n">prediction</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="nb">int</span> <span class="n">start</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
 
-long ranValue;
+    <span class="n">long</span> <span class="n">ranValue</span><span class="p">;</span>
 
-void penUp(){
-//PEN UP
-delay(1000);
-val = 0;
-val = map(val, 0, 1023, 0, 180);  
-penMotor.write(val);    
-}
+    <span class="n">void</span> <span class="n">penUp</span><span class="p">(){</span>
+    <span class="o">//</span><span class="n">PEN</span> <span class="n">UP</span>
+    <span class="n">delay</span><span class="p">(</span><span class="mi">1000</span><span class="p">);</span>
+    <span class="n">val</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="n">val</span> <span class="o">=</span> <span class="nb">map</span><span class="p">(</span><span class="n">val</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">1023</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">180</span><span class="p">);</span>  
+    <span class="n">penMotor</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">val</span><span class="p">);</span>    
+    <span class="p">}</span>
 
-void penDown(){
-    //PEN DOWN
-    val = 90;
-    penMotor.write(val);
-}
+    <span class="n">void</span> <span class="n">penDown</span><span class="p">(){</span>
+        <span class="o">//</span><span class="n">PEN</span> <span class="n">DOWN</span>
+        <span class="n">val</span> <span class="o">=</span> <span class="mi">90</span><span class="p">;</span>
+        <span class="n">penMotor</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">val</span><span class="p">);</span>
+    <span class="p">}</span>
 
-void setup() {
+    <span class="n">void</span> <span class="n">setup</span><span class="p">()</span> <span class="p">{</span>
 
-Serial.begin(9600);
-// Declare pins as output:
-pinMode(stepPin, OUTPUT);
-pinMode(dirPin, OUTPUT);
-pinMode(buttonPin, INPUT);
-penMotor.attach(potpin);
-randomSeed(analogRead(0));
+    <span class="n">Serial</span><span class="o">.</span><span class="n">begin</span><span class="p">(</span><span class="mi">9600</span><span class="p">);</span>
+    <span class="o">//</span> <span class="n">Declare</span> <span class="n">pins</span> <span class="k">as</span> <span class="n">output</span><span class="p">:</span>
+    <span class="n">pinMode</span><span class="p">(</span><span class="n">stepPin</span><span class="p">,</span> <span class="n">OUTPUT</span><span class="p">);</span>
+    <span class="n">pinMode</span><span class="p">(</span><span class="n">dirPin</span><span class="p">,</span> <span class="n">OUTPUT</span><span class="p">);</span>
+    <span class="n">pinMode</span><span class="p">(</span><span class="n">buttonPin</span><span class="p">,</span> <span class="n">INPUT</span><span class="p">);</span>
+    <span class="n">penMotor</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="n">potpin</span><span class="p">);</span>
+    <span class="n">randomSeed</span><span class="p">(</span><span class="n">analogRead</span><span class="p">(</span><span class="mi">0</span><span class="p">));</span>
 
-lcd.begin();
-lcd.backlight();
-}
+    <span class="n">lcd</span><span class="o">.</span><span class="n">begin</span><span class="p">();</span>
+    <span class="n">lcd</span><span class="o">.</span><span class="n">backlight</span><span class="p">();</span>
+    <span class="p">}</span>
 
-void initit() {
+    <span class="n">void</span> <span class="n">initit</span><span class="p">()</span> <span class="p">{</span>
 
-if ((buttonState == HIGH) &amp;&amp; (home == 0)) {
-    digitalWrite(dirPin, HIGH); 
-    Serial.println(&quot;Reset...&quot;);
+    <span class="k">if</span> <span class="p">((</span><span class="n">buttonState</span> <span class="o">==</span> <span class="n">HIGH</span><span class="p">)</span> <span class="o">&amp;&amp;</span> <span class="p">(</span><span class="n">home</span> <span class="o">==</span> <span class="mi">0</span><span class="p">))</span> <span class="p">{</span>
+        <span class="n">digitalWrite</span><span class="p">(</span><span class="n">dirPin</span><span class="p">,</span> <span class="n">HIGH</span><span class="p">);</span> 
+        <span class="n">Serial</span><span class="o">.</span><span class="n">println</span><span class="p">(</span><span class="s2">&quot;Reset...&quot;</span><span class="p">);</span>    
 
-    void penUp();
-    prediction = 0;
+        <span class="n">void</span> <span class="n">penUp</span><span class="p">();</span>
+        <span class="n">prediction</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>                      
 
-    //Spin the stepper motor 5 revolutions fast:
-    for (int i = 0; i &lt; stepsPerRevolution; i++) {
-    // These four lines result in 1 step:
-    digitalWrite(stepPin, HIGH);
-    delayMicroseconds(500);
-    digitalWrite(stepPin, LOW);
-    delayMicroseconds(500);
-    }
-} else if (buttonState == LOW) {
-    //Serial.println(&quot;Ready!&quot;);
-    home = 1;
-}
-}
+        <span class="o">//</span><span class="n">Spin</span> <span class="n">the</span> <span class="n">stepper</span> <span class="n">motor</span> <span class="mi">5</span> <span class="n">revolutions</span> <span class="n">fast</span><span class="p">:</span>
+        <span class="k">for</span> <span class="p">(</span><span class="nb">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">stepsPerRevolution</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+        <span class="o">//</span> <span class="n">These</span> <span class="n">four</span> <span class="n">lines</span> <span class="n">result</span> <span class="ow">in</span> <span class="mi">1</span> <span class="n">step</span><span class="p">:</span>
+        <span class="n">digitalWrite</span><span class="p">(</span><span class="n">stepPin</span><span class="p">,</span> <span class="n">HIGH</span><span class="p">);</span>
+        <span class="n">delayMicroseconds</span><span class="p">(</span><span class="mi">500</span><span class="p">);</span>
+        <span class="n">digitalWrite</span><span class="p">(</span><span class="n">stepPin</span><span class="p">,</span> <span class="n">LOW</span><span class="p">);</span>
+        <span class="n">delayMicroseconds</span><span class="p">(</span><span class="mi">500</span><span class="p">);</span>
+        <span class="p">}</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">buttonState</span> <span class="o">==</span> <span class="n">LOW</span><span class="p">)</span> <span class="p">{</span>
+        <span class="o">//</span><span class="n">Serial</span><span class="o">.</span><span class="n">println</span><span class="p">(</span><span class="s2">&quot;Ready!&quot;</span><span class="p">);</span>
+        <span class="n">home</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
+    <span class="p">}</span>
+    <span class="p">}</span>
 
-void loop() {
+    <span class="n">void</span> <span class="n">loop</span><span class="p">()</span> <span class="p">{</span>
 
-// read the state of the pushbutton value:
-buttonState = digitalRead(buttonPin);
-buttonState1 = digitalRead(buttonPin1);
+    <span class="o">//</span> <span class="n">read</span> <span class="n">the</span> <span class="n">state</span> <span class="n">of</span> <span class="n">the</span> <span class="n">pushbutton</span> <span class="n">value</span><span class="p">:</span>
+    <span class="n">buttonState</span> <span class="o">=</span> <span class="n">digitalRead</span><span class="p">(</span><span class="n">buttonPin</span><span class="p">);</span>
+    <span class="n">buttonState1</span> <span class="o">=</span> <span class="n">digitalRead</span><span class="p">(</span><span class="n">buttonPin1</span><span class="p">);</span>
 
-initit();
+    <span class="n">initit</span><span class="p">();</span>
 
-if ((buttonState1 == LOW) &amp;&amp; (home == 1)) {
+    <span class="k">if</span> <span class="p">((</span><span class="n">buttonState1</span> <span class="o">==</span> <span class="n">LOW</span><span class="p">)</span> <span class="o">&amp;&amp;</span> <span class="p">(</span><span class="n">home</span> <span class="o">==</span> <span class="mi">1</span><span class="p">))</span> <span class="p">{</span>
 
-    ranValue = random(0,23);  // 1000*20200
-    ranValue = ranValue * 100;
+        <span class="n">ranValue</span> <span class="o">=</span> <span class="n">random</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">23</span><span class="p">);</span>  <span class="o">//</span> <span class="mi">1000</span><span class="o">*</span><span class="mi">20200</span>
+        <span class="n">ranValue</span> <span class="o">=</span> <span class="n">ranValue</span> <span class="o">*</span> <span class="mi">100</span><span class="p">;</span>
 
-    lcd.clear();
-    lcd.setCursor(2,0);
-    Serial.println(&quot;Predicting...&quot;);
-    lcd.print(&quot;Predicting...&quot;);
+        <span class="n">lcd</span><span class="o">.</span><span class="n">clear</span><span class="p">();</span>
+        <span class="n">lcd</span><span class="o">.</span><span class="n">setCursor</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="mi">0</span><span class="p">);</span>
+        <span class="n">Serial</span><span class="o">.</span><span class="n">println</span><span class="p">(</span><span class="s2">&quot;Predicting...&quot;</span><span class="p">);</span>
+        <span class="n">lcd</span><span class="o">.</span><span class="n">print</span><span class="p">(</span><span class="s2">&quot;Predicting...&quot;</span><span class="p">);</span>
 
-    if (prediction == 0) {
-    digitalWrite(dirPin, LOW);
-    void penDown();
+        <span class="k">if</span> <span class="p">(</span><span class="n">prediction</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">digitalWrite</span><span class="p">(</span><span class="n">dirPin</span><span class="p">,</span> <span class="n">LOW</span><span class="p">);</span>
+        <span class="n">void</span> <span class="n">penDown</span><span class="p">();</span>
 
-    for (int i = 0; i &lt; ranValue; i++) {
-        // These four lines result in 1 step:
-        digitalWrite(stepPin, HIGH);
-        delayMicroseconds(500);
-        digitalWrite(stepPin, LOW);
-        delayMicroseconds(500);
-        prediction = 1;
-    }
-    //the prediction is done!
-    lcd.clear();
-    Serial.print(&quot;Your Lifex is: &quot;);
-    Serial.println(ranValue/23);
-    lcd.setCursor(1,0);
-    lcd.print(&quot;Your Lifex is: &quot;);
-    lcd.setCursor(7,1);
-    lcd.print((ranValue/23)+10);
+        <span class="k">for</span> <span class="p">(</span><span class="nb">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">ranValue</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+            <span class="o">//</span> <span class="n">These</span> <span class="n">four</span> <span class="n">lines</span> <span class="n">result</span> <span class="ow">in</span> <span class="mi">1</span> <span class="n">step</span><span class="p">:</span>
+            <span class="n">digitalWrite</span><span class="p">(</span><span class="n">stepPin</span><span class="p">,</span> <span class="n">HIGH</span><span class="p">);</span>
+            <span class="n">delayMicroseconds</span><span class="p">(</span><span class="mi">500</span><span class="p">);</span>
+            <span class="n">digitalWrite</span><span class="p">(</span><span class="n">stepPin</span><span class="p">,</span> <span class="n">LOW</span><span class="p">);</span>
+            <span class="n">delayMicroseconds</span><span class="p">(</span><span class="mi">500</span><span class="p">);</span>
+            <span class="n">prediction</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span>
+        <span class="p">}</span>
+        <span class="o">//</span><span class="n">the</span> <span class="n">prediction</span> <span class="ow">is</span> <span class="n">done</span><span class="err">!</span>
+        <span class="n">lcd</span><span class="o">.</span><span class="n">clear</span><span class="p">();</span>
+        <span class="n">Serial</span><span class="o">.</span><span class="n">print</span><span class="p">(</span><span class="s2">&quot;Your Lifex is: &quot;</span><span class="p">);</span>
+        <span class="n">Serial</span><span class="o">.</span><span class="n">println</span><span class="p">(</span><span class="n">ranValue</span><span class="o">/</span><span class="mi">23</span><span class="p">);</span>
+        <span class="n">lcd</span><span class="o">.</span><span class="n">setCursor</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">0</span><span class="p">);</span>
+        <span class="n">lcd</span><span class="o">.</span><span class="n">print</span><span class="p">(</span><span class="s2">&quot;Your Lifex is: &quot;</span><span class="p">);</span>
+        <span class="n">lcd</span><span class="o">.</span><span class="n">setCursor</span><span class="p">(</span><span class="mi">7</span><span class="p">,</span><span class="mi">1</span><span class="p">);</span>
+        <span class="n">lcd</span><span class="o">.</span><span class="n">print</span><span class="p">((</span><span class="n">ranValue</span><span class="o">/</span><span class="mi">23</span><span class="p">)</span><span class="o">+</span><span class="mi">10</span><span class="p">);</span>
 
-    //get back Home
-    void penUp();
-    delay(5000);
-    home = 0;
-    //initit();     
-    } 
-}
-}
+        <span class="o">//</span><span class="n">get</span> <span class="n">back</span> <span class="n">Home</span>
+        <span class="n">void</span> <span class="n">penUp</span><span class="p">();</span>
+        <span class="n">delay</span><span class="p">(</span><span class="mi">5000</span><span class="p">);</span>
+        <span class="n">home</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+        <span class="o">//</span><span class="n">initit</span><span class="p">();</span>     
+        <span class="p">}</span> 
+    <span class="p">}</span>
+    <span class="p">}</span>
 </code></pre></div>
-
 </details>
 <h3 id="final-result"><strong>Final Result</strong><a class="headerlink" href="#final-result" title="Permanent link">&para;</a></h3>
 <div class="sketchfab-embed-wrapper"> 
