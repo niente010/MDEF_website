@@ -14,9 +14,9 @@
 
 !!! info "**Team**"
     
-    Albert Vila Bonfill, Anna Fedele, Dhrishya Ramadass, Mihnea Nicolae Patrascu, Nicolo Baldi, Qianyin Du
+    Albert Vila Bonfill, Anna Fedele, Dhrishya Ramadass, Mihnea Nicolae Patrascu, Nicolò Baldi, Qianyin Du
 
-!!! success ""
+!!! tip ""
     ## **Introduction**
 
     The 'Machine Paradox' seminar was designed to immerse us in a hacking process. We began with discarded electronic devices, aiming to deconstruct and reinvent them for whimsical, unconventional purposes. This paradox lies in the idea that dismantling devices with our own hands empowers us to understand their inner workings beyond the "black box". Furthermore, ideate impractical uses for these devices enhances our creativity, teaching us how to reimagine existing solutions.
@@ -66,13 +66,17 @@
 
 ### **Forensic Questions**
 
-- ==WHAT DOES IT DO?== A 3D printer ==creates three-dimensional objects by layering material== based on a digital design. Using a computer-aided design (CAD) model as a blueprint, the printer adds material layer by layer to form a solid object. 
+==WHAT DOES IT DO?== 
+: A 3D printer ==creates three-dimensional objects by layering material== based on a digital design. Using a computer-aided design (CAD) model as a blueprint, the printer adds material layer by layer to form a solid object. 
 
-- ==HOW DOES IT WORK?== Depending on the technology used, the printer deposits material with each layer fusing to the one below. The material is solidified using various methods like heating, UV curing, or laser sintering, resulting in a three-dimensional object that matches the digital design.
+==HOW DOES IT WORK?== 
+: Depending on the technology used, the printer deposits material with each layer fusing to the one below. The material is solidified using various methods like heating, UV curing, or laser sintering, resulting in a three-dimensional object that matches the digital design.
 
-- ==HOW IS IT BUILT?== The 3D printer is constructed using a combination of mechanical, electronic, and software components. ==Mechanically==, it features a frame that houses the moving parts, including the print head or extruder, and a build platform. These components are driven by motors, guided by linear rails or rods, ensuring precise movements on the X, Y, and Z axes. ==Electronically==, a main control board processes digital instructions from the slicing ==software==, directing the motors and regulating the temperature of the print head or curing source. 
+==HOW IS IT BUILT?==
+:  The 3D printer is constructed using a combination of mechanical, electronic, and software components. ==Mechanically==, it features a frame that houses the moving parts, including the print head or extruder, and a build platform. These components are driven by motors, guided by linear rails or rods, ensuring precise movements on the X, Y, and Z axes. ==Electronically==, a main control board processes digital instructions from the slicing ==software==, directing the motors and regulating the temperature of the print head or curing source. 
 
-- ==WHY IT FAILED, OR IT WASN'T USED ANYMORE?== The 3D printer ==still functions, but it's an older, unstable model== with low accuracy and print quality.
+==WHY IT FAILED, OR IT WASN'T USED ANYMORE?== 
+: The 3D printer ==still functions, but it's an older, unstable model== with low accuracy and print quality.
 
 
 ### **Steps Taken**
@@ -91,23 +95,27 @@ After the disassembly process, we meticulously ==examined each individual compon
 
 ### **Results**
 
-- ==HOW MANY MOTORS DID YOU FIND INSIDE?== Five motors used to move the extruder in the three axis to permit printing in 3D space.
-‍
-- ==DOES IT CONTAIN A COMPUTER OR MICROCONTROLLER?== Yes, an Arduino board and a RAMPS.
-‍
-- ==DID YOU FIND ANY SENSORS?== Yes, temperature sensors.
+==HOW MANY MOTORS DID YOU FIND INSIDE?== 
+: Five motors used to move the extruder in the three axis to permit printing in 3D space.
+
+==DOES IT CONTAIN A COMPUTER OR MICROCONTROLLER?==
+: Yes, an Arduino board and a RAMPS.
+
+==DID YOU FIND ANY SENSORS?==
+: Yes, temperature sensors.
 
 ### **Conclusions**
 
-- ==WHAT DID YOU LEARN?==
-    - How a 3D printer is assembled.
+==WHAT DID YOU LEARN?==
+:    - How a 3D printer is assembled.
     - How a 3D printer works.
     - How to power up each component individually.
     - Fundamental electronics.
     - How a step motor works.
-‍
-- ==WHAT SURPRISED YOU?==
-    - The number of components, screws and pieces the printer had.
+
+
+==WHAT SURPRISED YOU?==
+:    - The number of components, screws and pieces the printer had.
     - The fact that we can make the extruder work with just few    components.
     - How easy and repareable it is.
     - How much the 3D technology has improved since 2015.
@@ -314,11 +322,11 @@ The motor maneuvers the pen across what we playfully dub your 'life bookmark'. T
 
 !!! tip ""
     ## **Reflections**
-    For a long time, I've been curious to delve into an operation of this nature. The idea of going beneath the surface of our technological devices has always intrigued me: not necessarily to understand every technical detail they offer, but to demystify them and create a more empathetic connection with what we typically consider as “machines” or “tools”.
+    For a long time, I've been curious to delve into an operation of this nature. The idea of going beneath the surface of our technological devices has always intrigued me: not necessarily to understand every technical detail they offer, but to ==demystify== them and create a more empathetic connection with what we typically consider as “machines” or “tools”.
 
-    Reading James Bridle's “New Dark Age” was a revelation for me: it helped clarify how we often misconceive digital processes as occurring in some ethereal 'cloud.' Bridle effectively debunks this notion, illustrating how these complex phenomena are inextricably linked to the real world and its resources. This realization is valid not only for physical interfaces, where the opacity often prevents users from understanding, repairing, or modifying the internals, but also for digital interfaces like AI. The opaque nature of AI's data extraction processes often renders them unquestionable and inaccessible to users.
+    Reading ==James Bridle's “New Dark Age”== was a revelation for me: it helped clarify how we often misconceive digital processes as occurring in some ethereal ==cloud==. Bridle effectively debunks this notion, illustrating how these complex phenomena are inextricably linked to the real world and its resources. This realization is valid not only for physical interfaces, where ==the opacity often prevents users from understanding, repairing, or modifying the internals==, but also for digital interfaces like AI. The opaque nature of AI's data extraction processes often renders them unquestionable and inaccessible to users.
 
-    This is why adopting a critical approach towards technology is essential. We need to empathize with it, striving to observe and understand its mechanisms both from practical and conceptual standpoints.
+    This is why adopting a ==critical approach towards technology== is essential. We need to empathize with it, striving to observe and understand its mechanisms both from practical and conceptual standpoints.
     
 
 !!! note ""

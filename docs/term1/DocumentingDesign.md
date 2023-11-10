@@ -9,7 +9,7 @@
 
 <div style="clear:both;"></div>
 
-!!! success ""
+!!! tip ""
     ## **Introduction**
 
     The ongoing process of documentation, spanning the entire MDEF program, is showcased on this website. 

@@ -9,6 +9,12 @@
 
 <div style="clear:both;"></div>
 
+!!! tip ""
+    ## **Introduction** 
+    The "Atlas of Weak Signals" seminar, along with the relative ==cards== we received, is designed to prompt reflection on the resources, interests, and tools we've encountered in our past experiences and here in Barcelona. The aim is to address these reflections into tangible Design Interventions.
+
+!!! note ""
+
 ## **Weak Signals and Design Space**
 
 Weak signals are an early indicator of change, a small inflection that has the potential to evolve into something more influential.
@@ -92,5 +98,11 @@ The goal is to translate this abstract Weak Signals into actual emergent realiti
 Once having outlined a global overview of my personal design practice, it’s now crucial to refine and organize these principles to define an integrated visualization. This approach aims to interlink each principle, allowing for a seamless flow and a quick, intuitive grasp of the various thematic connections. Now the Design Space is also enriched with case studies and concepts, that might soon evolve in ==Design Interventions==.
 
 **[Click here](https://arc.net/e/A0D1387E-5784-42C5-90FF-E6BCB186F61C)** to navigate my Design Space.
+
+!!! note ""
+
+!!! tip ""
+    ## **Reflections**  
+    I've found the in-depth analysis of our background and the identification of potential applications extremely helpful in defining our future project ideas: interacting with the cards as well as sharing our ideas have proven to be very stimulating. Additionally, regularly updating our Design Space and observing its evolution is a thrilling exercise that helps keep our ideas focused and dynamic.
 
 !!! note ""

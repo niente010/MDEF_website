@@ -9,7 +9,7 @@
 
 <div style="clear:both;"></div>
 
-!!! success ""
+!!! tip ""
     ## **Introduction**
 
     The landing week has been designed to ease our transition and immerse us in our new environment in Barcelona. It’s an exciting introduction to our journey, showcasing IaaC’s spaces, labs, and the culturally rich communities of Poblenou.

@@ -273,3 +273,8 @@ Having defined our concept, the initial step was to ==prototype== a device that 
 </iframe>
 
 !!! note ""
+
+!!! tip ""
+    ## **Reflections**
+    [10-11-23]
+    : Experiencing this ....
