@@ -16,6 +16,12 @@
     
     Albert Vila Bonfill, Anna Fedele, Dhrishya Ramadass, Mihnea Nicolae Patrascu, Nicolo Baldi, Qianyin Du
 
+!!! success ""
+    ## **Introduction**
+
+    The 'Machine Paradox' seminar was designed to immerse us in a hacking process. We began with discarded electronic devices, aiming to deconstruct and reinvent them for whimsical, unconventional purposes. This paradox lies in the idea that dismantling devices with our own hands empowers us to understand their inner workings beyond the "black box". Furthermore, ideate impractical uses for these devices enhances our creativity, teaching us how to reimagine existing solutions.
+
+!!! note ""
 
 ## **Forensic Report: 3D Printer**
 
@@ -303,5 +309,16 @@ The motor maneuvers the pen across what we playfully dub your 'life bookmark'. T
     height="385" 
     frameborder="0"    
     allowfullscreen></iframe>
+
+!!! note ""
+
+!!! tip ""
+    ## **Reflections**
+    For a long time, I've been curious to delve into an operation of this nature. The idea of going beneath the surface of our technological devices has always intrigued me: not necessarily to understand every technical detail they offer, but to demystify them and create a more empathetic connection with what we typically consider as “machines” or “tools”.
+
+    Reading James Bridle's “New Dark Age” was a revelation for me: it helped clarify how we often misconceive digital processes as occurring in some ethereal 'cloud.' Bridle effectively debunks this notion, illustrating how these complex phenomena are inextricably linked to the real world and its resources. This realization is valid not only for physical interfaces, where the opacity often prevents users from understanding, repairing, or modifying the internals, but also for digital interfaces like AI. The opaque nature of AI's data extraction processes often renders them unquestionable and inaccessible to users.
+
+    This is why adopting a critical approach towards technology is essential. We need to empathize with it, striving to observe and understand its mechanisms both from practical and conceptual standpoints.
+    
 
 !!! note ""

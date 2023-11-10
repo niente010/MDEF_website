@@ -9,16 +9,16 @@
 
 <div style="clear:both;"></div>
 
-## **Introduction**
+!!! success ""
+    ## **Introduction**
 
-The ongoing process of documentation, spanning the entire MDEF program, is showcased on this website. 
-This space is dedicate to delve into our personal reflections and gain insights into our projects.
+    The ongoing process of documentation, spanning the entire MDEF program, is showcased on this website. 
+    This space is dedicate to delve into our personal reflections and gain insights into our projects.
 
 !!! note ""
 
-## **Reflection**
-
-!!! question ""
+!!! tip ""
+    ## **Reflections**
 
     ![](../images/DocumentingDesign.GIF){: .image-upscale-ctr }
 
