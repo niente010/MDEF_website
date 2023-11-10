@@ -36,8 +36,9 @@ The process is documented, analysed, critically assessed and written up, and the
 
 ### **Roles of Prototyping [Personal Experience]**
 
-1. ==**ZIGO-** → THE PROTOTYPE AS AN EXPERIMENTAL COMPONENT==<br></br>
+1. ==**ZIGO-** → THE PROTOTYPE AS AN EXPERIMENTAL COMPONENT== <br></br>
     ![](../images/PrototypeZigo.png){: .image-half-size-left }
+    
     ZIGO- is a rehabilitation program focused on hand injuries, where the central component is the homonymous controller, which allows finger contractions with varying resistance levels tailored to the patient’s condition. Accompanied by a videogame experience, the device facilitates consistent exercise and enables doctors to monitor rehabilitation progress. Prototyping has been a fundamental tool that allowed to ==refine the product design and functionality==. Through multiple iterations, we were able to identify the optimal shape, based on hand grip and considerating the respective percentiles. 
     **[Click here](https://nicolobaldi.com/ZIGO)** to visit ZIGO-'s page.
     <br></br>
