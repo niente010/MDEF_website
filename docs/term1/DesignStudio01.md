@@ -2,22 +2,25 @@
 
 !!! info 
     
-    **==FACULTY==**: Jana Tothill, Roger Guilemany 
+    **==FACULTY==**: Guillem Camprodon, Jana Tothill, Laura Benitez, Roger Guilemany, Tomas Diez
 
-    **==CALENDAR==**: 09-10 → ...
+    **==CALENDAR==**: 03-10 → 19-12
 
     **==TRACK==**: Application
 
 <div style="clear:both;"></div>
 
-## **1PP Design Interventions**
+!!! tip ""
+    ## **Introduction**
 
-- ==EXPERIENTIAL==
-- ==CRAFTING==
-- ==AUGMENTING==
-- ==SOCIO-POLITICAL==
+    1PP Design Interventions are: 
 
-However, the challenges could be working with materials at hand and putting yourself at risk, dealing with ==real world complexity==.
+    - ==EXPERIENTIAL==
+    - ==CRAFTING==
+    - ==AUGMENTING==
+    - ==SOCIO-POLITICAL==
+
+    However, the challenges could be working with materials at hand and putting yourself at risk, dealing with ==real world complexity==.
 
 !!! note ""
 
@@ -271,6 +274,21 @@ Having defined our concept, the initial step was to ==prototype== a device that 
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 	allowfullscreen>
 </iframe>
+
+!!! note ""
+
+!!! tip ""
+    ## **Laura Benitez**
+    ![](../images/DSC_6906.jpeg)
+
+    To emphasize the concept of entanglement, Laura asked us to choose a particular figure from our experiences that we believe led us here, now.
+
+    Reflecting on my past, one in particular came into my mind, displayed in the picture above. You might have recognized it as its shape is the personal logo i’ve chosen. This is the first piece of bio-plastic I ever created and one of my initial experiences into working hands-on with materials, particularly biomaterials. This piece was in fact crafted from a mixture of agar-agar, gelatine, water, and willow wood powder.
+
+    At the time, I didn’t fully grasp the significance of this creation. However, looking back, I can see how this moment set off a chain of events that led me here. Since that experience, I've developed a deep appreciation for projects involving manual labor, eagerly seeking tangible materials that I can shape using a multitude of techniques.
+    From a personal standpoint, it was during that period that I began to delve deeply into ecological and posthuman theories. My focus increasingly centered on climate crisis and the significance of non-human entities.
+
+    This critical approach profoundly influenced my worldview. It reshaped how I perceive my existence and my relationship with the complex ecosystem we are all an integral part of.
 
 !!! note ""
 
