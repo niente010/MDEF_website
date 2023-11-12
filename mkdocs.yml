@@ -11,17 +11,17 @@ repo_url: 'https://github.com/niente010/MDEF_website'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master Project:
-    - Initial Ideas: project/project.md
-  - Reflections :
+  - Reflections:
       - Term 1:
           - Landing: term1/Landing.md
-          - Design Studio 01: term1/DesignStudio01.md
+          - Documenting Design: term1/DocumentingDesign.md
           - Atlas of Weak Signals: term1/AtlasOfWeakSignals.md
+          - Design Studio 01: term1/DesignStudio01.md
           - The Machine Paradox: term1/TheMachineParadox.md
           - Living With Your Own Ideas: term1/LivingWithYourOwnIdeas.md
-          - Documenting Design: term1/DocumentingDesign.md
-
+          - Bio & Agri Zero: term1/Bio&AgriZero.md
+  - Master Project:
+    - Initial Ideas: project/project.md
 
 extra:
   social:

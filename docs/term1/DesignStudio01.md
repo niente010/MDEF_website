@@ -96,7 +96,7 @@ This tool aligns more with the ==2nd Role of Prototyping==, as its primary goal 
 
 !!! note ""
 
-## **Design Intervention [Down the Pipe]**
+## **Down the Pipe**
 
 !!! info "**Team**"
 
@@ -277,16 +277,16 @@ Having defined our concept, the initial step was to ==prototype== a device that 
 
 !!! note ""
 
-!!! tip ""
+!!! example ""
     ## **Laura Benitez**
     ![](../images/DSC_6906.jpeg)
 
-    To emphasize the concept of entanglement, Laura asked us to choose a particular figure from our experiences that we believe led us here, now.
+    To emphasize the concept of entanglement, Laura asked us to choose a particular ==figure== from our experiences that we believe led us here, now.
 
-    Reflecting on my past, one in particular came into my mind, displayed in the picture above. You might have recognized it as its shape is the personal logo i’ve chosen. This is the first piece of bio-plastic I ever created and one of my initial experiences into working hands-on with materials, particularly biomaterials. This piece was in fact crafted from a mixture of agar-agar, gelatine, water, and willow wood powder.
+    Reflecting on my past, one in particular came into my mind, displayed in the picture above. You might have recognized it as its shape is the personal logo i’ve chosen. This is the ==first piece of bio-plastic I ever created== and one of my initial experiences into working hands-on with materials, particularly biomaterials. This piece was in fact crafted from a mixture of agar-agar, gelatine, water, and willow wood powder.
 
-    At the time, I didn’t fully grasp the significance of this creation. However, looking back, I can see how this moment set off a chain of events that led me here. Since that experience, I've developed a deep appreciation for projects involving manual labor, eagerly seeking tangible materials that I can shape using a multitude of techniques.
-    From a personal standpoint, it was during that period that I began to delve deeply into ecological and posthuman theories. My focus increasingly centered on climate crisis and the significance of non-human entities.
+    At the time, I didn’t fully grasp the significance of this creation. However, looking back, I can see how this moment set off a ==chain of events== that led me here. Since that experience, I've developed a deep appreciation for projects involving manual labor, eagerly seeking tangible materials that I can shape using a multitude of techniques.
+    From a personal standpoint, it was during that period that I began to delve deeply into ==ecological and posthuman theories==. My focus increasingly centered on climate crisis and the significance of non-human entities.
 
     This critical approach profoundly influenced my worldview. It reshaped how I perceive my existence and my relationship with the complex ecosystem we are all an integral part of.
 
