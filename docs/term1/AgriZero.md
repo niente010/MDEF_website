@@ -44,6 +44,7 @@ To enhance our ability in recognizing the environment which surrounds us, we wer
 ==Texture Analysis==: 
 
 :   ![](../images/AgriSoil01.jpg){: .image-45-size-left } By following the methodology displayed, we assessed the soil's texture, which is crucial as it affects the soil's water retention, workability, and fertility. Step by step, we classified it as ==Silt Loam==, characterized by ==75-85% silt, 20-50% sand, and 0-25% clay==.
+<div style="clear: both;"></div>
 
 ==Munsell Soil Color Chart==: 
 
@@ -52,14 +53,19 @@ To enhance our ability in recognizing the environment which surrounds us, we wer
     - ==Hue of 5.0YR==: suggesting a dominant yellow-red color, typical for many soils and possibly indicative of iron oxides.
     - ==Value of 5/==: denoting a soil that is neither very dark nor very light, which implies a moderate organic matter content.
     - ==Chroma of /6==: indicating a distinct and strong color intensity, likely reflecting the mineral composition.
+ <div style="clear: both;"></div>
 
 ==pH Test==: 
 :   ![](../images/AgriSoil02.jpg){: .image-45-size-left } Our analysis measured the soil's acidity, resulting in a pH of 7.6, indicating that the soil is slightly alkaline.
+<div style="clear: both;"></div>
+
 
 ==PO4 and NO3 Tests==
 
 :   ![](../images/AgriSoil04.jpg){: .image-45-size-left } ![](../images/AgriSoil05.jpg){: .image-45-size-right } <div style="clear: both;"></div>
 Tests for phosphate (PO4) and nitrate (NO3) are crucial for assessing soil fertility, influencing root growth, and plant maturity. The tests yielded low values for both elements, suggesting that, depending on the crop, soil might be supplemented with a fertilizer.
+<div style="clear: both;"></div>
+
 
 ![](../images/AgriSoil06.jpg){: .image-45-size-left }
 
