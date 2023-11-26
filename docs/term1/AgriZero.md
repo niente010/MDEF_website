@@ -12,7 +12,7 @@
 
 !!! tip ""
     ## **Introduction** 
-    ...
+    During the AgriZero seminar, Jonathan introduced us to the complex relationships inherent in agriculture, illustrating its relevance today, just as it was centuries ago. He guided us through various themes including food forests, computational agriculture, and biophilia, shedding light on the intersection of traditional practices and future innovations.
 
 !!! note ""
 
@@ -24,8 +24,6 @@
 
 ## Species Analysis
 
-![](../images/AgriSpecies.jpg)
-
 <iframe 
     width="100%" 
     height="400" 
@@ -35,6 +33,8 @@
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 
+![](../images/AgriSpecies.jpg)
+
 !!! note ""
 
 ## Soil Analysis
@@ -43,17 +43,18 @@ To enhance our ability in recognizing the environment which surrounds us, we wer
 
 ==Texture Analysis==: 
 
-:   ![](../images/AgriSoil01.jpg) By following the methodology displayed, we assessed the soil's texture, which is crucial as it affects the soil's water retention, workability, and fertility. Step by step, we classified it as ==Silt Loam==, characterized by ==75-85% silt, 20-50% sand, and 0-25% clay==.
+:   ![](../images/AgriSoil01.jpg){: .image-45-size-left } By following the methodology displayed, we assessed the soil's texture, which is crucial as it affects the soil's water retention, workability, and fertility. Step by step, we classified it as ==Silt Loam==, characterized by ==75-85% silt, 20-50% sand, and 0-25% clay==.
 
 ==Munsell Soil Color Chart==: 
 
-:   ![](../images/AgriSoil03.jpg) This tool helps determine the soil's color, providing insights into its composition and condition. The Benifallet soil revealed:
+:   ![](../images/AgriSoil03.jpg){: .image-45-size-left } This tool helps determine the soil's color, providing insights into its composition and condition. The Benifallet soil revealed:
+
     - ==Hue of 5.0YR==: suggesting a dominant yellow-red color, typical for many soils and possibly indicative of iron oxides.
     - ==Value of 5/==: denoting a soil that is neither very dark nor very light, which implies a moderate organic matter content.
     - ==Chroma of /6==: indicating a distinct and strong color intensity, likely reflecting the mineral composition.
 
 ==pH Test==: 
-:   ![](../images/AgriSoil02.jpg)Our analysis measured the soil's acidity, resulting in a pH of 7.6, indicating that the soil is slightly alkaline.
+:   ![](../images/AgriSoil02.jpg){: .image-45-size-left } Our analysis measured the soil's acidity, resulting in a pH of 7.6, indicating that the soil is slightly alkaline.
 
 ==PO4 and NO3 Tests==
 
