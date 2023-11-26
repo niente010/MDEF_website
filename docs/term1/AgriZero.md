@@ -27,7 +27,7 @@
 ![](../images/AgriSpecies.jpg)
 
 <iframe 
-    width="auto" 
+    width="100%" 
     height="400" 
     src="https://www.youtube.com/embed/6M0DoILQM7g?si=p_TeVM5snL8zhxp3&amp;" 
     title="Valldaura Species Analysis" 
