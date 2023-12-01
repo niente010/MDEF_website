@@ -66,9 +66,7 @@ The genes responsible for electron transfer in *Geobacter sulfurreducens* includ
 !!! note ""
 
 !!! tip ""
-
     ## **Reflections**
-
     This week has been touching for me, striking me like a cold shower. 
     I had thought that my previous projects gave me a rough idea of what it's like to design with biology, but I've realized I've only just scratched the surface.<div></div>
 
@@ -79,6 +77,6 @@ The genes responsible for electron transfer in *Geobacter sulfurreducens* includ
 
     These reflections also brought to mind a movie that has profoundly influenced me: =="Crimes of the Future" by David Cronenberg==. 
     In the movie, there are people who have developed the ability to ==eat and digest plastic==, an evolutionary trait in response to the increasing pollution and pervasiveness of plastic in the environment.
-    These characters represent how the line between natural and artificial is blurring: their ability to consume plastic reflects a deep connection and interdependence with the human-altered environment. Moreover, they are ==outcasts from society as no-longer-humans==, and the movie emphasises the ethics of this choice considering that this ability is actually a ==benefit to the entire ecosystem==. Through these characters, Cronenberg raises questions about the ethics of the mutability of the human body, and the potential future conflicts that these may arise.<div><div> 
+    These characters represent how the line between natural and artificial is blurring: their ability to consume plastic reflects a deep connection and interdependence with the human-altered environment. Moreover, they are ==outcasts from society as no-longer-humans==, and the movie emphasises the ethics of this choice considering that this ability is actually a ==benefit to the entire ecosystem==. Through these characters, Cronenberg raises questions about the ethics of the mutability of the human body, and the potential future conflicts that these may arise.
 
     In the meantime, researching on GMOs has really deepened my understanding of the unique features inherent in every living being. This immense variety of abilities is prompting me to consider our relationship with what enhances our abilities as humans: technology. I think that concepts like ==analogue or slow computing== are really something we can learn from other organic beings.

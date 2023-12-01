@@ -294,5 +294,5 @@ Having defined our concept, the initial step was to ==prototype== a device that 
 
 !!! tip ""
     ## **Reflections**
-    [10-11-23]
-    : Experiencing this ....
+    !!! bug 
+        Work in Progress... Stay Tuned! ( ͡° ͜ʖ ͡°)
