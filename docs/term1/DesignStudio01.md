@@ -292,6 +292,43 @@ Having defined our concept, the initial step was to ==prototype== a device that 
 
 !!! note ""
 
+## **Pulse**
+
+<iframe 
+    width="100%" 
+    height="400" 
+    src="https://www.youtube.com/embed/v7DfLnNG7B8?si=WZKjndAD8OVN4y1n" 
+    title="YouTube video player" 
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+</iframe>
+
+!!! note ""
+
+### **Abstract** 
+Dummy Text goes brrrr
+
+!!! abstract "References"
+    - https://www.mdpi.com/2305-6304/10/10/557
+    - https://doi.org/10.1063/5.0023154 
+    - https://doi.org/10.1016/j.envpol.2015.07.004
+    - https://doi.org/10.1063/5.0023154 
+
+!!! note ""
+
+### **Tutorial** 
+
+<iframe 
+    width="100%" 
+    height="400" 
+    src="https://www.youtube.com/embed/3a1IpfX1REI?si=D560aR1v3MbA_QjG" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
+
+!!! note ""
+
 !!! tip ""
     ## **Reflections**
     !!! bug 
