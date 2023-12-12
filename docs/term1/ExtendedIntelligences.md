@@ -30,6 +30,10 @@ Dummy text goes brrrrrrrr
 
 ## Green Guardian
 
+!!! info "**Team**"
+    
+    Carmen Robres, Jorge Muñoz, Nicolò Baldi, Oliver Lloyd
+
 Dummy text goes brrrrrrrr
 
 !!! note ""

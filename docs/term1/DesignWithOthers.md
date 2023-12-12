@@ -24,6 +24,10 @@ Dummy text goes brrrrrrrr
 
 ## **From Micro to Macro**
 
+!!! info "**Team**"
+    
+    Albert Vila Bonfill, Anthuanet Falcon, Dhrishya Ramadass, Emmanuel Pangilinan, Flora Berkowitz, Francisca Herrera, Nicolò Baldi
+
 <iframe 
     width="100%" 
     height="400" 
@@ -32,3 +36,12 @@ Dummy text goes brrrrrrrr
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
+
+!!! note "" 
+
+!!! tip ""
+    ## **Reflections**
+
+    Dummy text goes brrrrrrrr
+
+!!! note ""

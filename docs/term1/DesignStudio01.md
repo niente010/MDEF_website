@@ -294,6 +294,10 @@ Having defined our concept, the initial step was to ==prototype== a device that 
 
 ## **Pulse**
 
+!!! info "**Team**"
+    
+    Albert Vila Bonfill, Everardo Castro Torres, Jorge Muñoz, Marius Schairer,  Nicolò Baldi, Oliver Lloyd
+
 <iframe 
     width="100%" 
     height="400" 

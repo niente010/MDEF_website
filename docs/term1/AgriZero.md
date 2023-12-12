@@ -90,12 +90,10 @@ The seed that I’ve chosen is ==Rheum Palmatum==, commonly known as ==Chinese R
 This plant originates from the mountainous regions of ==Western and Northwestern China==. This plant thrives in fertile, well-drained soils with a ==pH range of 4.5 to 6.5== and prefers full sun to partial shade. 
 It is adaptable to various soil types, including ==loamy and clay soils==. Rheum Palmatum is suited for temperate to subarctic climates, flourishing in regions with cool summers and moderately cold winters.
 
-!!! abstract References
+!!! abstract "References"
     - https://eol.org/pages/489443
-
     - https://pfaf.org/user/plant.aspx?latinname=Rheum+palmatum
     - https://www.backyardgardener.com/plantname/rheum-palmatum-atropurpureum-chinese-rhubarb/
-
     - https://www.gardenia.net/plant/rheum-palmatum
 
 !!! note ""
