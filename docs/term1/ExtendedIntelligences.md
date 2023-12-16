@@ -12,7 +12,7 @@
 
 !!! tip ""
     ## **Introduction** 
-    Dummy text goes brrrrrrrr
+    Thanks to the guidance of Taller Estampa, in this seminar we explored the diverse and potential applications of AI, ranging from aesthetic to functial enhancements. We gained basic knowledge of AI development and tools, from researching datasets to selecting AI models understanding the key concepts of training and coding.
 
 !!! note ""
 
@@ -20,7 +20,7 @@
 
 During the visit to “Expo Intel•ligència Artificial” at CCCB, we were asked to choose a few pieces from the exhibition that interested us the most.
 
-==FLI LETTER (2015) & SONY AIBO (2018) == 
+==FLI LETTER (2015) & SONY AIBO (2018)== 
 
 :   ![](../images/EI03.jpg){: .image-45-size-left } 
     ![](../images/EI01.GIF){: .image-45-size-right } 
@@ -33,17 +33,17 @@ During the visit to “Expo Intel•ligència Artificial” at CCCB, we were ask
 
     > “Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.”
 
-    I think it's fundamental not to have an Illuministic approach to new technical developments, but instead a critical one, which enables us to understand how they work behind their black box and to consider their conflicts. This idea resonsates with a quote from Nam June Paik, the pioneer artist of video art:
+    I think it's fundamental not to have an Illuministic approach to new technical developments, but instead a critical one, which enables us to understand how they work behind their black box and to consider their conflicts. This idea resonsates with a quote from ==Nam June Paik==, the pioneer artist of video art:
 
-    > “*I use technology in order to hate it more properly.*”
+    > “I use technology in order to hate it more properly.”
 
-== WATERFALL OF MEANING ==
+==WATERFALL OF MEANING==
 
-:   ![](../images/EI02.GIF)
+:   ![](../images/EI02.GIF){: .image-upscale-ctr }
 
     The other piece that I selected is “Waterfall of Meaning”, a ==visual installation== which allows one to write words that an AI classifies into ==binary groups: good/bad, he/she, human/machine==. This project made me reflect on a concept highlighted by Taller Estampa during one of their lectures: 
 
-    > “*AI is the most accurate representation of our society today*”.
+    > “AI is the most accurate representation of our society today”.
 
     I agree with this statement because the process of developing AI has its roots in datasets and data-mining with the related biases. Since AIs have been trained on this past knowledge, ==like a psychologist, they are able to track and expose our deep-rooted conflicts==. I think that the binary system shown by the project is the representation of how our society leads us to choose between opposite directions, without considering all the gradients of alternatives in the middle.
 
@@ -82,7 +82,7 @@ During the visit to “Expo Intel•ligència Artificial” at CCCB, we were ask
 
 !!! note ""
 
-### **AI System**
+### **Code Demo**
 
 <iframe 
     width="100%" 
@@ -99,5 +99,8 @@ During the visit to “Expo Intel•ligència Artificial” at CCCB, we were ask
     ## **Reflections**
 
     Dummy text goes brrrrrrrr
+
+!!! warning 
+    The grammar of this texts has been corrected by Chat-GPT. ( ͡❛ ͜ʖ ͡❛)
 
 !!! note ""
