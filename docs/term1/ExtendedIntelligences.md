@@ -26,7 +26,7 @@ During the visit to “Expo Intel•ligència Artificial” at CCCB, we were ask
     ![](../images/EI01.GIF){: .image-45-size-right } 
     <div style="clear: both;"></div>
 
-    The first two pieces that I selected have two completely different purposes: a letter from the Future of Life Institute, dated 2015, addressing the risks of AI development for war applications, and the game-robot Aibo from Sony. I’ve chosen this contrast because it proved to me that the line between fascination and fear for technology is very thin, and it also exposes how technology is never impartial or neutral as we tend to think.
+    The first two pieces that I selected have two completely different purposes: a ==letter from the Future of Life Institute==, dated 2015, addressing the risks of AI development for war applications, and the ==game-robot Aibo== from Sony. I’ve chosen this contrast because it proved to me that the line between fascination and fear for technology is very thin, and it also exposes how technology is never impartial or neutral as we tend to think.
     It’s interesting, and sometimes scary, that similar technical advancements are in some cases directed towards ==purposes of violence, power, and control==, and at the same time as tools for ==empathy and playfulness==. Aibo also demonstrates our sensitivity towards the ==design== of these artifacts, since an aesthetic that focuses its attention on the eyes allows us to empathize more with it, influencing us with the ==Kawaii effect==; military robots from Boston Dynamics surely evoke different feelings from their design.
 
     The letter from 2015 is not a dystopian-future fear, as a similar event was repeated in May 2023 with the 22-words ==“Statement on AI Risk”==, signed by AI scientists, policymakers, and journalists to warn about the risk of extinction that AI could lead to:
@@ -57,8 +57,6 @@ During the visit to “Expo Intel•ligència Artificial” at CCCB, we were ask
 
 ### **Value Proposition Statement**
 
-**Value Proposition Statement**
-
 |**Concept Name:**      | Green Guardian                  |
 |-----------------------|---------------------------------|
 | **Using:**            | Pictures of healthy and sick plants |
@@ -71,8 +69,6 @@ During the visit to “Expo Intel•ligència Artificial” at CCCB, we were ask
 !!! note ""
 
 ### **Confusion Matrix**
-
-**Confusion Matrix**
 
 |                   | **Positive (+)**                             | **Negative (-)**                             |
 |-------------------|----------------------------------------------|----------------------------------------------|
@@ -98,9 +94,16 @@ During the visit to “Expo Intel•ligència Artificial” at CCCB, we were ask
 !!! tip ""
     ## **Reflections**
 
-    Dummy text goes brrrrrrrr
+    ![](../images/EI04.png)
+    This was my very first time interacting with actual AI workers, and it resulted in a very interesting exchange. 
+    I think this seminar has "empowered" and encouraged us to experiment with these technologies, always considering both their benefits and conflicts. I also appreciated that we experienced the actual development of an AI model through (almost) the entire process, as I resonate with the idea of ==demystifying new technologies==.
 
-!!! warning 
+    I was first introduced to AI by my friend Pietro Andreetta, who suggested me **[“AI & Conflicts”](https://www.krisispublishing.com/prodotto/ai-conflicts-volume-1/)**, a book by Krisis Publishing which results in a collection of critical essays on AI, covering topics from the historical origins of algorithms to its relationship with themes such as data and material extraction, biases, ownership, and AI art.
+    My perspective has been also influenced by Pietro himself, who created **[“Mythopoiesis”](https://www.instagram.com/p/Czr7R8JIFHO/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)**, a hybrid of a scientific journal and a magazine about AI. The concept behind “Mythopoiesis” is to present this technology in a language accessible to the general public, generating content *together with AI*, rather than *using it as a mere tool*. In fact, all the visual and textual outcomes were the result of ==interviews and dialogues with different AI models==.
+
+    Personally, I’m fascinated by the criticalities of Artificial Intelligence, and reflecting on the cracks in its almost perfectly smooth surface stimulates me to continue ==experimenting with it in my design, artistic, and even philosophical processes==.
+
+!!! warning
     The grammar of this texts has been corrected by Chat-GPT. ( ͡❛ ͜ʖ ͡❛)
 
 !!! note ""
