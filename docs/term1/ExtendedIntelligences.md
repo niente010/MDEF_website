@@ -1,4 +1,4 @@
-# Extended Intellligences 
+# Extended Intelligences 
 
 !!! info 
     
