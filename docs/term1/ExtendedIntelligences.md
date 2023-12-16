@@ -2,7 +2,7 @@
 
 !!! info 
     
-    **==FACULTY==**: Estampa    
+    **==FACULTY==**: Taller Estampa    
 
     **==CALENDAR==**: 28-11 → 05-12
 
@@ -94,12 +94,12 @@ During the visit to “Expo Intel•ligència Artificial” at CCCB, we were ask
 !!! tip ""
     ## **Reflections**
 
-    ![](../images/EI04.png)
+    ![](../images/EI04.jpg)
     This was my very first time interacting with actual AI workers, and it resulted in a very interesting exchange. 
     I think this seminar has "empowered" and encouraged us to experiment with these technologies, always considering both their benefits and conflicts. I also appreciated that we experienced the actual development of an AI model through (almost) the entire process, as I resonate with the idea of ==demystifying new technologies==.
 
     I was first introduced to AI by my friend Pietro Andreetta, who suggested me **[“AI & Conflicts”](https://www.krisispublishing.com/prodotto/ai-conflicts-volume-1/)**, a book by Krisis Publishing which results in a collection of critical essays on AI, covering topics from the historical origins of algorithms to its relationship with themes such as data and material extraction, biases, ownership, and AI art.
-    My perspective has been also influenced by Pietro himself, who created **[“Mythopoiesis”](https://www.instagram.com/p/Czr7R8JIFHO/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)**, a hybrid of a scientific journal and a magazine about AI. The concept behind “Mythopoiesis” is to present this technology in a language accessible to the general public, generating content *together with AI*, rather than *using it as a mere tool*. In fact, all the visual and textual outcomes were the result of ==interviews and dialogues with different AI models==.
+    My perspective has been also influenced by Pietro himself, who created **[“Mythopoiesis”](https://www.instagram.com/p/Czr7R8JIFHO/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)**, a ==hybrid of a scientific journal and a magazine about AI==. The concept behind “Mythopoiesis” is to present this technology in a language accessible to the general public, generating content *together with AI*, rather than *using it as a mere tool*. In fact, all the visual and textual outcomes were the result of ==interviews and dialogues with different AI models==.
 
     Personally, I’m fascinated by the criticalities of Artificial Intelligence, and reflecting on the cracks in its almost perfectly smooth surface stimulates me to continue ==experimenting with it in my design, artistic, and even philosophical processes==.
 
