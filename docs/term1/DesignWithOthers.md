@@ -1,4 +1,4 @@
-# Design With Others
+# **Design With Others**
 
 !!! info 
     
@@ -12,7 +12,7 @@
 
 !!! tip ""
     ## **Introduction** 
-    Dummy text goes brrrrrrrr
+    Dividing the seminar into 4 phases (Soil, Land, Connect and Intervene), we were asked to reflect on the benefits and the frictions that interacting with a community leads to. Thanks to the guidance of Holon, we were exposed to different communities around Barcelona, having the chance to collect their experience in working with & within others.
 
 !!! note ""
 
@@ -34,18 +34,18 @@
 
 The lack of microspaces for biodiversity in the urban space.
 ==Why this is an issue?==
-    - When we don’t see benefit for humans it is very difficoult to plan for biodiversity.
-    - The biodiversity is still part of the ecosystem of the city, it’s just that it’s ignored.
-    - Understanding and “apply” biodiversity has the potential to improve the quality of life in the urban space.
-    - Biofilia.
-    - The importance of education.
-    - There is a lack in between data/knowledge and tangible interventions.
+- When we don’t see benefit for humans it is very difficoult to plan for biodiversity.
+- The biodiversity is still part of the ecosystem of the city, it’s just that it’s ignored.
+- Understanding and “apply” biodiversity has the potential to improve the quality of life in the urban space.
+- Biofilia.
+- The importance of education.
+- There is a lack in between data/knowledge and tangible interventions.
     
 ==Which are the inside conflicts?==
-    - The side effects of these choiches
-    - Not everyone has the privilege to question and redefine its behaviour on these topics.
-    - Finding compromises in between humans/non-humans requires lot of effort, time and care.
-    - Understanding this topics sometimes requires both systematic and personal changes.
+- The side effects of these choiches
+- Not everyone has the privilege to question and redefine its behaviour on these topics.
+- Finding compromises in between humans/non-humans requires lot of effort, time and care.
+- Understanding this topics sometimes requires both systematic and personal changes.
 
 !!! note ""
 
@@ -76,6 +76,7 @@ The lack of microspaces for biodiversity in the urban space.
 !!! tip ""
     ## **Reflections**
 
-    Dummy text goes brrrrrrrr
+    Having the opportunity to interact with real communities almost without any filters allowed us to truly grasp what it means to design collaboratively. During our visits, we were able to ==ask questions and directly experience their work environment and projects==, dispelling the mystery that often surrounds the backstages of design studios. This experience provided us with a realistic understanding of both the possibilities and challenges of these approaches, while also introducing us to potential future peers.
 
+    Personally, I've found this experience extremely valuable: although we quickly realized that ==forming a strong bond with communities takes time and energy==, this brief initial engagement has provided the groundwork for building more resilient relationships in the future.
 !!! note ""
