@@ -309,9 +309,6 @@ Having defined our concept, the initial step was to ==prototype== a device that 
 
 !!! note ""
 
-### **Abstract** 
-Dummy Text goes brrrr
-
 !!! abstract "References"
     - https://www.mdpi.com/2305-6304/10/10/557
     - https://doi.org/10.1063/5.0023154 
@@ -332,8 +329,3 @@ Dummy Text goes brrrr
 </iframe>
 
 !!! note ""
-
-!!! tip ""
-    ## **Reflections**
-    !!! bug 
-        Work in Progress... Stay Tuned! ( ͡° ͜ʖ ͡°)
