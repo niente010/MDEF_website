@@ -12,13 +12,13 @@
 
 !!! tip ""
     ## **Introduction** 
-    dummy text goes brrrr
+    Learning the words which describes our contemporary, learn our relationship with our space and time, learn to open ourselves in critical and divisive topics. 
 
 !!! note ""
 
 !!! tip ""
     ## **Reflections**
-    ### Positionality
+    ### **Positionality**
 
     One of the first steps of the week was to assess our positionality statement. Personally, it was not my first time discussing about the concepts of ==privilege and power==, but something in these collective talks helped me to have a deeper consciousness.
 
@@ -26,7 +26,7 @@
     There were moments when I ==felt guilt or discomfort== about these privileges, viewing them as something negative about my persona which I couldn't escape or renounce.
     Later on, I understood how ==having privileges doesn’t necessarily entail adopting the behaviours of those who take advantage of their position==, instead, these behaviors are shaped by our ==personal values== and awareness. The "wheel of Power/Privilege" was a useful tool in reminding me of my place in the world and in finding peace with it.
 
-    ### (De)Growth/Polycrisis/Loss of Imagination
+    ### **Polycrisis & Loss of Imagination**
     
     Acknowledging these words during the seminar has not felt as learning them from a dictionary. It was more like discovering them from the inside and feeling connected with them, as they have always been somewhere in me. 
 
@@ -39,7 +39,7 @@
     Personally, When I first became engaged with ecological issues, my actions were driven by a strong desire to play my part in mitigating the problem. While I still value and participate in such practices, I've realized that this approach limited the attention on my feelings, as I believed that making "right" choices alone could have “solved the problem”. 
     Imagination is as important as reflective choices to keep the hope alive.
 
-    ### Taking Action
+    ### **Taking Action**
 
     ![](../images/DSCE01.jpg)
 
@@ -52,14 +52,15 @@
 
     ![](../images/DSCE02.png)
 
-    In a way, this intervention reminded me of “Comizi d’Amore”, a movie from 1964 by the Italian director Pier Paolo Pasolini. 
+    In a way, this intervention reminded me of ==“Comizi d’Amore”==, a movie from 1964 by the Italian director ==Pier Paolo Pasolini==. 
     This movie is one of the first ever “investigative film”, in which Pasolini himself went all around Italy asking common people about their views on a delicate and taboo topic of the time: sexuality.
     He interviewed people from children to elders, and the authenticity and the diversity of their answers is what really makes the viewer feel part of them. The movie highlighted the power and value of ==open discussion, especially on critical topics==, and how it can foster a strong sense of ==solidarity==. 
 
     I really hope to keep on exposing myself. <3
 
 !!! tip "BONUS"
-    Speaking of Solar-Centered Design, every time I think of the Sun, this song always comes to my mind. <(￣︶￣)>	
+    Speaking of Solar-Centered Design, every time I think of the Sun, this song always comes to my mind <(￣︶￣)>	
+
     <iframe style="border-radius:12px" 
     src="https://open.spotify.com/embed/track/0HgSaG6pYR3Nlt45GQyrKp?utm_source=generator&theme=0" 
     width="100%" 
