@@ -3,7 +3,7 @@
 !!! info 
     ==FACULTY==: Josep Marti, Pablo Zunaga 
 
-    ==CALENDAR== 02-10 → ...
+    ==CALENDAR== 02-10 → 20-12
 
     ==TRACK==: Reflection
 
