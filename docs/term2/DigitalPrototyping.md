@@ -59,12 +59,12 @@ As we did for the Agar agar recipe, we let the material dry on different materia
 
 : > Water: 100ml | Alginate Sodium: 6g | Glicerine: 15ml
 
-: ![](../images/DP04.jpg) 
-At the same time, we tried two different recipes with Alginate Sodium, so non heat-cooking recipes.
+: ![](../images/DP04.JPG)
+: At the same time, we tried two different recipes with Alginate Sodium, so non heat-cooking recipes.
 We let the material rest on two surfaces: textile and a mould.
     
 : !!! tip "Comment"
-        In both cases we realized how adding vegetal carbon to the mixture was turning the material drier.
+         In both cases we realized how adding vegetal carbon to the mixture was turning the material drier.
 
 !!! note ""
 
