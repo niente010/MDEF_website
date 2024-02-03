@@ -29,9 +29,9 @@ Subfield of robotics, that integrates compliant materials, soft and flexible, in
 : > Water 300ml | Agar agar 10g | Glicerine: 32g | (+ Micca) 
 
 : ![](../images/DP01.JPG)
-: We tried to let the Agar Agar based recipe in 3 different materials: acrylic (mold), textile and a canvas.
+: We tried to let the Agar Agar based recipe in 3 different materials: acrylic (mould), textile and a canvas.
 The samples dried quickly and the recipe turned out not to be elastic enough. 
-All of them, especially the one in the mold, shrinked  or got broken.
+All of them, especially the one in the mould, shrinked  or got broken.
 
 : !!! tip "Comment"
         In our case agar agar was not good for a soft robot... 	(⇀‸↼‶)
@@ -44,9 +44,9 @@ All of them, especially the one in the mold, shrinked  or got broken.
 : ![](../images/DP02.JPG)
 : We found this recipe in the documentation from a previous Fabacademy student (), which used this combination to create bio-based soft robots. 
 We recreated it in different varieties and it proved to be exceptional for the scope.
-As we did for the Agar agar recipe, we let the material dry on different materials: an acrylic mold, a sheet of acrylic with a very thin layer of textile and on textile.
+As we did for the Agar agar recipe, we let the material dry on different materials: an acrylic mould, a sheet of acrylic with a very thin layer of textile and on textile.
 
-: - ==Acrylic mold==: This proved to be the most flexible and versatile, also the material didn’t shrink in the mold.
+: - ==Acrylic Mould==: This proved to be the most flexible and versatile, also the material didn’t shrink in the mould.
 : - ==Acrylic + Textile==: This was impossible to take away from the textile because of the thin thickness of the material, so it eventually remained embedded to it.
 : - ==Textile==: This one turn out very resistent, but not very flexible. It might me good for other applications though.
 
@@ -59,10 +59,9 @@ As we did for the Agar agar recipe, we let the material dry on different materia
 
 : > Water: 100ml | Alginate Sodium: 6g | Glicerine: 15ml
 
-
-: ![](../images/DP03.jpg) 
+: ![](../images/DP04.jpg) 
 At the same time, we tried two different recipes with Alginate Sodium, so non heat-cooking recipes.
-We let the material rest on two surfaces: textile and a mold.
+We let the material rest on two surfaces: textile and a mould.
     
 : !!! tip "Comment"
         In both cases we realized how adding vegetal carbon to the mixture was turning the material drier.
@@ -71,11 +70,12 @@ We let the material rest on two surfaces: textile and a mold.
 
 ### **Soft Robotics Techinques**
 
-==#1 MOLD TECHNIQUE==
+==#1 MOULD TECHNIQUE==
 
 : ![](../images/DP05.GIF){: .image-45-size-left} ![](../images/DP06.GIF){: .image-45-size-right} 
+<div style="clear: both;"></div>
 
-: We first tried with a mold, leaving some space on the inside to let the air inflate, and a thinner layer to close the structure. We then used gelatine and pressed the structure for 1 night to attach the two layers together.
+: We first tried with a mould, leaving some space on the inside to let the air inflate, and a thinner layer to close the structure. We then used gelatine and pressed the structure for 1 night to attach the two layers together.
 
 : !!! tip "Comment"
         Comment: Even tough the other layer was a bit too thick, and the thin one was not so flexible, we managed to inflate the soft robot. The gelatine-glue technique worked but the soft-robot still has some leaks.
