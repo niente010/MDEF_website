@@ -46,7 +46,7 @@ All of them, especially the one in the mold, shrinked  or got broken.
     > Gelatine: 48g
     > Glicerine: 48g 
 
-: ![](../images/DP01.JPG){: .image-half-size-left} ![](../images/DP02.JPG){: .image-half-size-right} 
+: ![](../images/DP01.JPG){: .image-45-size-left} ![](../images/DP02.JPG){: .image-45-size-right} 
 : We found this recipe in the documentation from a previous Fabacademy student (), which used this combination to create bio-based soft robots. 
 We recreated it in different varieties and it proved to be exceptional for the scope.
 As we did for the Agar agar recipe, we let the material dry on different materials: an acrylic mold, a sheet of acrylic with a very thin layer of textile and on textile.
@@ -77,7 +77,7 @@ We let the material rest on two surfaces: textile and a mold.
 
 ==#1 MOLD TECHNIQUE==
 
-: ![](../images/DP05.GIF){: .image-half-size-left} ![](../images/DP06.GIF){: .image-half-size-right} 
+: ![](../images/DP05.GIF){: .image-45-size-left} ![](../images/DP06.GIF){: .image-45-size-right} 
 
 : We first tried with a mold, leaving some space on the inside to let the air inflate, and a thinner layer to close the structure. We then used gelatine and pressed the structure for 1 night to attach the two layers together.
 
@@ -86,6 +86,8 @@ We let the material rest on two surfaces: textile and a mold.
 
 ==#2 LASER WELDING TECHNIQUE==
 
+: ![](../images/DP08.jpg)
+
 : We saw some documentation about welding thin layers of plastic together, this could be done with soldering iron or through the light beam of the laser cutter. So we tried with different parameters to gain results but it turned out to be very quickly. This process is in fact influenced both by the machine parameters (such as speed, power, focus) and by the material features, mostly regarding its thickness. 
 
 : !!! tip "Comment"
@@ -93,6 +95,9 @@ We let the material rest on two surfaces: textile and a mold.
         Also, the focus parameter is probably the most important, since the width of the light beam really influenced the outcome of the eperiments.
 
 ==#3 HEAT PRESS TECHNIQUE==
+
+: ![](../images/DP07.jpg)
+
 : In a previous workshop I attended with Marisa Satsia, I explored another technique which involves the use of a heat press to fuse layers of bioplastics. The first step is to laser cut oven paper into various designs, which eventually will become the inflating surface of the structure. This paper layers go in between two sheets of bioplastics, and then the whole structure is set under the heat press: the process gently merge the areas where the bioplastics are in contact, not affecting where paper has been placed. 
 
 : !!! Tip "Comment"
