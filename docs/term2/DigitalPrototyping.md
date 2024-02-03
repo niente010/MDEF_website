@@ -26,46 +26,42 @@ Subfield of robotics, that integrates compliant materials, soft and flexible, in
 
 ==#1 AGAR AGAR BASED==
 
-: > Water 300ml
-  > Agar agar 10g
-  > Glicerine → Elastic : 32g
-  > (+ Micca) 
+: > Water 300ml | Agar agar 10g | Glicerine: 32g | (+ Micca) 
 
-: ![](../images/DP03.JPG){: .image-half-size-left} ![](../images/DP04.JPG){: .image-half-size-right} 
+: ![](../images/DP01.JPG)
 : We tried to let the Agar Agar based recipe in 3 different materials: acrylic (mold), textile and a canvas.
 The samples dried quickly and the recipe turned out not to be elastic enough. 
 All of them, especially the one in the mold, shrinked  or got broken.
 
 : !!! tip "Comment"
-        In our case agar agar was not good for a soft robot...
+        In our case agar agar was not good for a soft robot... 	(⇀‸↼‶)
 
 
 ==#2 GELATINE BASED==
 
-:   > Water: 240 ml 
-    > Gelatine: 48g
-    > Glicerine: 48g 
+:   > Water: 240 ml | Gelatine: 48g | Glicerine: 48g | (+ Spirulina|Micca)
 
-: ![](../images/DP01.JPG){: .image-45-size-left} ![](../images/DP02.JPG){: .image-45-size-right} 
+: ![](../images/DP02.JPG)
 : We found this recipe in the documentation from a previous Fabacademy student (), which used this combination to create bio-based soft robots. 
 We recreated it in different varieties and it proved to be exceptional for the scope.
 As we did for the Agar agar recipe, we let the material dry on different materials: an acrylic mold, a sheet of acrylic with a very thin layer of textile and on textile.
 
-: - Acrylic mold: This proved to be the most flexible and versatile, also the material didn’t shrink in the mold.
-: - Acrylic + Textile: This was impossible to take away from the textile because of the thin thickness of the material, so it eventually remained embedded to it.
-: - Textile: This one turn out very resistent, but not very flexible. It might me good for other applications though.
+: - ==Acrylic mold==: This proved to be the most flexible and versatile, also the material didn’t shrink in the mold.
+: - ==Acrylic + Textile==: This was impossible to take away from the textile because of the thin thickness of the material, so it eventually remained embedded to it.
+: - ==Textile==: This one turn out very resistent, but not very flexible. It might me good for other applications though.
 
 : !!! tip "Comment"
+        ![](../images/DP03.jpg)
         Since we figured out that the technique on the acrylic sheet was the one working best, we recreated the experiment but this time without any textile. 
         The material turned out very transparent, flexible and with unexpected different thicknesses, which gave us the chance to make different experiments. We also recreated the recipe this time combining it with micca.
 
 ==#3 ALGINATE SODIUM BASED==
 
-: > Water: 100ml 
-  > Alginate Sodium: 6g
-  > Glicerine: 15ml
+: > Water: 100ml | Alginate Sodium: 6g | Glicerine: 15ml
 
-: At the same time, we tried two different recipes with Alginate Sodium, so non heat-cooking recipes.
+
+: ![](../images/DP03.jpg) 
+At the same time, we tried two different recipes with Alginate Sodium, so non heat-cooking recipes.
 We let the material rest on two surfaces: textile and a mold.
     
 : !!! tip "Comment"
