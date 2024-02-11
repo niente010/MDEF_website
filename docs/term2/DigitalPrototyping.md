@@ -101,7 +101,7 @@ We let the material rest on two surfaces: textile and a mould.
         Even tough this approach is not as accurate as a welding, by using some tips it’s possible to let the soft robot inflate as you wish.   
 
 ==RESULTS==
-<iframe width="auto" height="315" src="https://www.youtube.com/embed/4wOu6fuJIXA?si=cocf7pyHiCdkx5RN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/4wOu6fuJIXA?si=cocf7pyHiCdkx5RN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### **References**
 - https://class.textile-academy.org/2022/saskia-helinska/finalproject.html
