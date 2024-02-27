@@ -16,10 +16,10 @@
 ## **Laser Cut & Biomaterials**
 
 !!! info "**Team**"
-    Annna Lozano & Nicolò Baldi
+ Annna Lozano & Nicolò Baldi
 
-!!! info "**Repository**"
-        https://gist.github.com/niente010/c08c7ce87580e2e29a68002e3d9cee05
+!!! example "**Repository**"
+ https://gist.github.com/niente010/c08c7ce87580e2e29a68002e3d9cee05
 
 ### Introduction: Soft Robotics
 Subfield of robotics, that integrates compliant materials, soft and flexible, instead of rigid and stiff ones, into its fabrication. This difference in materiality is what allows the parts and links of robots, and by that, their functioning and purpose, to act and perform in different environments, handling things with great care, and by that, bringing them closer to human interaction.
@@ -115,17 +115,17 @@ We let the material rest on two surfaces: textile and a mould.
 ## **3D Paste Printing**
 
 !!! info "**Team**"
-        Annna Lozano, Everardo Castro, Jorge Muñoz, Nicolò Baldi
+ Annna Lozano, Everardo Castro, Jorge Muñoz, Nicolò Baldi
 
-!!! info "**Repository**"
-        https://gist.github.com/niente010/c08c7ce87580e2e29a68002e3d9cee05
+!!! example "**Repository**"
+ https://gist.github.com/niente010/c08c7ce87580e2e29a68002e3d9cee05
 
 !!! note "" 
 
 ## **Microchallenge 1**
 
 !!! info "**Team**"
-        Nicolò Baldi & Qianyin Du
+ Nicolò Baldi & Qianyin Du
 
-!!! info "**Repository**"
-        https://github.com/33dudu/Microchallenge-I
+!!! example "**Repository**"
+ https://github.com/33dudu/Microchallenge-I
