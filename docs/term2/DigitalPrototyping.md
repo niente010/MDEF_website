@@ -12,6 +12,10 @@
 
 !!! note ""
 
+## **Introduction**
+This seminar is based on the framework of [FabAcademy](https://fabacademy.org/)'s programme, a fast paced, hands-on learning experience where participants learn rapid-prototyping by planning and executing a new project each week. Here we had the chance to experiment with different prototyping techniques to pursue our own vision.
+
+!!! note ""
 
 ## **Laser Cut & Biomaterials**
 
@@ -21,8 +25,8 @@
 !!! example "**Repository**"
      https://gist.github.com/niente010/c08c7ce87580e2e29a68002e3d9cee05
 
-### Introduction: Soft Robotics
-Subfield of robotics, that integrates compliant materials, soft and flexible, instead of rigid and stiff ones, into its fabrication. This difference in materiality is what allows the parts and links of robots, and by that, their functioning and purpose, to act and perform in different environments, handling things with great care, and by that, bringing them closer to human interaction.
+### Soft Robotics
+Soft Robotics is a subfield of robotics that integrates soft and flexible materials instead of rigid ones. This difference in materiality is what allows the parts and links of robots, and by that, their functioning and purpose, to act and perform in different environments, handling things with great care, and by that, bringing them closer to human interaction.
 
 ### **Recipes**
 
@@ -120,6 +124,8 @@ We let the material rest on two surfaces: textile and a mould.
 !!! example "**Repository**"
      https://gist.github.com/niente010/c08c7ce87580e2e29a68002e3d9cee05
 
+
+
 !!! note "" 
 
 ## **Microchallenge 1**
@@ -129,3 +135,4 @@ We let the material rest on two surfaces: textile and a mould.
 
 !!! example "**Repository**"
      https://github.com/33dudu/Microchallenge-I
+
