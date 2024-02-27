@@ -10,10 +10,9 @@
 
 <div style="clear:both;"></div>
 
-!!! note ""
-
-## **Introduction**
-This seminar is based on the framework of [FabAcademy](https://fabacademy.org/)'s programme, a fast paced, hands-on learning experience where participants learn rapid-prototyping by planning and executing a new project each week. Here we had the chance to experiment with different prototyping techniques to pursue our own vision.
+!!! tip ""
+    ## **Introduction** 
+    This seminar is based on the framework of [FabAcademy](https://fabacademy.org/)'s programme, a fast paced, hands-on learning experience where participants learn rapid-prototyping by planning and executing a new project each week. Here we had the chance to experiment with different prototyping techniques to pursue our own vision.
 
 !!! note ""
 
