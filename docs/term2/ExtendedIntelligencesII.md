@@ -82,8 +82,11 @@ It's interesting to see that ChatGPT-4 went directly for the multiple groups str
 
 ![](../images/EI202.gif)
 
+We then explored the possibilities of Generative AI by using a tool developed by DOTTOD, the [DOTTOD Camera](https://camera.dottod.net/camera). The goal was to shot some pictures around the neighbourhood and see how this tool powered by DALL•E could process the original images through our prompts. Here is the collection of the pictures that we shot:
+
 ![](../images/EI203.jpg)
 
+This idea reminded me of the [Paragraphica](https://bjoernkarmann.dk/project/paragraphica) project as well: here the artist developed a camera that delivers an hybrid picture, which considers the real-time data of the shot processed by AI.
 
 !!! note ""
 
@@ -93,7 +96,7 @@ It's interesting to see that ChatGPT-4 went directly for the multiple groups str
     src="https://docs.google.com/presentation/d/e/2PACX-1vRCEAKtLrddyYzd4zVLS_XmRyrmHRGYBBbnuV0HuqMbogN53jAJpV8d8dPy7tuUDyMElkmA_DlQos9c/embed?start=false&loop=false&delayms=3000" 
     frameborder="0" 
     width="100%" 
-    height="4 00" 
+    height="400" 
     allowfullscreen="true" 
     mozallowfullscreen="true" 
     webkitallowfullscreen="true">
