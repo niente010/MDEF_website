@@ -24,7 +24,7 @@
 !!! example "**Repository**"
      https://gist.github.com/niente010/c08c7ce87580e2e29a68002e3d9cee05
 
-### Soft Robotics
+### **Soft Robotics**
 Soft Robotics is a subfield of robotics that integrates soft and flexible materials instead of rigid ones. This difference in materiality is what allows the parts and links of robots, and by that, their functioning and purpose, to act and perform in different environments, handling things with great care, and by that, bringing them closer to human interaction.
 
 ### **Recipes**
@@ -138,4 +138,13 @@ We let the material rest on two surfaces: textile and a mould.
 
 !!! note "" 
 
+## **Microchallenge 2**
 
+
+!!! info "**Team**"
+     Ana Lozano, Everdardo Castro Torres, Nicolò Baldi, Qianyin Du
+
+!!! example "**Repository**"
+        https://github.com/niente010/GAIA
+
+![](../images/CI02.jpg)
