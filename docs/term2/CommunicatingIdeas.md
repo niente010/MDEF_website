@@ -72,3 +72,5 @@ Throughout this process, new ideas and reflections emerged, for example:
 - The ==prototyping process== was so much fun and intense: The very core of the project lays in hacking the original computer to make it work according to our issues while preserving its original components and behavior. Additionally, the challenge of combining this electrical system with moisture and water was not easy, but it led to a completely different approach to prototyping compared to working only with electronics themselves.
 
 From the outcomes of this experience, I am excited to continue with this vision in the final project.
+
+!!! note ""
