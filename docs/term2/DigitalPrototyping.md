@@ -121,8 +121,7 @@ We let the material rest on two surfaces: textile and a mould.
     Annna Lozano, Everardo Castro, Jorge Muñoz, Nicolò Baldi
 
 !!! example "**Repository**"
-     https://gist.github.com/niente010/c08c7ce87580e2e29a68002e3d9cee05
-
+     https://hackmd.io/@usaestoparadescargar/ryrIKkeo6/edit
 
 !!! note "" 
 
@@ -145,6 +144,8 @@ We let the material rest on two surfaces: textile and a mould.
      Ana Lozano, Everdardo Castro Torres, Nicolò Baldi, Qianyin Du
 
 !!! example "**Repository**"
-        https://github.com/niente010/GAIA
+     https://github.com/niente010/GAIA
 
 ![](../images/CI02.jpg)
+
+!!! note "" 
