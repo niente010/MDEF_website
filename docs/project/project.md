@@ -10,25 +10,25 @@ The goal of ooorganismooo is to encourage the research and development of indepe
 
 Some of the questions that led to the formation of ooorganismooo are:
 
-    - *why is it so easy to imagine huge resources being spent on implanting chips inside the human brain?* *why instead is it so absurd to think of investing the same amount of resources in studying our environment?*
+- *why is it so easy to imagine huge resources being spent on implanting chips inside the human brain?* *why instead is it so absurd to think of investing the same amount of resources in studying our environment?*
 
-    - *who decided that creating a metaverse was more important than trying to communicate with other organisms?*
+- *who decided that creating a metaverse was more important than trying to communicate with other organisms?*
 
-    - *why do we give for granted that the price and risks we pay for technological advancements are worth it?*
+- *why do we give for granted that the price and risks we pay for technological advancements are worth it?*
 
-    - *who decided that this was the right way for humanity to “progress”?*
+- *who decided that this was the right way for humanity to “progress”?*
 
 Some questions ooorganismooo wants to investigate are:
 
-    - *Can we rethink technologies in such a way that instead of conflicting with our relationship with nature, they help us understand and respect it?*
+ - *Can we rethink technologies in such a way that instead of conflicting with our relationship with nature, they help us understand and respect it?*
     
-    - *Can we create tools with the purpose of having a more symbiotic relationship with other living species?*
+- *Can we create tools with the purpose of having a more symbiotic relationship with other living species?*
     
-    - *Can we create new narratives to expose the ecological crisis in a way that stimulates a collective response to it?*
+- *Can we create new narratives to expose the ecological crisis in a way that stimulates a collective response to it?*
     
-    - *Is it possible to reduce the distance between the technologies we use and their ecological infrastructures? What differences in the design enhance this entangled relationship?*
+- *Is it possible to reduce the distance between the technologies we use and their ecological infrastructures? What differences in the design enhance this entangled relationship?*
     
-    - *Do we really want to leave these responsibilities in the hands of companies whose only interest is to make a profit and maintain the power they hold?*
+- *Do we really want to leave these responsibilities in the hands of companies whose only interest is to make a profit and maintain the power they hold?*
 
 ooorganismooo aims to be an ==interdisciplinary group== where specialization gives way to the contamination of knowledge, spaces, and applications.
 
@@ -50,14 +50,15 @@ It is important to practice of ==altering the context==, in order to encourage d
 
 ## **some references to clear your mind dear reader**
 
-https://www.youtube.com/watch?v=US9q2ayKANk
-https://www.movebank.org/cms/movebank-main
+- https://www.youtube.com/watch?v=US9q2ayKANk
+
+- https://www.movebank.org/cms/movebank-main
 
 [previous work related to the topic]
-https://github.com/niente010/GAIA
+- https://github.com/niente010/GAIA
 
-https://nicolobaldi.com/SPIRA
+- https://nicolobaldi.com/SPIRA
 
-https://niente010.github.io/MDEF_website/term1/DesignStudio01/#pulse
+- https://niente010.github.io/MDEF_website/term1/DesignStudio01/#pulse
 
 !!! note ""
