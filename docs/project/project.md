@@ -14,22 +14,21 @@ Some of the questions that led to the formation of ooorganismooo are:
 
 - *who decided that creating a metaverse was more important than trying to communicate with other organisms?*
 
-- *why do we give for granted that the price and risks we pay for technological advancements are worth it?*
+- *why do we give for granted that the price and risks we pay for technological advancements are worth it?* *who decided that this was the right way for humanity to “progress”?*
 
-- *who decided that this was the right way for humanity to “progress”?*
+- *do we really want to leave these responsibilities in the hands of companies whose only interest is to make a profit and maintain the power they hold?*
+
 
 Some questions ooorganismooo wants to investigate are:
 
- - *Can we rethink technologies in such a way that instead of conflicting with our relationship with nature, they help us understand and respect it?*
-    
-- *Can we create tools with the purpose of having a more symbiotic relationship with other living species?*
-    
-- *Can we create new narratives to expose the ecological crisis in a way that stimulates a collective response to it?*
-    
-- *Is it possible to reduce the distance between the technologies we use and their ecological infrastructures? What differences in the design enhance this entangled relationship?*
-    
-- *Do we really want to leave these responsibilities in the hands of companies whose only interest is to make a profit and maintain the power they hold?*
+- *is it possible to reduce the distance between the technologies we use and their ecological infrastructures? What differences in the design enhance this entangled relationship?*
 
+ - *can we rethink technologies in such a way that instead of conflicting with our relationship with nature, they help us understand and respect it?*
+    
+- *can we create tools with the purpose of having a more symbiotic relationship with other living species?*
+    
+- *can we create new narratives to expose the ecological crisis in a way that stimulates a collective response to it?*
+    
 ooorganismooo aims to be an ==interdisciplinary group== where specialization gives way to the contamination of knowledge, spaces, and applications.
 
 ooorganismooo believes in ==the narrative and aesthetic power of art and design to connect with scientific research== to spread these scenarios and make more accessible, avoiding academic and corporate gatekeeping.
