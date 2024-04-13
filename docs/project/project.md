@@ -36,7 +36,7 @@ ooorganismooo believes in ==the narrative and aesthetic power of art and design 
 
 The strategies used by ooorganismooo include active listening, critical thinking and rapid prototyping, while the tools are open source, following a ==bottom-up strategy==.
 
-Before a technological revolution, ooorganismooo believes that t==he priority should be to offer a cultural revolution==, listening to alternatives to today's reality in order to solidify the foundations for an immediate future.
+Before a technological revolution, ooorganismooo believes that ==the priority should be to offer a cultural revolution==, listening to alternatives to today's reality in order to solidify the foundations for an immediate future.
 
 !!! note ""
 
