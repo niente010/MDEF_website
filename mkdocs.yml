@@ -31,8 +31,9 @@ nav:
           - Design for Collective Intelligence: term2/DesignCollectiveIntelligence.md
           - Measuring the World: term2/MeasuringTheWorld.md
           - Extended Intelligences II: term2/ExtendedIntelligencesII.md
-  - Master Project:
-    - ooorganismooo: project/project.md
+  - Master Thesis:
+    - Tandem project: project/tandemproject.md
+    - ooorganismooo: project/ooorganismooo.md
 
 extra:
   social:
