@@ -2,6 +2,16 @@
 hide:
     - toc
 ---
+# **Tandem Project**
+
+!!! info "**Team**"
+     Albert Vila Bonfill, Everardo Castro Torres, Nicolò Baldi
+
+![](processTotal.png)
+
+
+!!! note ""
+
 # **ooorganismooo**
 
 ## **ooorganismooo: manifesto**
