@@ -88,7 +88,7 @@
 .image-20-size-left {
   width: 20%;        /* Set the width of the image to 50% of its container */
   float: left;       /* Float the image to the left */
-  margin-right: 15px; /* Add some space between the image and the text */
+  margin-right: 30px; /* Add some space between the image and the text */
   margin-bottom: 10px; /* Optionally add space below the image */
 }
 
