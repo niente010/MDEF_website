@@ -53,7 +53,12 @@
   display: block;
 }
 
-.image-half-size-ctr {
+.image-20-size-ctr {
+  width: 20%; 
+  margin: 0 auto; 
+  display: block;
+
+}.image-half-size-ctr {
   width: 50%; 
   margin: 0 auto; 
   display: block;

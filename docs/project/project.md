@@ -19,7 +19,6 @@ This is how the workflow that we designed works:
 
 ### **Step 0: Three Cells**
 ![](<project images/process0.png>){: .image-20-size-left}
-<div style="clear:both;"></div>
 
 Three cells, three different backgrounds, three different countries, three different languages. 
 We start this path with our own ideals, ambitions and experience. <br></br>
@@ -27,7 +26,6 @@ We start this path with our own ideals, ambitions and experience. <br></br>
 ### **Step 1: Diffuse**
 
 ![](<project images/process1.png>){: .image-20-size-left}
-<div style="clear:both;"></div>
 
 One of the cells starts to share and describe what it’s doing. When we are involved in a project we can express our uncertainties about it, so expose the fragility of it, or if we are very into it, to share with others why it is so important to us and others, the ideals and the strategy behind it. 
 In the meantime the other two cells active listen to the first one, trying to perceive as much details as possible. <br></br>
@@ -35,7 +33,6 @@ In the meantime the other two cells active listen to the first one, trying to pe
 ### **Step 2: Synapsis**
 
 ![](<project images/process2.png>){: .image-20-size-left}
-<div style="clear:both;"></div>
 
 The next step is to create conversations among the two cells. Free from the original cell’s mindset, they are able to interpret the information in their own way and combine this interpretation into a completely new vision. 
 The main message will still be there, but with an altered and new shape. <br></br>
@@ -43,12 +40,10 @@ The main message will still be there, but with an altered and new shape. <br></b
 ### **Step 3: Feedback**
 
 ![](<project images/process3.png>){: .image-20-size-left}
-<div style="clear:both;"></div>
 
 The last step is to offer back the shared vision to the original cell, in order to provide new insights and stimulate alternative perspectives. <br></br>
 
-![](<project images/process4.png>){: .image-20-size-ctr}
-<div style="clear:both;"></div>
+![](<project images/process4.png>){: .image-20-size-ctr} <div style="clear:both;"></div>
 
 !!! note ""
 
