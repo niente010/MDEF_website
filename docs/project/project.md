@@ -10,11 +10,10 @@ hide:
 !!! note ""
 
 ## **Methodology**
-
 ![](processTotal.png){: .image-full-width }
 
-For this project we had the opportunity to create a unique workflow: how to have a conversation among 3 characters, in order for one to influence the others and vice-versa? 
-We didn’t want to split in groups so we came up with a configuration for our project that was balanced among the three of us, taking inspiration from the geometric shapes that represents this concept: the triangle.
+For this project ==we had the opportunity to create a unique workflow==: how to have a conversation among 3 characters, in order for one to influence the others and vice-versa? 
+We didn’t want to split in groups so we came up with a configuration for our project that was balanced among the three of us, taking inspiration from the geometric shapes that represents this concept: ==the triangle==.
 This is how the workflow that we designed works:
 
 ### **Step 0: Three Cells**
@@ -23,7 +22,6 @@ This is how the workflow that we designed works:
 Three cells, three different backgrounds, three different countries, three different languages. 
 We start this path with our own ideals, ambitions and experience. 
 <div style="clear:both;"></div>
-<br></br>
 
 ### **Step 1: Diffuse**
 
@@ -32,7 +30,6 @@ We start this path with our own ideals, ambitions and experience.
 One of the cells starts to share and describe what it’s doing. When we are involved in a project we can express our uncertainties about it, so expose the fragility of it, or if we are very into it, to share with others why it is so important to us and others, the ideals and the strategy behind it. 
 In the meantime the other two cells active listen to the first one, trying to perceive as much details as possible. 
 <div style="clear:both;"></div> 
-<br></br>
 
 ### **Step 2: Synapsis**
 
@@ -41,7 +38,6 @@ In the meantime the other two cells active listen to the first one, trying to pe
 The next step is to create conversations among the two cells. Free from the original cell’s mindset, they are able to interpret the information in their own way and combine this interpretation into a completely new vision. 
 The main message will still be there, but with an altered and new shape. 
 <div style="clear:both;"></div> 
-<br></br>
 
 ### **Step 3: Feedback**
 
@@ -49,10 +45,6 @@ The main message will still be there, but with an altered and new shape.
 
 The last step is to offer back the shared vision to the original cell, in order to provide new insights and stimulate alternative perspectives. 
 <div style="clear:both;"></div> 
-<br></br>
-
-![](<project images/process4.png>){: .image-20-size-ctr} 
-<div style="clear:both;"></div>
 
 !!! note ""
 
@@ -62,7 +54,7 @@ The last step is to offer back the shared vision to the original cell, in order 
 
 The goal of ooorganismooo is to encourage the research and development of independent technologies with the purpose of understanding and disseminating the study of ecology, in addition to addressing the climate crisis.
 
-Some of the questions that led to the formation of ooorganismooo are:
+Some of the ==questions that led to the formation of ooorganismooo== are:
 
 - *why is it so easy to imagine huge resources being spent on implanting chips inside the human brain?* *why instead is it so absurd to think of investing the same amount of resources in studying our environment?*
 
@@ -73,7 +65,7 @@ Some of the questions that led to the formation of ooorganismooo are:
 - *do we really want to leave these responsibilities in the hands of companies whose only interest is to make a profit and maintain the power they hold?*
 
 
-Some questions ooorganismooo wants to investigate are:
+Some ==questions ooorganismooo wants to investigate== are:
 
 - *is it possible to reduce the distance between the technologies we use and their ecological infrastructures? What differences in the design enhance this entangled relationship?*
 
