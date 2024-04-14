@@ -51,7 +51,7 @@ It is important to practice of ==altering the context==, in order to encourage d
 
 !!! note ""
 
-## **some references to clear your mind dear reader**
+## **some references to clear your mind my dear reader**
 
 - https://www.youtube.com/watch?v=US9q2ayKANk
 

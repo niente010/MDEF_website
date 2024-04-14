@@ -13,7 +13,7 @@ hide:
 
 <iframe 
     width="100%" 
-    height="400" 
+    height="600" 
     src="https://www.youtube.com/embed/uJcjDwr-P6c?si=E9n77YbCukScl7wv" 
     title="YouTube video player" 
     frameborder="0" 
