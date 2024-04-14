@@ -18,32 +18,37 @@ We didn’t want to split in groups so we came up with a configuration for our p
 This is how the workflow that we designed works:
 
 ### **Step 0: Three Cells**
-![](<project images/process0.png>){: .image-half-size-left}
+![](<project images/process0.png>){: .image-20-size-left}
+<div style="clear:both;"></div>
 
 Three cells, three different backgrounds, three different countries, three different languages. 
-We start this path with our own ideals, ambitions and experience.
+We start this path with our own ideals, ambitions and experience. <br></br>
 
 ### **Step 1: Diffuse**
 
-![](<project images/process1.png>){: .image-half-size-left}
+![](<project images/process1.png>){: .image-20-size-left}
+<div style="clear:both;"></div>
 
 One of the cells starts to share and describe what it’s doing. When we are involved in a project we can express our uncertainties about it, so expose the fragility of it, or if we are very into it, to share with others why it is so important to us and others, the ideals and the strategy behind it. 
-In the meantime the other two cells active listen to the first one, trying to perceive as much details as possible.
+In the meantime the other two cells active listen to the first one, trying to perceive as much details as possible. <br></br>
 
 ### **Step 2: Synapsis**
 
-![](<project images/process2.png>){: .image-half-size-left}
+![](<project images/process2.png>){: .image-20-size-left}
+<div style="clear:both;"></div>
 
 The next step is to create conversations among the two cells. Free from the original cell’s mindset, they are able to interpret the information in their own way and combine this interpretation into a completely new vision. 
-The main message will still be there, but with an altered and new shape.
+The main message will still be there, but with an altered and new shape. <br></br>
 
 ### **Step 3: Feedback**
 
-![](<project images/process3.png>){: .image-half-size-left}
+![](<project images/process3.png>){: .image-20-size-left}
+<div style="clear:both;"></div>
 
-The last step is to offer back the shared vision to the original cell, in order to provide new insights and stimulate alternative perspectives.
+The last step is to offer back the shared vision to the original cell, in order to provide new insights and stimulate alternative perspectives. <br></br>
 
-![](<project images/process4.png>){: .image-half-size-ctr}
+![](<project images/process4.png>){: .image-20-size-ctr}
+<div style="clear:both;"></div>
 
 !!! note ""
 
@@ -114,7 +119,10 @@ It is important to practice of ==altering the context==, in order to encourage d
     src="https://docs.google.com/presentation/d/e/2PACX-1vRaFr4dV20LRlSXwdKME7Zhf_3ybIiNLH9Q64-jN7NeXQ3QuXn6SOHnsfS0ZFVKwI6X1WipqK6o5wjX/embed?start=false&loop=false&delayms=3000" 
     frameborder="0" 
     width="100%" 
-    height="1000" 
+    height="500" 
     allowfullscreen="true" 
     mozallowfullscreen="true" 
-    webkitallowfullscreen="true"></iframe>
+    webkitallowfullscreen="true">
+</iframe>
+
+!!! note ""
