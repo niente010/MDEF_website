@@ -23,11 +23,12 @@ hide:
 !!! note ""
 
 ## **Methodology**
-![](processTotal.png){: .image-full-width }
+![](<project images/process4.png>){: .image-20-size-left}
 
 For this project ==we had the opportunity to create a unique workflow==: how to have a conversation among 3 characters, in order for one to influence the others and vice-versa? 
 We didn’t want to split in groups so we came up with a configuration for our project that was balanced among the three of us, taking inspiration from the geometric shapes that represents this concept: ==the triangle==.
 This is how the workflow that we designed works:
+<div style="clear:both;"></div>
 
 ### **Step 0: Three Cells**
 ![](<project images/process0.png>){: .image-20-size-left}
