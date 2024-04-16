@@ -35,6 +35,8 @@ Since I stepped into this region, I couldn’t stop noticing the incredible amou
 
 The “border” that we selected to inquire during the week is the one in between digital and physical, virtual and analog. We kept playing and oscillating between these two dimensions, switching from one direction to the other and trying to explore what happens in between.
 
+![](<research trip images/RT03.gif>)
+
 In the initial days, we gathered small natural samples like rocks, rotting wood, dry moss, and dead leaves to examine them more closely. 
 One vehicle we used to deep dive into their patterns and textures was 3D scanning, to unveil what we could only perceive: the samples rotates itself on a platform while the sensor captures their geometries, creating virtual representation of it. 
 It turned out that this translation and interpretation process from the machine that was reconstructing the geometry of the object resembled us the behaviour of the moss itself. 
@@ -53,10 +55,13 @@ From the screen we have been able to witness the birth of the 3d model progressi
 !!! note ""
 
 ## **Phygital Photography**
+![](<research trip images/RT04.jpg>)
 
 Once collecting a significant amount of scans, we asked ourself: what happens if we insert the digital in between the physical and the analog (phsyical → digital → analog)? Is there a way to materially represent the results we obtained through this digital process?
 
 Having available a darkroom for photographic development in the Maison, we decided to make an experiment: can we impress on photographic paper these textures? 
+
+![](<research trip images/RT02.jpg>)
 
 We then used a projector to display our processed textures, rendered as 3D meshes or point clouds, and quickly positioned some photographic paper in front of it. 
 It turned out that it was possible! We managed to catch the virtual texture into an analog mean! UwU
