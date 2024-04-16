@@ -55,19 +55,20 @@ From the screen we have been able to witness the birth of the 3d model progressi
 !!! note ""
 
 ## **Phygital Photography**
-![](<research trip images/RT04.jpg>)
+
+![](<research trip images/RT02.jpg>)
 
 Once collecting a significant amount of scans, we asked ourself: what happens if we insert the digital in between the physical and the analog (phsyical → digital → analog)? Is there a way to materially represent the results we obtained through this digital process?
 
 Having available a darkroom for photographic development in the Maison, we decided to make an experiment: can we impress on photographic paper these textures? 
-
-![](<research trip images/RT02.jpg>)
 
 We then used a projector to display our processed textures, rendered as 3D meshes or point clouds, and quickly positioned some photographic paper in front of it. 
 It turned out that it was possible! We managed to catch the virtual texture into an analog mean! UwU
 
 Since this proved to be quite exciting we decided to go through, and we used an old analog camera to photograph these projections overlaid on the original samples, blending the physical and virtual geometries so seamlessly that they became indistinguishable.
 This was also a wonderful chance to experiment the traditional process of photographic development in darkroom. 
+
+![](<research trip images/RT05.jpg>)
 
 !!! note ""
 
