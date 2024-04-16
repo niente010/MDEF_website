@@ -5,6 +5,9 @@ hide:
 
 # **Research Trip**
 
+!!! info "Info"
+    We spent one week in the La Grande Maison Rouge residency in Angoustrine.
+
 !!! note ""
 
 ## **doYouSeePatterns**
@@ -14,8 +17,8 @@ hide:
 One aspect that influenced my experience during the week was the observation of patterns around me.
 
 <iframe 
-    width="560" 
-    height="315" 
+    width="100%" 
+    height="350" 
     src="https://www.youtube.com/embed/qA4sDnEPeUs?si=S36mQTe3m2pcSGoA" 
     title="doYouSeePatterns" 
     frameborder="0" 
