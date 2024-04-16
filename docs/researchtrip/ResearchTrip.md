@@ -74,6 +74,8 @@ This was also a wonderful chance to experiment the traditional process of photog
 
 ## **Final Exposition**
 
+![](<research trip images/RT06.jpg>)
+
 We selected the Maison Rouge's boiler room to display our project for the final exposition. 
 This was the space in which the project was born, and its inherent darkness and isolation from the rest of the building created a mystical atmosphere on the space. 
 
