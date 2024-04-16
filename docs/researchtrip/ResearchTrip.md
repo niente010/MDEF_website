@@ -7,7 +7,7 @@ hide:
 
 !!! note ""
 
-## **doYouSeePatterns?**
+## **doYouSeePatterns**
 
 ![](<research trip images/researchtrip01.jpg>)
 
@@ -17,7 +17,7 @@ One aspect that influenced my experience during the week was the observation of 
     width="560" 
     height="315" 
     src="https://www.youtube.com/embed/qA4sDnEPeUs?si=S36mQTe3m2pcSGoA" 
-    title="doYouSeePatterns?" 
+    title="doYouSeePatterns" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
     allowfullscreen>
