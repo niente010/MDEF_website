@@ -83,4 +83,14 @@ The exhibition featured our photographic films, a composition made of collected 
 
 The abandoned fridge in the boiler turned out to be the perfect space to display our project, since the light was captured inside its chamber and created a new tridimensional shape. (lol)
 
+<iframe 
+    width="100%" 
+    height="500" 
+    src="https://www.youtube.com/embed/9EexKwdiJRg?si=ytI79dX6ZfEzt310" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+</iframe>
+
 !!! note ""
