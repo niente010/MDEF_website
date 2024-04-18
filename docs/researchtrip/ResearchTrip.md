@@ -86,8 +86,8 @@ The abandoned fridge in the boiler turned out to be the perfect space to display
 <iframe 
     width="100%" 
     height="500" 
-    src="https://www.youtube.com/embed/9EexKwdiJRg?si=ytI79dX6ZfEzt310" 
-    title="YouTube video player" 
+    src="https://www.youtube.com/embed/QqakSL7GFrE?si=1iGAhV_LxSnZgvpO" 
+    title="ResearchTrip" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
     allowfullscreen>
