@@ -74,4 +74,16 @@ The last step is to offer back the shared vision to the original cell, in order 
     webkitallowfullscreen="true">
 </iframe>
 
+## **Nicolò's 1st Draft Pictorial**
+
+<iframe 
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQtSXBDAjhlXc8iOCmZjZY_H5mt6C8EpJEpZI1WBKo2H7cQZGSkhF_tvcwzv0p9oEMMl9IuaVvy-XtO/embed?start=false&loop=false&delayms=3000" 
+    frameborder="0" 
+    width="100%" 
+    height="500" 
+    allowfullscreen="true" 
+    mozallowfullscreen="true" 
+    webkitallowfullscreen="true">
+</iframe>
+
 !!! note ""
