@@ -51,6 +51,20 @@ It is important to practice of ==altering the context==, in order to encourage d
 
 !!! note ""
 
+## **playground**
+
+<iframe 
+    width="100%" 
+    height="800" 
+    src="https://miro.com/app/live-embed/uXjVKP4K5Yg=/?moveToViewport=-3935,-2010,8482,5593&embedId=535850381350" 
+    frameborder="0" 
+    scrolling="no" 
+    allow="fullscreen; clipboard-read; clipboard-write" 
+    allowfullscreen>
+</iframe>
+
+!!! note ""
+
 ## **some references to clear your mind my dear reader**
 
 - https://www.youtube.com/watch?v=US9q2ayKANk
