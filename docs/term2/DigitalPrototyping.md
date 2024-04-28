@@ -149,4 +149,13 @@ We let the material rest on two surfaces: textile and a mould.
 
 ![](../images/CI02.jpg)
 
+GAIA is my ==initial speculative and practical attempt== to forge a symbiotic relationship between technology and nature. 
+Throughout this process, new ideas and reflections emerged, for example:
+
+- The ==narrative== that we used to communicate these ideas is fundamental: While abstractions can be dangerous to hide underlying concepts, they can also serve as a powerful tool to stimulate cultural and perspective changes.
+- The ==realistic aspect is not relegated to the background==: From the interactions during the Design Dialogues, many new possible ideas emerged. Therefore, leveraging the power of communication from the beginning to gain attention can lead to more credibility and feasibility by designing efficient purposes. This is most likely to be achieved by expanding the niche and collaborating with people from other fields.
+- The ==prototyping process== was so much fun and intense: The very core of the project lays in hacking the original computer to make it work according to our issues while preserving its original components and behavior. Additionally, the challenge of combining this electrical system with moisture and water was not easy, but it led to a completely different approach to prototyping compared to working only with electronics themselves.
+
+From the outcomes of this experience, I am excited to continue with this vision in the final project.
+
 !!! note "" 
