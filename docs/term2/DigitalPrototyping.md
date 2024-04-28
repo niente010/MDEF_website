@@ -22,7 +22,7 @@
      Annna Lozano & Nicolò Baldi
 
 !!! example "**Repository**"
-     https://gist.github.com/niente010/c08c7ce87580e2e29a68002e3d9cee05
+     https://github.com/annnalozano/Biomaterial-SoftRobotic/tree/main
 
 ### **Soft Robotics**
 Soft Robotics is a subfield of robotics that integrates soft and flexible materials instead of rigid ones. This difference in materiality is what allows the parts and links of robots, and by that, their functioning and purpose, to act and perform in different environments, handling things with great care, and by that, bringing them closer to human interaction.
@@ -120,8 +120,10 @@ We let the material rest on two surfaces: textile and a mould.
 !!! info "**Team**"
     Annna Lozano, Everardo Castro, Jorge Muñoz, Nicolò Baldi
 
+![](../images/DP10.jpg)
+
 !!! example "**Repository**"
-     https://hackmd.io/@usaestoparadescargar/ryrIKkeo6/edit
+     https://github.com/niente010/3D-Clay-Printing
 
 !!! note "" 
 
@@ -138,7 +140,6 @@ We let the material rest on two surfaces: textile and a mould.
 !!! note "" 
 
 ## **Microchallenge 2**
-
 
 !!! info "**Team**"
      Ana Lozano, Everdardo Castro Torres, Nicolò Baldi, Qianyin Du
