@@ -94,7 +94,7 @@ ooorganismooo today represents my attempt to ==investigate the materiality of ar
 A combination of approaches that, although unstable, i believe is very powerful.
 
 What i would like ooorganismooo to be for the end of the master's degree is a collection of these discoveries that are seemingly unrelated but are in fact linked by the approach that led to their rebirth.
-They all represent the will to explore the inside of things in order to appreciate it, to learn from it, and possibly to alter it. ==This methodology has sometimes led to the exploration of themes such as the relationship between ecology and technology, in others to the sphere of sound, or to other themes such as the rethinking of error, of unpredictability==.
+They all represent the will to explore the inside of things in order to appreciate it, to learn from it, and possibly to alter it. ==This methodology has sometimes led to the exploration of themes such as the relationship between ecology and technology, in others to the sphere of sound, or rethinking the concepts of error, glitch and unpredictability==.
 
 The approach is alchemical, tangible, practical, curious, flexible.
 And ==it was from this approach that the network I was struggling so hard to create was born==.
