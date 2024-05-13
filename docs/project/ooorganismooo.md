@@ -70,7 +70,7 @@ I recently understood that ==an ecological vision does not necessarily means to 
 It is a vision that does not pretend to fully understand every perspective on which the gaze rests, but rather one that allows to perceive the subject-object with fascination, curiosity and humility, with the intention of sharing this appreciation with others.
 ==This vision fits perfectly with the open-source, DIY ideology==, which main purpose is to disseminate knowledge for a collective learning, rather than to make it property.
 
-At the heart of the ecological vision is ==materiality==, the medium of entry into the guts of the subject==.
+At the heart of the ecological vision is ==materiality, the medium of entry into the guts of the subject==.
 Materiality is the first step towards proximity.
 Once inside, the experience then spreads to the plane of abstraction, releasing concepts, speculations and possible scenarios.
 This happened with GAIA, which core has been the prototyping process itself, as engaging as it was unique: priority was given to the interaction and the practical study of the material, and to its possible modifications. GAIA itself is a project of ==physical and material hacking==, and a ==circuit bending process==.
@@ -83,6 +83,27 @@ This experimentation leads to unexpected destinations, the path of which can onl
 At this moment, looking back, i see the people, the spaces, the experiences that were created during this journey, and i see the thread that unites them.
 
 _deep shit_
+
+!!! note ""
+
+## **update_12-05-24**
+In the end, ooorganismoo, will not be what it was intended to be.
+It will, however, be something else. Something that was not programmed and defined by a manifesto or a plan.
+
+ooorganismooo today represents my attempt to ==investigate the materiality of artefacts, somewhere between oblivious and naive discovery and technical understanding and proficiency==. 
+A combination of approaches that, although unstable, i believe is very powerful.
+
+What i would like ooorganismooo to be for the end of the master's degree is a collection of these discoveries that are seemingly unrelated but are in fact linked by the approach that led to their rebirth.
+They all represent the will to explore the inside of things in order to appreciate it, to learn from it, and possibly to alter it. ==This methodology has sometimes led to the exploration of themes such as the relationship between ecology and technology, in others to the sphere of sound, or to other themes such as the rethinking of error, of unpredictability==.
+
+The approach is alchemical, tangible, practical, curious, flexible.
+And ==it was from this approach that the network I was struggling so hard to create was born==.
+Out of the blue I found myself within a spectrum of events, people, spaces that influenced my vision and without even realising it, the project itself.
+I found myself modifying computers, toys, video cameras, jamming together, meeting people and communities interested in hacking processes and the potential of sound.
+
+For this reason, i believe that today ==ooorganismooo represents its vision through this research on the re-appropriation of the potential of artefacts, analysing and exploring them through an organic and ecological vision==.
+The outcome is a collection of hybrid results that aspire to both a speculative and functional interpretation.
+The heart of the project lies in the ==process of discovery and reworking, redesigning the functions and architectures of these items==, which are treated more as organisms with which to share care and attention than as defined passive tools, whose functions are beyond our reach.
 
 !!! note ""
 
