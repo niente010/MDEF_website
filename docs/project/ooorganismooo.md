@@ -65,7 +65,28 @@ It is important to practice of ==altering the context==, in order to encourage d
 
 !!! note ""
 
-## **some references to clear your mind my dear reader**
+## **update_05-05-24**
+I recently understood that ==an ecological vision does not necessarily means to a vision on ecology==.
+It is a vision that does not pretend to fully understand every perspective on which the gaze rests, but rather one that allows to perceive the subject-object with fascination, curiosity and humility, with the intention of sharing this appreciation with others.
+==This vision fits perfectly with the open-source, DIY ideology==, which main purpose is to disseminate knowledge for a collective learning, rather than to make it property.
+
+At the heart of the ecological vision is ==materiality==, the medium of entry into the guts of the subject==.
+Materiality is the first step towards proximity.
+Once inside, the experience then spreads to the plane of abstraction, releasing concepts, speculations and possible scenarios.
+This happened with GAIA, which core has been the prototyping process itself, as engaging as it was unique: priority was given to the interaction and the practical study of the material, and to its possible modifications. GAIA itself is a project of ==physical and material hacking==, and a ==circuit bending process==.
+
+This brings us back to another key point of the ecological vision: ==care==. 
+In fact, this approach requires great attention to the subject-object, ==a relationship of intimacy, emphasised precisely by the tangibility of the process==.
+Results arise from experimentation, whether organised in advance or not, and from dedicating time and resources to these relationships.
+
+This experimentation leads to unexpected destinations, the path of which can only be understood by looking back.
+At this moment, looking back, i see the people, the spaces, the experiences that were created during this journey, and i see the thread that unites them.
+
+_deep shit_
+
+!!! note ""
+
+## **some references to clear your mind**
 
 - https://www.youtube.com/watch?v=US9q2ayKANk
 
