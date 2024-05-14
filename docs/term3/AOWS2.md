@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # Atlas of Weak Signals 2
 
 !!! info 
