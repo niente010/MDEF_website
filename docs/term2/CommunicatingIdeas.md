@@ -58,4 +58,16 @@ Throughout this process, new ideas and reflections emerged, for example:
 
 From the outcomes of this experience, I am excited to continue with this vision in the final project.
 
+**Teaser Video** 
+
+<iframe 
+    width="100%" 
+    height="600" 
+    src="https://www.youtube.com/embed/4bKsXcgrkUM?si=H2GT1PEDAh37ABF6" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+</iframe>
+
 !!! note ""

@@ -41,6 +41,16 @@ The strategies used by ooorganismooo include active listening, critical thinking
 
 Before a technological revolution, ooorganismooo believes that ==the priority should be to offer a cultural revolution==, listening to alternatives to today's reality in order to solidify the foundations for an immediate future.
 
+!!! note "References"
+    - https://www.youtube.com/watch?v=US9q2ayKANk
+    - https://www.movebank.org/cms/movebank-main
+    - https://www.instagram.com/davidbowenart/
+
+    [previous work related to the topic]
+    - https://github.com/niente010/GAIA
+    - https://nicolobaldi.com/SPIRA
+    - https://niente010.github.io/MDEF_website/term1/DesignStudio01/#pulse
+
 !!! note ""
 
 ## **the plan** 
@@ -107,20 +117,16 @@ The heart of the project lies in the ==process of discovery and reworking, redes
 
 !!! note ""
 
-## **some references to clear your mind**
+## **RUIDO**
 
-- https://www.youtube.com/watch?v=US9q2ayKANk
-
-- https://www.movebank.org/cms/movebank-main
-
-- https://www.instagram.com/davidbowenart/
-
-[previous work related to the topic]
-
-- https://github.com/niente010/GAIA
-
-- https://nicolobaldi.com/SPIRA
-
-- https://niente010.github.io/MDEF_website/term1/DesignStudio01/#pulse
+<iframe 
+    width="100%" 
+    height="600" 
+    src="https://www.youtube.com/embed/4bKsXcgrkUM?si=H2GT1PEDAh37ABF6" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+</iframe>
 
 !!! note ""
