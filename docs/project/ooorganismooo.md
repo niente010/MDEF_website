@@ -3,12 +3,12 @@ hide:
     - toc
 ---
 
-# **ooorganismooo**
+## **ooorganismooo**
 
 !!! info "**Intro**"
      If you want to have an introduction, I reccomend you to give a look at [this page](https://niente010.github.io/MDEF_website/term2/CommunicatingIdeas/) first! 
 
-## **ooorganismooo: manifesto**
+### **ooorganismooo: manifesto**
 
 The goal of ooorganismooo is to encourage the research and development of independent technologies with the purpose of understanding and disseminating the study of ecology, in addition to addressing the climate crisis.
 
@@ -53,7 +53,7 @@ Before a technological revolution, ooorganismooo believes that ==the priority sh
 
 !!! note ""
 
-## **the plan** 
+### **the plan** 
 ooorganismooo starts from first-person research of the participants.
 By ==mapping different environments operating in the field of art, design, science, and technology==, the goal is to attract the attention of anyone interested in peeking out from their professional background to explore a collective confrontation on the selected themes.
 From there, the goal is to ==move from conversations to practicality, stimulating designs and speculations==.
@@ -61,7 +61,7 @@ It is important to practice of ==altering the context==, in order to encourage d
 
 !!! note ""
 
-## **playground**
+### **playground**
 
 <iframe 
     width="100%" 
@@ -117,7 +117,15 @@ The heart of the project lies in the ==process of discovery and reworking, redes
 
 !!! note ""
 
-## **RUIDO**
+## **JALEO**
+!!! info "**Team**"
+     Ana Lozano Martinez, Minnie Pangilinan, Nicolò Baldi
+
+!!! note ""
+
+### **RUIDO**
+
+RUIDO is a first collection of the experiences we embraced during our research.
 
 <iframe 
     width="100%" 
@@ -130,3 +138,26 @@ The heart of the project lies in the ==process of discovery and reworking, redes
 </iframe>
 
 !!! note ""
+
+### JAMS
+
+These are some of the jams we recorded during our exploration, made with the instruments that we built.
+<iframe 
+    width="100%" 
+    height="600" 
+    src="https://www.youtube.com/embed/7gQWb7_hdhw?si=gG1VugNRwsqZjL8U" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+</iframe>
+
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/eHaodquZS4I?si=uoDQE8rkSfWASFBf" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+</iframe>
