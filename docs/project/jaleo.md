@@ -4,10 +4,10 @@ hide:
 ---
 
 
-!!! info "**Intro**"
+!!! danger "**Intro**"
      This is the first idea i had for my final project, which eventually changed! 
      Anyway, I like to keep it here because i think it represents the path I've been through the Master. 
-     If you're lazy and you just want to skip to the last part, just go here: 
+     If you're lazy and you just want to skip to the last part, just go here: https://niente010.github.io/MDEF_website/project/jaleo/#jaleo
 
 ## **ooorganismooo**
 ### **ooorganismooo: manifesto**
@@ -121,11 +121,12 @@ The heart of the project lies in the ==process of discovery and reworking, redes
 
 ## **JALEO**
 !!! info "**Team**"
-     Ana Lozano Martinez, Minnie Pangilinan, Nicolò Baldi
+     La Banda del Patio: Ana Lozano Martinez, Minnie Pangilinan, Nicolò Baldi
 
 JALEO is a research on circuit bending, the act of modifying already existing, usually wasted or unused electronics to give them a new life. 
 In our case, we focused on their conversion into musical instruments or audio-reactive analog visual instruments.
 You can have a tease of the instruments that we built with the following jams! 
+More detailed materials releasing soon! 
 
 !!! note ""
 
