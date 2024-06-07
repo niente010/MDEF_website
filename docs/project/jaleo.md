@@ -3,11 +3,13 @@ hide:
     - toc
 ---
 
-## **ooorganismooo**
 
 !!! info "**Intro**"
-     If you want to have an introduction, I reccomend you to give a look at [this page](https://niente010.github.io/MDEF_website/term2/CommunicatingIdeas/) first! 
+     This is the first idea i had for my final project, which eventually changed! 
+     Anyway, I like to keep it here because i think it represents the path I've been through the Master. 
+     If you're lazy and you just want to skip to the last part, just go here: 
 
+## **ooorganismooo**
 ### **ooorganismooo: manifesto**
 
 The goal of ooorganismooo is to encourage the research and development of independent technologies with the purpose of understanding and disseminating the study of ecology, in addition to addressing the climate crisis.
@@ -121,6 +123,10 @@ The heart of the project lies in the ==process of discovery and reworking, redes
 !!! info "**Team**"
      Ana Lozano Martinez, Minnie Pangilinan, Nicolò Baldi
 
+JALEO is a research on circuit bending, the act of modifying already existing, usually wasted or unused electronics to give them a new life. 
+In our case, we focused on their conversion into musical instruments or audio-reactive analog visual instruments.
+You can have a tease of the instruments that we built with the following jams! 
+
 !!! note ""
 
 ### **RUIDO**
@@ -161,3 +167,5 @@ These are some of the jams we recorded during our exploration, made with the ins
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
     allowfullscreen>
 </iframe>
+
+!!! note ""
