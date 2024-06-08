@@ -160,8 +160,8 @@ These are some of the jams we recorded during our exploration, made with the ins
 </iframe>
 
 <iframe 
-    width="560" 
-    height="315" 
+    width="100%" 
+    height="600" 
     src="https://www.youtube.com/embed/eHaodquZS4I?si=uoDQE8rkSfWASFBf" 
     title="YouTube video player" 
     frameborder="0" 
