@@ -159,3 +159,15 @@ Throughout this process, new ideas and reflections emerged, for example:
 From the outcomes of this experience, I am excited to continue with this vision in the final project.
 
 !!! note "" 
+
+## **Microchallenge 3**
+
+!!! info "**Team**"
+     Ana Lozano, Nicolò Baldi
+
+!!! example "**Repository**"
+     https://github.com/niente010/Valentino
+
+![](../images/CircuitBending00.jpg)
+
+!!! note "" 
