@@ -132,6 +132,17 @@ We let the material rest on two surfaces: textile and a mould.
 !!! info "**Team**"
     Annna Lozano, Anna Fedele, Everardo Castro, Jorge Muñoz, Nicolò Baldi
 
+![](../images/DP12.jpg)
+
+In this project, we designed and prototyped a ==custom spinning table== using the CNC cutting technique. 
+This table features a spinning edge and bearings for smooth manual rotation, doubling as a manual pottery wheel.
+
+**Workflow:**
+1. **Material:** Plywood - 2400mm x 1200mm - 20mm offset for screw placement.
+2. **File Setup & RhinoCam::** Set up the design file, define the origin, and use RhinoCam to prepare for machining.
+3. **Engraving & Pocketing:** Select objects for engraving, set tool parameters, and define cut patterns and depths.
+4. **Machining & Assembly: E**xecute the g-code, and assemble the machined parts.
+
 !!! note "" 
 
 ## **Expressive Data**
@@ -143,6 +154,12 @@ We let the material rest on two surfaces: textile and a mould.
      https://github.com/minnie-at-iaac/audio-reactive-thermal-printer/tree/main
 
 ![](../images/DP11.jpg)
+
+We wanted to combine the teachings from these classes into something related to our final project, so our goal was to ==keep on working with physical and tangible materials and phenomena, even when working with digital softwares== as Pure Data. 
+That's why, speaking of tangible feedbacks to real data, we decided to ==convert a thermal printer to be audio-reactive==.
+
+The project features a Python script and a Pure Data patch working in tandem. The Pure Data patch reads audio input from a microphone and includes controllable parameters like a loudness threshold. When the input exceeds this threshold, it estimates the frequency/pitch and sends this information as a TCP message.
+The Python script receives these TCP messages and triggers a thermal printer to print lines corresponding to the received frequency/pitch values. 
 
 !!! note ""
 
