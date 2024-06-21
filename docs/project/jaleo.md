@@ -24,7 +24,7 @@ Then it was time to get hands-on: the process of circuit bending is a delicate b
 This unpredictability is precisely why we are fascinated by this technique and find it unique: it dances on the spectrum of possibilities and experiments and designs over something that already exists, creating a methodology based on adaptability, hacking, reusing, and recycling—concepts that are difficult to find in other contexts.
 This vision also requires care and attention, creating a magical tension between what the artifact could or could not become. 
 
-## **Sound and Visuals Instruments**
+## **Sound and Visual Instruments**
 
 ### **Valentino**
 Valentino (https://github.com/niente010/Valentino) is our first accomplished instrument, an experiment that passed away and came back to life multiple times due to its fragility, but eventually turned into a powerful sound and beat-making instrument. 
