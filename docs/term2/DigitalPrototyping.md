@@ -127,6 +127,20 @@ We let the material rest on two surfaces: textile and a mould.
 
 !!! note "" 
 
+## **CNC**
+
+!!! info "**Team**"
+    Annna Lozano, Anna Fedele, Everardo Castro, Jorge Muñoz, Nicolò Baldi
+
+!!! note "" 
+
+## **Expressive Data**
+
+!!! info "**Team**"
+    Annna Lozano, Minnie Pangilinan, Nicolò Baldi
+
+!!! note ""
+
 ## **Microchallenge 1**
 
 !!! info "**Team**"

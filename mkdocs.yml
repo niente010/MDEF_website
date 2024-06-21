@@ -39,8 +39,9 @@ nav:
           - Communicating Ideas: term2/CommunicatingIdeas.md
   - Research Trip: researchtrip/ResearchTrip.md
   - Master Thesis:
-    - Tandem project: project/tandemproject.md
     - JALEO: project/jaleo.md
+    - Initial Ideas: project/initialideas.md
+    - Tandem project: project/tandemproject.md
 
 extra:
   social:
