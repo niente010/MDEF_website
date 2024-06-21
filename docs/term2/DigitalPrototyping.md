@@ -181,6 +181,6 @@ We let the material rest on two surfaces: textile and a mould.
 
 !!! tip ""
     ### **Reflections**
-     From the teachings of the previous challenges, the last one took a hybrid shape between the two. Valentino has been our first of many circuit-bending projects applied to sound instruments. Through this experiment, we faced the difficulties of designing over something that already exists, but at the same time learned about the concepts of design for disassembly and repurposing trash.    
+     From the teachings of the previous challenges, the last one took a hybrid shape between the two. Valentino has been our first of many circuit-bending projects applied to sound instruments. Through this experiment, we faced the difficulties of ==designing over something that already exists==, but at the same time learned about the concepts of design for disassembly and repurposing trash.    
 
 !!! note "" 
