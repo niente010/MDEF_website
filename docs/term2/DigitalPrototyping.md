@@ -139,6 +139,11 @@ We let the material rest on two surfaces: textile and a mould.
 !!! info "**Team**"
     Annna Lozano, Minnie Pangilinan, Nicolò Baldi
 
+!!! example "**Repository**"
+     https://github.com/minnie-at-iaac/audio-reactive-thermal-printer/tree/main
+
+![](../images/DP11.jpg)
+
 !!! note ""
 
 ## **Microchallenge 1**

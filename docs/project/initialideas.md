@@ -10,6 +10,19 @@ hide:
      If you're lazy and you just want to skip to the last part, just go here: https://niente010.github.io/MDEF_website/project/jaleo
 
 ## **ooorganismooo**
+
+### **playground**
+
+<iframe 
+    width="100%" 
+    height="600" 
+    src="https://miro.com/app/live-embed/uXjVKP4K5Yg=/?moveToViewport=-3935,-2010,8482,5593&embedId=535850381350" 
+    frameborder="0" 
+    scrolling="no" 
+    allow="fullscreen; clipboard-read; clipboard-write" 
+    allowfullscreen>
+</iframe>
+
 ### **ooorganismooo: manifesto**
 
 The goal of ooorganismooo is to encourage the research and development of independent technologies with the purpose of understanding and disseminating the study of ecology, in addition to addressing the climate crisis.
@@ -60,20 +73,6 @@ ooorganismooo starts from first-person research of the participants.
 By ==mapping different environments operating in the field of art, design, science, and technology==, the goal is to attract the attention of anyone interested in peeking out from their professional background to explore a collective confrontation on the selected themes.
 From there, the goal is to ==move from conversations to practicality, stimulating designs and speculations==.
 It is important to practice of ==altering the context==, in order to encourage dialogue and break out of respective filters: for example, it would be interesting to explore a rotation of the spatial context during the diverse activities.
-
-!!! note ""
-
-### **playground**
-
-<iframe 
-    width="100%" 
-    height="800" 
-    src="https://miro.com/app/live-embed/uXjVKP4K5Yg=/?moveToViewport=-3935,-2010,8482,5593&embedId=535850381350" 
-    frameborder="0" 
-    scrolling="no" 
-    allow="fullscreen; clipboard-read; clipboard-write" 
-    allowfullscreen>
-</iframe>
 
 !!! note ""
 
