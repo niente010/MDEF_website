@@ -31,7 +31,7 @@ This vision also requires care and attention, creating a magical tension between
 
 !!! danger ""
 
-## **People & Spaces**
+## **People**
 
 ![](<project images/JALEO_People.jpg>)
 The project emerged from and thrived thanks to a ==vibrant group of people== who organically came together during our research. We started by connecting with ==sound experimenting communities and artists== in Barcelona: we visited their spaces and studios, attended their performances, jammed together, grabbed coffees, and simply shared our experiences.
@@ -40,7 +40,7 @@ It was amazing to see how ==willing and open these individuals were to share the
 The best part for me was that all these relationships developed very spontaneously, only driven by a shared passion for experimenting with soundscapes. Some connections even happened randomly, but eventually formed a solid group without which this project would never have been possible.
 
 All of these people were incredible inspirations, and some eventually actively collaborated in our project development and performance. 
-We would truly love to share our appreciation to this people and their energy, kindness, sincerity and patience. <3
+==We would truly love to share our appreciation to this people and their energy, kindness, sincerity and patience. <3==
 
 !!! danger ""
 
@@ -48,17 +48,21 @@ We would truly love to share our appreciation to this people and their energy, k
 
 ==VALENTINO==
 
-:   ![](<project images/JALEO_Valentino.JPG>){: .image-45-size-left}
+:   ![](<project images/JALEO_Valentino.JPG>){: .image-45-size-left }
 :   Valentino is our first accomplished instrument, an experiment that passed away and came back to life multiple times due to its fragility, but eventually turned into a powerful sound and beat-making instrument. 
 You can find the full documentation of the making of Valentino through [this link](https://github.com/niente010/Valentino).
 <div style="clear: both;"></div>
 
-==CASIO GLITCHED TOY KEYBOARD==
+==CASIO GLITCHED TOY KEYBOARD==!
+:   ![](<project images/JALEO_Casio.JPG>){: .image-45-size-left }
+:   This toy keyboard, initially not working, has been purchased in Dels Encants for 7€, and after analyzing the electronics, me managed to add 3 extra features that radically change the sound of the instrument.
+It has a Gain Mode, in which the sound is boosted in a very powerful way through a button, a Light Mode, in which the sound is distorted through a photoresistor making it light-sensitive, and a Glitch Mode, in which through a potentiometer, the piano plays random samples.
+
 <div style="clear: both;"></div>
 
 ==LA ROCA==
 
-:   ![](<project images/JALEO_La Roca.JPG>){: .image-45-size-left}
+:   ![](<project images/JALEO_La Roca.JPG>){: .image-45-size-left }
 :   La Roca was developed in collaboration with Anthuanet Falcon and Enric Aranda during the ==Workshop: Installació Sonora==, organized by Mutan Monkey. The goal was to explore the concept of sound installations, a world I hadn't known existed before, and to focus on the ==immense potential of amplified primitive sounds==. 
 
 :   La Roca amplifies the sound of a motor hitting a rock at various speeds through a piezo microphone, creating a blend of metallic, industrial sounds with the natural reverb and texture of the rock.
@@ -66,7 +70,7 @@ You can find the full documentation of the making of Valentino through [this lin
 
 ==AIRBOOSTER==
 
-:   ![](<project images/JALEO_Airbooster.JPG>){: .image-45-size-left}
+:   ![](<project images/JALEO_Airbooster.JPG>){: .image-45-size-left }
 :   The Airbooster is an airplane toy that we reassembled to host a ==Booster (Pre-Amplifier) effect==. The need to build a Booster arose from our use of Piezo Microphones, which capture physical vibrations but typically produce very low signals. To address this, we built a pre-amp circuit based on a clone of the Super Hard-On by Z.Vex guitar pedal, available online. We also reused and reinvented the toy's original case and LEDs.
 <div style="clear: both;"></div>
 
@@ -79,13 +83,13 @@ For instance, we got a very deep and echoing sound by using the soldering iron s
 
 ==RORSCHACH==
 
-:   ![](<project images/JALEO_Rorschach.JPG>){: .image-45-size-left}
+:   ![](<project images/JALEO_Rorschach.JPG>){: .image-45-size-left }
 :   Rorschach was literally a "SpiderMan Infrared Toy Gun". After disassembling it and experimenting with its sounds, we decided to amplify it through a Jack Output. We also found out the the motor used for the vibration effect of the toy was giving an interesting sound if amplified by a Piezo Microphone.
 <div style="clear: both;"></div>
 
 ==OSCILLOSCOPE==
 
-:   ![](<project images/JALEO_Oscilloscope.JPG>){: .image-45-size-left}
+:   ![](<project images/JALEO_Oscilloscope.JPG>){: .image-45-size-left }
 :   Fascinated by the idea of visualizing our sounds in real-time, we looked for a way to build our own oscilloscope. Through various tutorials, we discovered that it was possible to convert old CRT screens into analog oscilloscopes.
 
 :   For doing this, we decided to repurpose the old intercom used by Minnie in the Machine Paradox Seminar: we added a jack input to receive the sound signal and reinvented the interface by reusing other discarded materials such as old components from a discarded 3D printer and metal structures from power supplies and computers.
@@ -110,7 +114,7 @@ We wanted to empahsize the possibility of glitching in analog instruments, usual
 <div style="clear: both;"></div>
 
 ==LILY==
-:   ![](<project images/JALEO_Lily.JPG>){: .image-45-size-left}
+:   ![](<project images/JALEO_Lily.JPG>){: .image-45-size-left }
 :   Lily is a cyborg doll created by [Clara Teresa](https://www.instagram.com/smol.minimoi/), born by the idea of combining toys with E-Waste. 
     The head has been 3D printed in resin and combined with an assembly of metal and electronics components.
 <div style="clear: both;"></div>
@@ -123,7 +127,7 @@ JALEO has been officially presented during the event Alquimia in SSuave3000, on 
 This event has been organized by part of the MDEFest 2024, the collective presentation of all the projects developed by this year's Master in Design for Emergent Futures Programme.
 
 
-:   ![](<project images/JALEO_Alquimia.png>){: .image-45-size-left}
+:   ![](<project images/JALEO_Alquimia.png>){: .image-45-size-left }
 
 !!! danger ""
     ### **Concept**
