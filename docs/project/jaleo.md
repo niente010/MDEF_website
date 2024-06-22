@@ -49,8 +49,10 @@ We would truly love to share our appreciation to this people and their energy, k
 :   ![](<project images/JALEO_Valentino.JPG>){: .image-45-size-left}
 :   Valentino is our first accomplished instrument, an experiment that passed away and came back to life multiple times due to its fragility, but eventually turned into a powerful sound and beat-making instrument. 
 You can find the full documentation of the making of Valentino through [this link](https://github.com/niente010/Valentino).
+<div style="clear: both;"></div>
 
 ==CASIO GLITCHED TOY KEYBOARD==
+<div style="clear: both;"></div>
 
 ==LA ROCA==
 
@@ -58,6 +60,7 @@ You can find the full documentation of the making of Valentino through [this lin
 :   La Roca was developed in collaboration with Anthuanet Falcon and Enric Aranda during the ==Workshop: Installació Sonora==, organized by Mutan Monkey. The goal was to explore the concept of sound installations, a world I hadn't known existed before, and to focus on the ==immense potential of amplified primitive sounds==. 
 
 :   La Roca amplifies the sound of a motor hitting a rock at various speeds through a piezo microphone, creating a blend of metallic, industrial sounds with the natural reverb and texture of the rock.
+<div style="clear: both;"></div>
 
 ==AIRBOOSTER==
 
@@ -66,17 +69,20 @@ You can find the full documentation of the making of Valentino through [this lin
 
 :   ??? abstract "References"
         blablabla
+<div style="clear: both;"></div>
 
 ==EL MATADOR==
 
 :   El Matador is a combination of different metallic materials, trash cans, bolts, nuts, power supply cases, a soldering iron structure... 
 It is a playground in which the Piezo Microphone can amplify different materials in order to get a variety of sounds depending on where it is placed. 
 For instance, we got a very deep and echoing sound by using the soldering iron structure as a spring and placing the microphone directly on it.
+<div style="clear: both;"></div>
 
 ==RORSCHACH==
 
 :   ![](<project images/JALEO_Rorschach.JPG>){: .image-45-size-left}
 :   Rorschach was literally a "SpiderMan Infrared Toy Gun". After disassembling it and experimenting with its sounds, we decided to amplify it through a Jack Output. We also found out the the motor used for the vibration effect of the toy was giving an interesting sound if amplified by a Piezo Microphone.
+<div style="clear: both;"></div>
 
 ==OSCILLOSCOPE==
 
@@ -87,6 +93,7 @@ For instance, we got a very deep and echoing sound by using the soldering iron s
 
 :   ??? abstract "References"
         blablabla
+<div style="clear: both;"></div>
 
 ==AUDIO REACTIVE THERMAL PRINTER AND TAXI LIGHT==
 
@@ -96,6 +103,7 @@ For instance, we got a very deep and echoing sound by using the soldering iron s
 The taxi light also activates when a certain threshold is exceeded.
 
 :   You can take a look of our documentatiion of the thermal printer printer project through [this link](https://niente010.github.io/MDEF_website/term2/DigitalPrototyping/#expressive-data).
+<div style="clear: both;"></div>
 
 ==GLITCHING VIDEO THROUGH RCA VIDEO TXRX ON DISASSEMBLED MONITORS==
 
@@ -103,11 +111,13 @@ The taxi light also activates when a certain threshold is exceeded.
 
 :   We used this instrument to display our live performance live recorded from a security camera into two disassembled monitors, while glitching the video in real-time by phisically moving and twisting the antennas. 
 We wanted to empahsize the possibility of glitching in analog instruments, usually more accessible and also driven by a hands-on process.
+<div style="clear: both;"></div>
 
 ==LILY==
-
-:   Lily is a cyborg doll created by Clara Teresa, born by the idea of combining toys with E-Waste. 
+:   ![](<project images/JALEO_Lily.JPG>){: .image-45-size-left}
+:   Lily is a cyborg doll created by [Clara Teresa](https://www.instagram.com/smol.minimoi/), born by the idea of combining toys with E-Waste. 
     The head has been 3D printed in resin and combined with an assembly of metal and electronics components.
+<div style="clear: both;"></div>
 
 !!! danger "" 
 
@@ -132,6 +142,7 @@ We wanted to empahsize the possibility of glitching in analog instruments, usual
     Being in-between does not mean to find a margin and choose a point on this line, but mov*ing* freely in a grey area not clearly defined. It's not only guided by knowledge and rationality, but also by instinct, feel and sense. 
 
     The start*ing* point to reach this grey area is material, tangible, but at the same time ready to be reconsidered through virtuality.
+<div style="clear: both;"></div>
 
 ### **Open Collective Jam**
 
