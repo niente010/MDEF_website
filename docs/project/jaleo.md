@@ -29,6 +29,8 @@ Then it was time to get hands-on: the process of circuit bending is a delicate b
 This ==unpredictability== is precisely why we are fascinated by this technique and find it unique: it dances on the spectrum of possibilities and experiments and designs over something that already exists, creating a ==methodology based on adaptability, hacking, reusing== — concepts  difficult to find and apply in other contexts.
 This vision also requires care and attention, creating a magical tension between what the artifact could or could not become. 
 
+!!! danger ""
+
 ## **People & Spaces**
 The project emerged from and thrived thanks to a ==vibrant group of people== who organically came together during our research. We started by connecting with ==sound experimenting communities and artists== in Barcelona: we visited their spaces and studios, attended their performances, jammed together, grabbed coffees, and simply shared our experiences.
 
@@ -38,29 +40,34 @@ The best part for me was that all these relationships developed very spontaneous
 All of these people were incredible inspirations, and some eventually actively collaborated in our project development and performance. 
 We would truly love to share our appreciation to this people and their energy, kindness, sincerity and patience. <3
 
+!!! danger ""
+
 ## **Sound and Visual Instruments**
 
 ==VALENTINO==
 
-: ![](../){: .image-45-size-left}
-: Valentino is our first accomplished instrument, an experiment that passed away and came back to life multiple times due to its fragility, but eventually turned into a powerful sound and beat-making instrument. 
+:   ![](../){: .image-45-size-left}
+:   Valentino is our first accomplished instrument, an experiment that passed away and came back to life multiple times due to its fragility, but eventually turned into a powerful sound and beat-making instrument. 
 You can find the full documentation of the making of Valentino through [this link](https://github.com/niente010/Valentino).
 
 ==LA ROCA==
 
-: La Roca was developed in collaboration with Anthuanet Falcon and Enric Aranda during the ==Workshop: Installació Sonora==, organized by Mutan Monkey. The goal was to explore the concept of sound installations, a world I hadn't known existed before, and to focus on the ==immense potential of amplified primitive sounds==. 
+:   La Roca was developed in collaboration with Anthuanet Falcon and Enric Aranda during the ==Workshop: Installació Sonora==, organized by Mutan Monkey. The goal was to explore the concept of sound installations, a world I hadn't known existed before, and to focus on the ==immense potential of amplified primitive sounds==. 
 
-: La Roca amplifies the sound of a motor hitting a rock at various speeds through a piezo microphone, creating a blend of metallic, industrial sounds with the natural reverb and texture of the rock.
+:   La Roca amplifies the sound of a motor hitting a rock at various speeds through a piezo microphone, creating a blend of metallic, industrial sounds with the natural reverb and texture of the rock.
 
 ==AIRBOOSTER==
 
-: The Airbooster is an airplane toy that we reassembled to host a ==Booster (Pre-Amplifier) effect==. The need to build a Booster arose from our use of Piezo Microphones, which capture physical vibrations but typically produce very low signals. To address this, we built a pre-amp circuit based on a clone of the Super Hard-On by Z.Vex guitar pedal, available online. We also reused and reinvented the toy's original case and LEDs.
+:   The Airbooster is an airplane toy that we reassembled to host a ==Booster (Pre-Amplifier) effect==. The need to build a Booster arose from our use of Piezo Microphones, which capture physical vibrations but typically produce very low signals. To address this, we built a pre-amp circuit based on a clone of the Super Hard-On by Z.Vex guitar pedal, available online. We also reused and reinvented the toy's original case and LEDs.
 
 :   ??? abstract "References"
         blablabla
 
-
 ==EL MATADOR==
+
+:   El Matador is a combination of different metallic materials, trash cans, bolts, nuts, power supply cases, a soldering iron structure... 
+It is a playground in which the Piezo Microphone can amplify different materials in order to get a variety of sounds depending on where it is placed. 
+For instance, we got a very deep and echoing sound by using the soldering iron structure as a spring and placing the microphone directly on it.
 
 ==RORSCHACH==
 
@@ -72,10 +79,17 @@ You can find the full documentation of the making of Valentino through [this lin
 
 :   ??? abstract "References"
         blablabla
-        
+
 ==AUDIO REACTIVE THERMAL PRINTER AND TAXI LIGHT==
 
-==DISASSEMBLED MONITORS & RCA VIDEO TXRX==
+:   We had a thermal printer available in class and an unused Taxi Light kindly gifted by our taxista de confianza, so we immediately thought: why not making those devices audio reactive? 
+
+:   Compared to other parts of the project, this phase involved the most interaction with digital tools, particularly software like Pure Data and the Arduino IDE. However, our main focus remained on maintaining a physical element as much as possible. This is why our thermal printer was set to print the intensity of the soundwave in real-time.
+The taxi light also activates when a certain threshold is exceeded.
+
+:   You can take a look of our documentatiion of the thermal printer printer project through [this link](https://niente010.github.io/MDEF_website/term2/DigitalPrototyping/#expressive-data).
+
+==GLITCHING VIDEO THROUGH DISASSEMBLED MONITORS & RCA VIDEO TXRX==
 
 ==LILY==
 
@@ -86,7 +100,6 @@ You can find the full documentation of the making of Valentino through [this lin
 !!! danger "" 
     JALEO has been officially presented during the event Alquimia in SSuave3000, on the 12-06-24.
     This event has been organized by part of the MDEFest 2024, the collective presentation of all the projects developed by this year's Master in Design for Emergent Futures Programme.
-
 
 : ![](../){: .image-45-size-left}
 
@@ -108,19 +121,19 @@ You can find the full documentation of the making of Valentino through [this lin
 
 After an intense prototyping phase, we wondered how to best communicate and share our project with others. 
 Reflecting on our process, we realized that the instruments we built differed significantly from traditional musical instruments. 
-These devices can be played without rules, creating an interaction where there is no clear right or wrong. 
-This free experimentation allows anyone to play sounds, offering a unique and approachable interaction compared to traditional instruments, which can be intimidating due to their interface, architecture, and cultural background.
+These devices can be ==played without rules==, creating an interaction where there is no clear right or wrong. 
+This free experimentation ==allows anyone to play sounds, offering a unique and approachable interaction== compared to traditional instruments, which can be intimidating due to their interface, architecture, and cultural background.
 We also believe that the design itself of these artifacts, shaped by an open structure and a lack of point of reference makes our instruments accessible and without the need for specialized knowledge. 
 
-This is why, for our presentation, we organized what we called "Open Collective Jam". 
-This was a moment in which all of our instruments were available for everyone to play with, creating a gathering for collective jamming. The objective was to let the collective sounds, noise, and process of discovery arise as protagonists, rather than the individual musical skills. Everyone was invited to experiment with the different sounds generated by our bizarre creations, and it was delightful to see people's reactions to the open interfaces and electronics, discovering simply by putting their hands on them.
+This is why, for our presentation, we organized what we called =="Open Collective Jam"==. 
+This was a moment in which all of ==our instruments were available for everyone to play with, creating a gathering== for collective jamming. The objective was to let the collective sounds, noise, and process of discovery arise as protagonists, rather than the individual musical skills. Everyone was invited to experiment with the different sounds generated by our bizarre creations, and it was delightful to see people's reactions to the open interfaces and electronics, discovering simply by putting their hands on them.
 
 ### **Live Performance: JALEO**
 
-After this moment of co-creation, we also wanted to share our personal process of experimenting with the instruments that we built and show their potential by designing and performing an Audio/Visual Live Performance of JALEO.
+After this moment of co-creation, we also wanted to ==share our personal process of experimenting with the instruments that we built and show their potential== by designing and performing an ==Audio/Visual Live Performance of JALEO==.
 
 We designed the set to reflect our process by including every artifact we built as part of the performance. 
 Although the performance was mostly improvised, we strategically included and distributed our tools and their features throughout the performance to highlight their unique aspects. 
 Each instrument had its own role, mirroring its importance to us during the prototyping phase.
 
-!!! note ""
+!!! danger ""
