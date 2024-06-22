@@ -46,7 +46,7 @@ We would truly love to share our appreciation to this people and their energy, k
 
 ==VALENTINO==
 
-:   ![](../JALEO_Valentino.JPG){: .image-45-size-left}
+:   ![](<project images/JALEO_Valentino.JPG>){: .image-45-size-left}
 :   Valentino is our first accomplished instrument, an experiment that passed away and came back to life multiple times due to its fragility, but eventually turned into a powerful sound and beat-making instrument. 
 You can find the full documentation of the making of Valentino through [this link](https://github.com/niente010/Valentino).
 
@@ -54,14 +54,14 @@ You can find the full documentation of the making of Valentino through [this lin
 
 ==LA ROCA==
 
-:   ![](../JALEO_La Roca.JPG){: .image-45-size-left}
+:   ![](<project images/JALEO_La Roca.JPG>){: .image-45-size-left}
 :   La Roca was developed in collaboration with Anthuanet Falcon and Enric Aranda during the ==Workshop: Installació Sonora==, organized by Mutan Monkey. The goal was to explore the concept of sound installations, a world I hadn't known existed before, and to focus on the ==immense potential of amplified primitive sounds==. 
 
 :   La Roca amplifies the sound of a motor hitting a rock at various speeds through a piezo microphone, creating a blend of metallic, industrial sounds with the natural reverb and texture of the rock.
 
 ==AIRBOOSTER==
 
-:   ![](../JALEO_Airbooster.JPG){: .image-45-size-left}
+:   ![](<project images/JALEO_Airbooster.JPG>){: .image-45-size-left}
 :   The Airbooster is an airplane toy that we reassembled to host a ==Booster (Pre-Amplifier) effect==. The need to build a Booster arose from our use of Piezo Microphones, which capture physical vibrations but typically produce very low signals. To address this, we built a pre-amp circuit based on a clone of the Super Hard-On by Z.Vex guitar pedal, available online. We also reused and reinvented the toy's original case and LEDs.
 
 :   ??? abstract "References"
@@ -75,12 +75,12 @@ For instance, we got a very deep and echoing sound by using the soldering iron s
 
 ==RORSCHACH==
 
-:   ![](../JALEO_Rorschach.JPG){: .image-45-size-left}
+:   ![](<project images/JALEO_Rorschach.JPG>){: .image-45-size-left}
 :   Rorschach was literally a "SpiderMan Infrared Toy Gun". After disassembling it and experimenting with its sounds, we decided to amplify it through a Jack Output. We also found out the the motor used for the vibration effect of the toy was giving an interesting sound if amplified by a Piezo Microphone.
 
 ==OSCILLOSCOPE==
 
-:   ![](../JALEO_Oscilloscpe.JPG){: .image-45-size-left}
+:   ![](<project images/JALEO_Oscilloscpe.JPG>){: .image-45-size-left}
 :   Fascinated by the idea of visualizing our sounds in real-time, we looked for a way to build our own oscilloscope. Through various tutorials, we discovered that it was possible to convert old CRT screens into analog oscilloscopes.
 
 :   For doing this, we decided to repurpose the old intercom used by Minnie in the Machine Paradox Seminar during the 1st Term: we added a jack input to receive the sound signal and reinvented the interface by reusing other discarded materials such as old components from a discarded 3D printer and metal structures from power supplies and computers.
@@ -99,7 +99,7 @@ The taxi light also activates when a certain threshold is exceeded.
 
 ==GLITCHING VIDEO THROUGH RCA VIDEO TXRX ON DISASSEMBLED MONITORS==
 
-:   We kindly got gifted a RCA Video Transmitter and Receiver, which basically act as a primitive Bluetooth Device: they uses two antennas to send and receive the video signal from a source and display it into another. 
+:   We kindly got gifted by [Charity](https://somanyprojects.com/) and [Ricard](https://hackingbynight.wordpress.com/) a RCA Video Transmitter and Receiver, which basically act as a primitive Bluetooth Device: they uses two antennas to send and receive the video signal from a source and display it into another. 
 
 :   We used this instrument to display our live performance live recorded from a security camera into two disassembled monitors, while glitching the video in real-time by phisically moving and twisting the antennas. 
 We wanted to empahsize the possibility of glitching in analog instruments, usually more accessible and also driven by a hands-on process.
@@ -117,7 +117,7 @@ We wanted to empahsize the possibility of glitching in analog instruments, usual
     JALEO has been officially presented during the event Alquimia in SSuave3000, on the 12-06-24.
     This event has been organized by part of the MDEFest 2024, the collective presentation of all the projects developed by this year's Master in Design for Emergent Futures Programme.
 
-: ![](../){: .image-45-size-left}
+:   ![](<project images/JALEO_Alquimia.png>){: .image-45-size-left}
 
 !!! danger ""
     ### **Concept**
