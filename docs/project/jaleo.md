@@ -70,6 +70,7 @@ It is a playground in which the Piezo Microphone can amplify different materials
 For instance, we got a very deep and echoing sound by using the soldering iron structure as a spring and placing the microphone directly on it.
 
 ==RORSCHACH==
+:   Rorschach was literally a "SpiderMan Infrared Toy Gun". After disassembling it and experimenting with its sounds, we decided to amplify it through a Jack Output. We also found out the the motor used for the vibration effect of the toy was giving an interesting sound if amplified by a Piezo Microphone.
 
 ==OSCILLOSCOPE==
 
@@ -82,9 +83,9 @@ For instance, we got a very deep and echoing sound by using the soldering iron s
 
 ==AUDIO REACTIVE THERMAL PRINTER AND TAXI LIGHT==
 
-:   We had a thermal printer available in class and an unused Taxi Light kindly gifted by our taxista de confianza, so we immediately thought: why not making those devices audio reactive? 
+:   We had a thermal printer available in class and an unused Taxi Light kindly gifted by our taxista de confianza, so we immediately thought: ==why not making those devices audio reactive?== 
 
-:   Compared to other parts of the project, this phase involved the most interaction with digital tools, particularly software like Pure Data and the Arduino IDE. However, our main focus remained on maintaining a physical element as much as possible. This is why our thermal printer was set to print the intensity of the soundwave in real-time.
+:   Compared to other parts of the project, this phase involved the most interaction with digital tools, particularly software like Pure Data and the Arduino IDE. However, ==our main focus remained on maintaining a physical and analog element as much as possible==. This is why our thermal printer was set to print the intensity of the soundwave in real-time. 
 The taxi light also activates when a certain threshold is exceeded.
 
 :   You can take a look of our documentatiion of the thermal printer printer project through [this link](https://niente010.github.io/MDEF_website/term2/DigitalPrototyping/#expressive-data).
