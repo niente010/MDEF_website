@@ -3,8 +3,6 @@ hide:
     - toc
 ---
 
-![](<project images/JALEO.png>){: .image-half-size-ctr }
-
 !!! info "**Team**"
      La Banda del Patio: Ana Lozano Martinez, Minnie Pangilinan, Nicolò Baldi
 
@@ -34,6 +32,8 @@ This vision also requires care and attention, creating a magical tension between
 !!! danger ""
 
 ## **People & Spaces**
+
+![](<project images/JALEO_People.jpg>)
 The project emerged from and thrived thanks to a ==vibrant group of people== who organically came together during our research. We started by connecting with ==sound experimenting communities and artists== in Barcelona: we visited their spaces and studios, attended their performances, jammed together, grabbed coffees, and simply shared our experiences.
 
 It was amazing to see how ==willing and open these individuals were to share their perspectives, stories, spaces, and knowledge with us==. 
@@ -68,9 +68,6 @@ You can find the full documentation of the making of Valentino through [this lin
 
 :   ![](<project images/JALEO_Airbooster.JPG>){: .image-45-size-left}
 :   The Airbooster is an airplane toy that we reassembled to host a ==Booster (Pre-Amplifier) effect==. The need to build a Booster arose from our use of Piezo Microphones, which capture physical vibrations but typically produce very low signals. To address this, we built a pre-amp circuit based on a clone of the Super Hard-On by Z.Vex guitar pedal, available online. We also reused and reinvented the toy's original case and LEDs.
-
-:   ??? abstract "References"
-        blablabla
 <div style="clear: both;"></div>
 
 ==EL MATADOR==
@@ -91,10 +88,7 @@ For instance, we got a very deep and echoing sound by using the soldering iron s
 :   ![](<project images/JALEO_Oscilloscope.JPG>){: .image-45-size-left}
 :   Fascinated by the idea of visualizing our sounds in real-time, we looked for a way to build our own oscilloscope. Through various tutorials, we discovered that it was possible to convert old CRT screens into analog oscilloscopes.
 
-:   For doing this, we decided to repurpose the old intercom used by Minnie in the Machine Paradox Seminar during the 1st Term: we added a jack input to receive the sound signal and reinvented the interface by reusing other discarded materials such as old components from a discarded 3D printer and metal structures from power supplies and computers.
-
-:   ??? abstract "References"
-        blablabla
+:   For doing this, we decided to repurpose the old intercom used by Minnie in the Machine Paradox Seminar: we added a jack input to receive the sound signal and reinvented the interface by reusing other discarded materials such as old components from a discarded 3D printer and metal structures from power supplies and computers.
 <div style="clear: both;"></div>
 
 ==AUDIO REACTIVE THERMAL PRINTER AND TAXI LIGHT==
@@ -170,3 +164,5 @@ Although the performance was mostly improvised, we strategically included and di
 Each instrument had its own role, mirroring its importance to us during the prototyping phase.
 
 !!! danger ""
+
+
