@@ -30,9 +30,9 @@ This ==unpredictability== is precisely why we are fascinated by this technique a
 This vision also requires care and attention, creating a magical tension between what the artifact could or could not become. 
 
 ## **People & Spaces**
-The project emerged from and thrived thanks to a vibrant group of people who organically came together during our research. We started by connecting with sound experimenting communities and artists in Barcelona: we visited their spaces and studios, attended their performances, jammed together, grabbed coffees, and simply shared our experiences.
+The project emerged from and thrived thanks to a ==vibrant group of people== who organically came together during our research. We started by connecting with ==sound experimenting communities and artists== in Barcelona: we visited their spaces and studios, attended their performances, jammed together, grabbed coffees, and simply shared our experiences.
 
-It was amazing to see how willing and open these individuals were to share their perspectives, stories, spaces, and knowledge with us. 
+It was amazing to see how ==willing and open these individuals were to share their perspectives, stories, spaces, and knowledge with us==. 
 The best part for me was that all these relationships developed very spontaneously, only driven by a shared passion for experimenting with soundscapes. Some connections even happened randomly, but eventually formed a solid group without which this project would never have been possible.
 
 All of these people were incredible inspirations, and some eventually actively collaborated in our project development and performance. 
@@ -46,12 +46,16 @@ We would truly love to share our appreciation to this people and their energy, k
 You can find the full documentation of the making of Valentino through [this link](https://github.com/niente010/Valentino).
 
 ==LA ROCA==
-La Roca was developed in collaboration with Anthuanet Falcon and Enric Aranda during the Workshop: Installació Sonora, organized by Mutan Monkey. The goal was to explore the concept of sound installations, a world I hadn't known existed before, and to focus on the immense potential of amplified primitive sounds. 
+: La Roca was developed in collaboration with Anthuanet Falcon and Enric Aranda during the ==Workshop: Installació Sonora==, organized by Mutan Monkey. The goal was to explore the concept of sound installations, a world I hadn't known existed before, and to focus on the ==immense potential of amplified primitive sounds==. 
 
-La Roca amplifies the sound of a motor hitting a rock at various speeds through a piezo microphone, creating a blend of metallic, industrial sounds with the natural reverb and texture of the rock.
+: La Roca amplifies the sound of a motor hitting a rock at various speeds through a piezo microphone, creating a blend of metallic, industrial sounds with the natural reverb and texture of the rock.
 
 ==AIRBOOSTER==
-The Airbooster is an airplay toy that we reassembled to host a Booster (Pre-Amplifier) effect. The need to build a Booster arose from our use of Piezo Microphones, which capture physical vibrations but typically produce very low signals. To address this, we built a pre-amp circuit based on a clone of the Super Hard-On by Z.Vex guitar pedal, available online. We also reused and reinvented the toy's original case and LEDs for this project.
+: The Airbooster is an airplane toy that we reassembled to host a ==Booster (Pre-Amplifier) effect==. The need to build a Booster arose from our use of Piezo Microphones, which capture physical vibrations but typically produce very low signals. To address this, we built a pre-amp circuit based on a clone of the Super Hard-On by Z.Vex guitar pedal, available online. We also reused and reinvented the toy's original case and LEDs.
+
+??? abstract "References"
+    blablabla
+
 
 ==EL MATADOR==
 
@@ -59,11 +63,18 @@ The Airbooster is an airplay toy that we reassembled to host a Booster (Pre-Ampl
 
 ==OSCILLOSCOPE==
 
-!! note "" 
+
+==AUDIO REACTIVE THERMAL PRINTER AND TAXI LIGHT==
+
+==DISASSEMBLED MONITORS & RCA VIDEO TXRX==
+
+==LILY==
+
+!!! danger "" 
 
 ## **Alquimia**
 
-!!! note "" 
+!!! danger "" 
     JALEO has been officially presented during the event Alquimia in SSuave3000, on the 12-06-24.
     This event has been organized by part of the MDEFest 2024, the collective presentation of all the projects developed by this year's Master in Design for Emergent Futures Programme.
 
