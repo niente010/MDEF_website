@@ -41,20 +41,23 @@ We would truly love to share our appreciation to this people and their energy, k
 ## **Sound and Visual Instruments**
 
 ==VALENTINO==
+
 : ![](../){: .image-45-size-left}
 : Valentino is our first accomplished instrument, an experiment that passed away and came back to life multiple times due to its fragility, but eventually turned into a powerful sound and beat-making instrument. 
 You can find the full documentation of the making of Valentino through [this link](https://github.com/niente010/Valentino).
 
 ==LA ROCA==
+
 : La Roca was developed in collaboration with Anthuanet Falcon and Enric Aranda during the ==Workshop: Installació Sonora==, organized by Mutan Monkey. The goal was to explore the concept of sound installations, a world I hadn't known existed before, and to focus on the ==immense potential of amplified primitive sounds==. 
 
 : La Roca amplifies the sound of a motor hitting a rock at various speeds through a piezo microphone, creating a blend of metallic, industrial sounds with the natural reverb and texture of the rock.
 
 ==AIRBOOSTER==
+
 : The Airbooster is an airplane toy that we reassembled to host a ==Booster (Pre-Amplifier) effect==. The need to build a Booster arose from our use of Piezo Microphones, which capture physical vibrations but typically produce very low signals. To address this, we built a pre-amp circuit based on a clone of the Super Hard-On by Z.Vex guitar pedal, available online. We also reused and reinvented the toy's original case and LEDs.
 
-??? abstract "References"
-    blablabla
+:   ??? abstract "References"
+        blablabla
 
 
 ==EL MATADOR==
@@ -63,7 +66,13 @@ You can find the full documentation of the making of Valentino through [this lin
 
 ==OSCILLOSCOPE==
 
+:   Fascinated by the idea of visualizing our sounds in real-time, we looked for a way to build our own oscilloscope. Through various tutorials, we discovered that it was possible to convert old CRT screens into analog oscilloscopes.
 
+:   For doing this, we decided to repurpose the old intercom used by Minnie in the Machine Paradox Seminar during the 1st Term: we added a jack input to receive the sound signal and reinvented the interface by reusing other discarded materials such as old components from a discarded 3D printer and metal structures from power supplies and computers.
+
+:   ??? abstract "References"
+        blablabla
+        
 ==AUDIO REACTIVE THERMAL PRINTER AND TAXI LIGHT==
 
 ==DISASSEMBLED MONITORS & RCA VIDEO TXRX==
