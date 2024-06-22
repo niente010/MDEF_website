@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# **JALEO**
+![](<project images/JALEO.png>){: .image-half-size-ctr }
 
 !!! info "**Team**"
      La Banda del Patio: Ana Lozano Martinez, Minnie Pangilinan, Nicolò Baldi
@@ -19,6 +19,8 @@ hide:
 </iframe>
 
 ## **Introduction: Circuit Bending**
+
+![](<project images/JALEO_Circuit Bending.jpg>)
 
 JALEO is a research on Circuit Bending, the act of modifying existing, often discarded, electronics to give them new life. 
 
@@ -123,9 +125,9 @@ We wanted to empahsize the possibility of glitching in analog instruments, usual
 
 ## **Alquimia**
 
-!!! danger "" 
-    JALEO has been officially presented during the event Alquimia in SSuave3000, on the 12-06-24.
-    This event has been organized by part of the MDEFest 2024, the collective presentation of all the projects developed by this year's Master in Design for Emergent Futures Programme.
+JALEO has been officially presented during the event Alquimia in SSuave3000, on the 12-06-24.
+This event has been organized by part of the MDEFest 2024, the collective presentation of all the projects developed by this year's Master in Design for Emergent Futures Programme.
+
 
 :   ![](<project images/JALEO_Alquimia.png>){: .image-45-size-left}
 
