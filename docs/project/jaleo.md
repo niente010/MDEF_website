@@ -46,18 +46,22 @@ We would truly love to share our appreciation to this people and their energy, k
 
 ==VALENTINO==
 
-:   ![](../){: .image-45-size-left}
+:   ![](../JALEO_Valentino.JPG){: .image-45-size-left}
 :   Valentino is our first accomplished instrument, an experiment that passed away and came back to life multiple times due to its fragility, but eventually turned into a powerful sound and beat-making instrument. 
 You can find the full documentation of the making of Valentino through [this link](https://github.com/niente010/Valentino).
 
+==CASIO GLITCHED TOY KEYBOARD==
+
 ==LA ROCA==
 
+:   ![](../JALEO_La Roca.JPG){: .image-45-size-left}
 :   La Roca was developed in collaboration with Anthuanet Falcon and Enric Aranda during the ==Workshop: Installació Sonora==, organized by Mutan Monkey. The goal was to explore the concept of sound installations, a world I hadn't known existed before, and to focus on the ==immense potential of amplified primitive sounds==. 
 
 :   La Roca amplifies the sound of a motor hitting a rock at various speeds through a piezo microphone, creating a blend of metallic, industrial sounds with the natural reverb and texture of the rock.
 
 ==AIRBOOSTER==
 
+:   ![](../JALEO_Airbooster.JPG){: .image-45-size-left}
 :   The Airbooster is an airplane toy that we reassembled to host a ==Booster (Pre-Amplifier) effect==. The need to build a Booster arose from our use of Piezo Microphones, which capture physical vibrations but typically produce very low signals. To address this, we built a pre-amp circuit based on a clone of the Super Hard-On by Z.Vex guitar pedal, available online. We also reused and reinvented the toy's original case and LEDs.
 
 :   ??? abstract "References"
@@ -70,10 +74,13 @@ It is a playground in which the Piezo Microphone can amplify different materials
 For instance, we got a very deep and echoing sound by using the soldering iron structure as a spring and placing the microphone directly on it.
 
 ==RORSCHACH==
+
+:   ![](../JALEO_Rorschach.JPG){: .image-45-size-left}
 :   Rorschach was literally a "SpiderMan Infrared Toy Gun". After disassembling it and experimenting with its sounds, we decided to amplify it through a Jack Output. We also found out the the motor used for the vibration effect of the toy was giving an interesting sound if amplified by a Piezo Microphone.
 
 ==OSCILLOSCOPE==
 
+:   ![](../JALEO_Oscilloscpe.JPG){: .image-45-size-left}
 :   Fascinated by the idea of visualizing our sounds in real-time, we looked for a way to build our own oscilloscope. Through various tutorials, we discovered that it was possible to convert old CRT screens into analog oscilloscopes.
 
 :   For doing this, we decided to repurpose the old intercom used by Minnie in the Machine Paradox Seminar during the 1st Term: we added a jack input to receive the sound signal and reinvented the interface by reusing other discarded materials such as old components from a discarded 3D printer and metal structures from power supplies and computers.
@@ -90,9 +97,17 @@ The taxi light also activates when a certain threshold is exceeded.
 
 :   You can take a look of our documentatiion of the thermal printer printer project through [this link](https://niente010.github.io/MDEF_website/term2/DigitalPrototyping/#expressive-data).
 
-==GLITCHING VIDEO THROUGH DISASSEMBLED MONITORS & RCA VIDEO TXRX==
+==GLITCHING VIDEO THROUGH RCA VIDEO TXRX ON DISASSEMBLED MONITORS==
+
+:   We kindly got gifted a RCA Video Transmitter and Receiver, which basically act as a primitive Bluetooth Device: they uses two antennas to send and receive the video signal from a source and display it into another. 
+
+:   We used this instrument to display our live performance live recorded from a security camera into two disassembled monitors, while glitching the video in real-time by phisically moving and twisting the antennas. 
+We wanted to empahsize the possibility of glitching in analog instruments, usually more accessible and also driven by a hands-on process.
 
 ==LILY==
+
+:   Lily is a cyborg doll created by Clara Teresa, born by the idea of combining toys with E-Waste. 
+    The head has been 3D printed in resin and combined with an assembly of metal and electronics components.
 
 !!! danger "" 
 
