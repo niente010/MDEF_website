@@ -138,10 +138,11 @@ In this project, we designed and prototyped a ==custom spinning table== using th
 This table features a spinning edge and bearings for smooth manual rotation, doubling as a manual pottery wheel.
 
 **Workflow:**
-1. **Material:** Plywood - 2400mm x 1200mm - 20mm offset for screw placement.
-2. **File Setup & RhinoCam::** Set up the design file, define the origin, and use RhinoCam to prepare for machining.
-3. **Engraving & Pocketing:** Select objects for engraving, set tool parameters, and define cut patterns and depths.
-4. **Machining & Assembly: E**xecute the g-code, and assemble the machined parts.
+
+     1. **Material:** Plywood - 2400mm x 1200mm - 20mm offset for screw placement.
+     2. **File Setup & RhinoCam:** Set up the design file, define the origin, and use RhinoCam to prepare for machining.
+     3. **Engraving & Pocketing:** Select objects for engraving, set tool parameters, and define cut patterns and depths.
+     4. **Machining & Assembly: E**xecute the g-code, and assemble the machined parts.
 
 !!! note "" 
 
